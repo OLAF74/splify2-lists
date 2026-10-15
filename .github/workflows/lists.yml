@@ -11,14 +11,14 @@ on:
     # 03:17 UTC. Не полночь: в полночь начинают сборку все, и общие раннеры ждут очереди.
     - cron: '17 3 * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
-    # Правка своего списка или источника — повод пересобрать сразу, а не ждать ночи.
-    paths:
-      - 'lists/**'
-      - 'sources.txt'
-      - 'build.py'
-      - '.github/workflows/lists.yml'
+#  push:
+#    branches: [main]
+#    # Правка своего списка или источника — повод пересобрать сразу, а не ждать ночи.
+#    paths:
+#      - 'lists/**'
+#      - 'sources.txt'
+#      - 'build.py'
+#      - '.github/workflows/lists.yml'
 
 permissions:
   contents: write
@@ -32,6 +32,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5.5.0
+        with:
+          go-version: '1.22'
+          cache-dependency-path: scripts/go.sum
+
+      - name: Build
+        run: cd scripts && go build -o /tmp/geo-aggregator .
+
+      - name: Run
+        env:
+          GEO_REPO: ${{ github.repository }}
+          GEO_BRANCH: ${{ github.ref_name }}
+        run: /tmp/geo-aggregator
 
       - name: Собрать lists.json
         env:
