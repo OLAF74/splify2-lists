@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-15_03-24",
-  "generated_at": "2026-10-15T03:24:32Z",
+  "version": "2026-10-16_08-06",
+  "generated_at": "2026-10-16T08:06:21Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -21,14 +21,14 @@
       "id": "ae-all",
       "name_ru": "ae (Домены + IP)",
       "file": "ae-all.lst",
-      "count": 4545,
+      "count": 4614,
       "default_on": false
     },
     {
       "id": "ae-ip",
       "name_ru": "ae (IP)",
       "file": "ae-ip.lst",
-      "count": 4545,
+      "count": 4614,
       "default_on": false
     },
     {
@@ -49,14 +49,14 @@
       "id": "af-all",
       "name_ru": "af (Домены + IP)",
       "file": "af-all.lst",
-      "count": 336,
+      "count": 339,
       "default_on": false
     },
     {
       "id": "af-ip",
       "name_ru": "af (IP)",
       "file": "af-ip.lst",
-      "count": 336,
+      "count": 339,
       "default_on": false
     },
     {
@@ -77,14 +77,14 @@
       "id": "ai-all",
       "name_ru": "ai (Домены + IP)",
       "file": "ai-all.lst",
-      "count": 105,
+      "count": 106,
       "default_on": false
     },
     {
       "id": "ai-ip",
       "name_ru": "ai (IP)",
       "file": "ai-ip.lst",
-      "count": 105,
+      "count": 106,
       "default_on": false
     },
     {
@@ -105,42 +105,42 @@
       "id": "al-all",
       "name_ru": "al (Домены + IP)",
       "file": "al-all.lst",
-      "count": 600,
+      "count": 605,
       "default_on": false
     },
     {
       "id": "al-ip",
       "name_ru": "al (IP)",
       "file": "al-ip.lst",
-      "count": 600,
+      "count": 605,
       "default_on": false
     },
     {
       "id": "am-all",
       "name_ru": "am (Домены + IP)",
       "file": "am-all.lst",
-      "count": 445,
+      "count": 443,
       "default_on": false
     },
     {
       "id": "am-ip",
       "name_ru": "am (IP)",
       "file": "am-ip.lst",
-      "count": 445,
+      "count": 443,
       "default_on": false
     },
     {
       "id": "amazon-all",
       "name_ru": "amazon (Домены + IP)",
       "file": "amazon-all.lst",
-      "count": 1742,
+      "count": 1744,
       "default_on": false
     },
     {
       "id": "amazon-ip",
       "name_ru": "amazon (IP)",
       "file": "amazon-ip.lst",
-      "count": 1742,
+      "count": 1744,
       "default_on": false
     },
     {
@@ -161,42 +161,42 @@
       "id": "antifilter-all",
       "name_ru": "antifilter (Домены + IP)",
       "file": "antifilter-all.lst",
-      "count": 18398,
+      "count": 18354,
       "default_on": false
     },
     {
       "id": "antifilter-community-all",
       "name_ru": "antifilter-community (Домены + IP)",
       "file": "antifilter-community-all.lst",
-      "count": 912,
+      "count": 905,
       "default_on": false
     },
     {
       "id": "antifilter-community-ip",
       "name_ru": "antifilter-community (IP)",
       "file": "antifilter-community-ip.lst",
-      "count": 912,
+      "count": 905,
       "default_on": false
     },
     {
       "id": "antifilter-ip",
       "name_ru": "antifilter (IP)",
       "file": "antifilter-ip.lst",
-      "count": 18398,
+      "count": 18354,
       "default_on": false
     },
     {
       "id": "ao-all",
       "name_ru": "ao (Домены + IP)",
       "file": "ao-all.lst",
-      "count": 541,
+      "count": 544,
       "default_on": false
     },
     {
       "id": "ao-ip",
       "name_ru": "ao (IP)",
       "file": "ao-ip.lst",
-      "count": 541,
+      "count": 544,
       "default_on": false
     },
     {
@@ -259,28 +259,28 @@
       "id": "at-all",
       "name_ru": "at (Домены + IP)",
       "file": "at-all.lst",
-      "count": 6074,
+      "count": 6089,
       "default_on": false
     },
     {
       "id": "at-ip",
       "name_ru": "at (IP)",
       "file": "at-ip.lst",
-      "count": 6074,
+      "count": 6089,
       "default_on": false
     },
     {
       "id": "au-all",
       "name_ru": "au (Домены + IP)",
       "file": "au-all.lst",
-      "count": 17665,
+      "count": 17688,
       "default_on": false
     },
     {
       "id": "au-ip",
       "name_ru": "au (IP)",
       "file": "au-ip.lst",
-      "count": 17665,
+      "count": 17688,
       "default_on": false
     },
     {
@@ -315,84 +315,84 @@
       "id": "az-all",
       "name_ru": "az (Домены + IP)",
       "file": "az-all.lst",
-      "count": 464,
+      "count": 468,
       "default_on": false
     },
     {
       "id": "az-ip",
       "name_ru": "az (IP)",
       "file": "az-ip.lst",
-      "count": 464,
+      "count": 468,
       "default_on": false
     },
     {
       "id": "azure-all",
       "name_ru": "azure (Домены + IP)",
       "file": "azure-all.lst",
-      "count": 1089,
+      "count": 1779,
       "default_on": false
     },
     {
       "id": "azure-ip",
       "name_ru": "azure (IP)",
       "file": "azure-ip.lst",
-      "count": 1089,
+      "count": 1779,
       "default_on": false
     },
     {
       "id": "ba-all",
       "name_ru": "ba (Домены + IP)",
       "file": "ba-all.lst",
-      "count": 474,
+      "count": 477,
       "default_on": false
     },
     {
       "id": "ba-ip",
       "name_ru": "ba (IP)",
       "file": "ba-ip.lst",
-      "count": 474,
+      "count": 477,
       "default_on": false
     },
     {
       "id": "bb-all",
       "name_ru": "bb (Домены + IP)",
       "file": "bb-all.lst",
-      "count": 258,
+      "count": 257,
       "default_on": false
     },
     {
       "id": "bb-ip",
       "name_ru": "bb (IP)",
       "file": "bb-ip.lst",
-      "count": 258,
+      "count": 257,
       "default_on": false
     },
     {
       "id": "bd-all",
       "name_ru": "bd (Домены + IP)",
       "file": "bd-all.lst",
-      "count": 2975,
+      "count": 3009,
       "default_on": false
     },
     {
       "id": "bd-ip",
       "name_ru": "bd (IP)",
       "file": "bd-ip.lst",
-      "count": 2975,
+      "count": 3009,
       "default_on": false
     },
     {
       "id": "be-all",
       "name_ru": "be (Домены + IP)",
       "file": "be-all.lst",
-      "count": 8631,
+      "count": 8700,
       "default_on": false
     },
     {
       "id": "be-ip",
       "name_ru": "be (IP)",
       "file": "be-ip.lst",
-      "count": 8631,
+      "count": 8700,
       "default_on": false
     },
     {
@@ -413,28 +413,28 @@
       "id": "bf-all",
       "name_ru": "bf (Домены + IP)",
       "file": "bf-all.lst",
-      "count": 168,
+      "count": 171,
       "default_on": false
     },
     {
       "id": "bf-ip",
       "name_ru": "bf (IP)",
       "file": "bf-ip.lst",
-      "count": 168,
+      "count": 171,
       "default_on": false
     },
     {
       "id": "bg-all",
       "name_ru": "bg (Домены + IP)",
       "file": "bg-all.lst",
-      "count": 3045,
+      "count": 3032,
       "default_on": false
     },
     {
       "id": "bg-ip",
       "name_ru": "bg (IP)",
       "file": "bg-ip.lst",
-      "count": 3045,
+      "count": 3032,
       "default_on": false
     },
     {
@@ -455,14 +455,14 @@
       "id": "bi-all",
       "name_ru": "bi (Домены + IP)",
       "file": "bi-all.lst",
-      "count": 82,
+      "count": 83,
       "default_on": false
     },
     {
       "id": "bi-ip",
       "name_ru": "bi (IP)",
       "file": "bi-ip.lst",
-      "count": 82,
+      "count": 83,
       "default_on": false
     },
     {
@@ -525,28 +525,28 @@
       "id": "bn-all",
       "name_ru": "bn (Домены + IP)",
       "file": "bn-all.lst",
-      "count": 150,
+      "count": 152,
       "default_on": false
     },
     {
       "id": "bn-ip",
       "name_ru": "bn (IP)",
       "file": "bn-ip.lst",
-      "count": 150,
+      "count": 152,
       "default_on": false
     },
     {
       "id": "bo-all",
       "name_ru": "bo (Домены + IP)",
       "file": "bo-all.lst",
-      "count": 510,
+      "count": 513,
       "default_on": false
     },
     {
       "id": "bo-ip",
       "name_ru": "bo (IP)",
       "file": "bo-ip.lst",
-      "count": 510,
+      "count": 513,
       "default_on": false
     },
     {
@@ -567,14 +567,14 @@
       "id": "br-all",
       "name_ru": "br (Домены + IP)",
       "file": "br-all.lst",
-      "count": 14940,
+      "count": 14979,
       "default_on": false
     },
     {
       "id": "br-ip",
       "name_ru": "br (IP)",
       "file": "br-ip.lst",
-      "count": 14940,
+      "count": 14979,
       "default_on": false
     },
     {
@@ -679,28 +679,28 @@
       "id": "bz-all",
       "name_ru": "bz (Домены + IP)",
       "file": "bz-all.lst",
-      "count": 251,
+      "count": 250,
       "default_on": false
     },
     {
       "id": "bz-ip",
       "name_ru": "bz (IP)",
       "file": "bz-ip.lst",
-      "count": 251,
+      "count": 250,
       "default_on": false
     },
     {
       "id": "ca-all",
       "name_ru": "ca (Домены + IP)",
       "file": "ca-all.lst",
-      "count": 48538,
+      "count": 48719,
       "default_on": false
     },
     {
       "id": "ca-ip",
       "name_ru": "ca (IP)",
       "file": "ca-ip.lst",
-      "count": 48538,
+      "count": 48719,
       "default_on": false
     },
     {
@@ -735,14 +735,14 @@
       "id": "cd-all",
       "name_ru": "cd (Домены + IP)",
       "file": "cd-all.lst",
-      "count": 314,
+      "count": 317,
       "default_on": false
     },
     {
       "id": "cd-ip",
       "name_ru": "cd (IP)",
       "file": "cd-ip.lst",
-      "count": 314,
+      "count": 317,
       "default_on": false
     },
     {
@@ -777,42 +777,42 @@
       "id": "cg-all",
       "name_ru": "cg (Домены + IP)",
       "file": "cg-all.lst",
-      "count": 132,
+      "count": 133,
       "default_on": false
     },
     {
       "id": "cg-ip",
       "name_ru": "cg (IP)",
       "file": "cg-ip.lst",
-      "count": 132,
+      "count": 133,
       "default_on": false
     },
     {
       "id": "ch-all",
       "name_ru": "ch (Домены + IP)",
       "file": "ch-all.lst",
-      "count": 8652,
+      "count": 8667,
       "default_on": false
     },
     {
       "id": "ch-ip",
       "name_ru": "ch (IP)",
       "file": "ch-ip.lst",
-      "count": 8652,
+      "count": 8667,
       "default_on": false
     },
     {
       "id": "ci-all",
       "name_ru": "ci (Домены + IP)",
       "file": "ci-all.lst",
-      "count": 401,
+      "count": 404,
       "default_on": false
     },
     {
       "id": "ci-ip",
       "name_ru": "ci (IP)",
       "file": "ci-ip.lst",
-      "count": 401,
+      "count": 404,
       "default_on": false
     },
     {
@@ -833,98 +833,98 @@
       "id": "cl-all",
       "name_ru": "cl (Домены + IP)",
       "file": "cl-all.lst",
-      "count": 2824,
+      "count": 2829,
       "default_on": false
     },
     {
       "id": "cl-ip",
       "name_ru": "cl (IP)",
       "file": "cl-ip.lst",
-      "count": 2824,
+      "count": 2829,
       "default_on": false
     },
     {
       "id": "cloudflare-all",
       "name_ru": "cloudflare (Домены + IP)",
       "file": "cloudflare-all.lst",
-      "count": 810,
+      "count": 809,
       "default_on": false
     },
     {
       "id": "cloudflare-ip",
       "name_ru": "cloudflare (IP)",
       "file": "cloudflare-ip.lst",
-      "count": 810,
+      "count": 809,
       "default_on": false
     },
     {
       "id": "cloudfront-all",
       "name_ru": "cloudfront (Домены + IP)",
       "file": "cloudfront-all.lst",
-      "count": 180,
+      "count": 182,
       "default_on": false
     },
     {
       "id": "cloudfront-ip",
       "name_ru": "cloudfront (IP)",
       "file": "cloudfront-ip.lst",
-      "count": 180,
+      "count": 182,
       "default_on": false
     },
     {
       "id": "cm-all",
       "name_ru": "cm (Домены + IP)",
       "file": "cm-all.lst",
-      "count": 246,
+      "count": 250,
       "default_on": false
     },
     {
       "id": "cm-ip",
       "name_ru": "cm (IP)",
       "file": "cm-ip.lst",
-      "count": 246,
+      "count": 250,
       "default_on": false
     },
     {
       "id": "co-all",
       "name_ru": "co (Домены + IP)",
       "file": "co-all.lst",
-      "count": 3730,
+      "count": 3745,
       "default_on": false
     },
     {
       "id": "co-ip",
       "name_ru": "co (IP)",
       "file": "co-ip.lst",
-      "count": 3730,
+      "count": 3745,
       "default_on": false
     },
     {
       "id": "cogent-all",
       "name_ru": "cogent (Домены + IP)",
       "file": "cogent-all.lst",
-      "count": 773,
+      "count": 759,
       "default_on": false
     },
     {
       "id": "cogent-ip",
       "name_ru": "cogent (IP)",
       "file": "cogent-ip.lst",
-      "count": 773,
+      "count": 759,
       "default_on": false
     },
     {
       "id": "constant-all",
       "name_ru": "constant (Домены + IP)",
       "file": "constant-all.lst",
-      "count": 829,
+      "count": 830,
       "default_on": false
     },
     {
       "id": "constant-ip",
       "name_ru": "constant (IP)",
       "file": "constant-ip.lst",
-      "count": 829,
+      "count": 830,
       "default_on": false
     },
     {
@@ -945,14 +945,14 @@
       "id": "cr-all",
       "name_ru": "cr (Домены + IP)",
       "file": "cr-all.lst",
-      "count": 851,
+      "count": 854,
       "default_on": false
     },
     {
       "id": "cr-ip",
       "name_ru": "cr (IP)",
       "file": "cr-ip.lst",
-      "count": 851,
+      "count": 854,
       "default_on": false
     },
     {
@@ -1015,14 +1015,14 @@
       "id": "cy-all",
       "name_ru": "cy (Домены + IP)",
       "file": "cy-all.lst",
-      "count": 1304,
+      "count": 1301,
       "default_on": false
     },
     {
       "id": "cy-ip",
       "name_ru": "cy (IP)",
       "file": "cy-ip.lst",
-      "count": 1304,
+      "count": 1301,
       "default_on": false
     },
     {
@@ -1043,14 +1043,14 @@
       "id": "datacamp-all",
       "name_ru": "datacamp (Домены + IP)",
       "file": "datacamp-all.lst",
-      "count": 2787,
+      "count": 2829,
       "default_on": false
     },
     {
       "id": "datacamp-ip",
       "name_ru": "datacamp (IP)",
       "file": "datacamp-ip.lst",
-      "count": 2787,
+      "count": 2829,
       "default_on": false
     },
     {
@@ -1071,14 +1071,14 @@
       "id": "de-all",
       "name_ru": "de (Домены + IP)",
       "file": "de-all.lst",
-      "count": 46332,
+      "count": 46495,
       "default_on": false
     },
     {
       "id": "de-ip",
       "name_ru": "de (IP)",
       "file": "de-ip.lst",
-      "count": 46332,
+      "count": 46495,
       "default_on": false
     },
     {
@@ -1127,14 +1127,14 @@
       "id": "dk-all",
       "name_ru": "dk (Домены + IP)",
       "file": "dk-all.lst",
-      "count": 5163,
+      "count": 5143,
       "default_on": false
     },
     {
       "id": "dk-ip",
       "name_ru": "dk (IP)",
       "file": "dk-ip.lst",
-      "count": 5163,
+      "count": 5143,
       "default_on": false
     },
     {
@@ -1155,70 +1155,70 @@
       "id": "do-all",
       "name_ru": "do (Домены + IP)",
       "file": "do-all.lst",
-      "count": 917,
+      "count": 938,
       "default_on": false
     },
     {
       "id": "do-ip",
       "name_ru": "do (IP)",
       "file": "do-ip.lst",
-      "count": 917,
+      "count": 938,
       "default_on": false
     },
     {
       "id": "dz-all",
       "name_ru": "dz (Домены + IP)",
       "file": "dz-all.lst",
-      "count": 294,
+      "count": 297,
       "default_on": false
     },
     {
       "id": "dz-ip",
       "name_ru": "dz (IP)",
       "file": "dz-ip.lst",
-      "count": 294,
+      "count": 297,
       "default_on": false
     },
     {
       "id": "ec-all",
       "name_ru": "ec (Домены + IP)",
       "file": "ec-all.lst",
-      "count": 1232,
+      "count": 1234,
       "default_on": false
     },
     {
       "id": "ec-ip",
       "name_ru": "ec (IP)",
       "file": "ec-ip.lst",
-      "count": 1232,
+      "count": 1234,
       "default_on": false
     },
     {
       "id": "ee-all",
       "name_ru": "ee (Домены + IP)",
       "file": "ee-all.lst",
-      "count": 1544,
+      "count": 1541,
       "default_on": false
     },
     {
       "id": "ee-ip",
       "name_ru": "ee (IP)",
       "file": "ee-ip.lst",
-      "count": 1544,
+      "count": 1541,
       "default_on": false
     },
     {
       "id": "eg-all",
       "name_ru": "eg (Домены + IP)",
       "file": "eg-all.lst",
-      "count": 1042,
+      "count": 1047,
       "default_on": false
     },
     {
       "id": "eg-ip",
       "name_ru": "eg (IP)",
       "file": "eg-ip.lst",
-      "count": 1042,
+      "count": 1047,
       "default_on": false
     },
     {
@@ -1281,28 +1281,28 @@
       "id": "es-all",
       "name_ru": "es (Домены + IP)",
       "file": "es-all.lst",
-      "count": 16504,
+      "count": 16532,
       "default_on": false
     },
     {
       "id": "es-ip",
       "name_ru": "es (IP)",
       "file": "es-ip.lst",
-      "count": 16504,
+      "count": 16532,
       "default_on": false
     },
     {
       "id": "et-all",
       "name_ru": "et (Домены + IP)",
       "file": "et-all.lst",
-      "count": 135,
+      "count": 138,
       "default_on": false
     },
     {
       "id": "et-ip",
       "name_ru": "et (IP)",
       "file": "et-ip.lst",
-      "count": 135,
+      "count": 138,
       "default_on": false
     },
     {
@@ -1323,28 +1323,28 @@
       "id": "fastly-all",
       "name_ru": "fastly (Домены + IP)",
       "file": "fastly-all.lst",
-      "count": 51,
+      "count": 52,
       "default_on": false
     },
     {
       "id": "fastly-ip",
       "name_ru": "fastly (IP)",
       "file": "fastly-ip.lst",
-      "count": 51,
+      "count": 52,
       "default_on": false
     },
     {
       "id": "fi-all",
       "name_ru": "fi (Домены + IP)",
       "file": "fi-all.lst",
-      "count": 5676,
+      "count": 5704,
       "default_on": false
     },
     {
       "id": "fi-ip",
       "name_ru": "fi (IP)",
       "file": "fi-ip.lst",
-      "count": 5676,
+      "count": 5704,
       "default_on": false
     },
     {
@@ -1407,14 +1407,14 @@
       "id": "fr-all",
       "name_ru": "fr (Домены + IP)",
       "file": "fr-all.lst",
-      "count": 49179,
+      "count": 49193,
       "default_on": false
     },
     {
       "id": "fr-ip",
       "name_ru": "fr (IP)",
       "file": "fr-ip.lst",
-      "count": 49179,
+      "count": 49193,
       "default_on": false
     },
     {
@@ -1435,14 +1435,14 @@
       "id": "gb-all",
       "name_ru": "gb (Домены + IP)",
       "file": "gb-all.lst",
-      "count": 62687,
+      "count": 62917,
       "default_on": false
     },
     {
       "id": "gb-ip",
       "name_ru": "gb (IP)",
       "file": "gb-ip.lst",
-      "count": 62687,
+      "count": 62917,
       "default_on": false
     },
     {
@@ -1491,42 +1491,42 @@
       "id": "gf-all",
       "name_ru": "gf (Домены + IP)",
       "file": "gf-all.lst",
-      "count": 173,
+      "count": 174,
       "default_on": false
     },
     {
       "id": "gf-ip",
       "name_ru": "gf (IP)",
       "file": "gf-ip.lst",
-      "count": 173,
+      "count": 174,
       "default_on": false
     },
     {
       "id": "gg-all",
       "name_ru": "gg (Домены + IP)",
       "file": "gg-all.lst",
-      "count": 198,
+      "count": 199,
       "default_on": false
     },
     {
       "id": "gg-ip",
       "name_ru": "gg (IP)",
       "file": "gg-ip.lst",
-      "count": 198,
+      "count": 199,
       "default_on": false
     },
     {
       "id": "gh-all",
       "name_ru": "gh (Домены + IP)",
       "file": "gh-all.lst",
-      "count": 447,
+      "count": 450,
       "default_on": false
     },
     {
       "id": "gh-ip",
       "name_ru": "gh (IP)",
       "file": "gh-ip.lst",
-      "count": 447,
+      "count": 450,
       "default_on": false
     },
     {
@@ -1547,14 +1547,14 @@
       "id": "github-all",
       "name_ru": "github (Домены + IP)",
       "file": "github-all.lst",
-      "count": 3887,
+      "count": 3889,
       "default_on": false
     },
     {
       "id": "github-ip",
       "name_ru": "github (IP)",
       "file": "github-ip.lst",
-      "count": 3887,
+      "count": 3889,
       "default_on": false
     },
     {
@@ -1617,28 +1617,28 @@
       "id": "google-all",
       "name_ru": "google (Домены + IP)",
       "file": "google-all.lst",
-      "count": 3054,
+      "count": 3033,
       "default_on": false
     },
     {
       "id": "google-ip",
       "name_ru": "google (IP)",
       "file": "google-ip.lst",
-      "count": 3054,
+      "count": 3033,
       "default_on": false
     },
     {
       "id": "gp-all",
       "name_ru": "gp (Домены + IP)",
       "file": "gp-all.lst",
-      "count": 344,
+      "count": 345,
       "default_on": false
     },
     {
       "id": "gp-ip",
       "name_ru": "gp (IP)",
       "file": "gp-ip.lst",
-      "count": 344,
+      "count": 345,
       "default_on": false
     },
     {
@@ -1659,14 +1659,14 @@
       "id": "gr-all",
       "name_ru": "gr (Домены + IP)",
       "file": "gr-all.lst",
-      "count": 1998,
+      "count": 2012,
       "default_on": false
     },
     {
       "id": "gr-ip",
       "name_ru": "gr (IP)",
       "file": "gr-ip.lst",
-      "count": 1998,
+      "count": 2012,
       "default_on": false
     },
     {
@@ -1687,14 +1687,14 @@
       "id": "gt-all",
       "name_ru": "gt (Домены + IP)",
       "file": "gt-all.lst",
-      "count": 837,
+      "count": 840,
       "default_on": false
     },
     {
       "id": "gt-ip",
       "name_ru": "gt (IP)",
       "file": "gt-ip.lst",
-      "count": 837,
+      "count": 840,
       "default_on": false
     },
     {
@@ -1715,14 +1715,14 @@
       "id": "gu-all",
       "name_ru": "gu (Домены + IP)",
       "file": "gu-all.lst",
-      "count": 275,
+      "count": 254,
       "default_on": false
     },
     {
       "id": "gu-ip",
       "name_ru": "gu (IP)",
       "file": "gu-ip.lst",
-      "count": 275,
+      "count": 254,
       "default_on": false
     },
     {
@@ -1771,14 +1771,14 @@
       "id": "hk-all",
       "name_ru": "hk (Домены + IP)",
       "file": "hk-all.lst",
-      "count": 17725,
+      "count": 17700,
       "default_on": false
     },
     {
       "id": "hk-ip",
       "name_ru": "hk (IP)",
       "file": "hk-ip.lst",
-      "count": 17725,
+      "count": 17700,
       "default_on": false
     },
     {
@@ -1799,126 +1799,126 @@
       "id": "hn-all",
       "name_ru": "hn (Домены + IP)",
       "file": "hn-all.lst",
-      "count": 700,
+      "count": 704,
       "default_on": false
     },
     {
       "id": "hn-ip",
       "name_ru": "hn (IP)",
       "file": "hn-ip.lst",
-      "count": 700,
+      "count": 704,
       "default_on": false
     },
     {
       "id": "hr-all",
       "name_ru": "hr (Домены + IP)",
       "file": "hr-all.lst",
-      "count": 1035,
+      "count": 1040,
       "default_on": false
     },
     {
       "id": "hr-ip",
       "name_ru": "hr (IP)",
       "file": "hr-ip.lst",
-      "count": 1035,
+      "count": 1040,
       "default_on": false
     },
     {
       "id": "ht-all",
       "name_ru": "ht (Домены + IP)",
       "file": "ht-all.lst",
-      "count": 118,
+      "count": 120,
       "default_on": false
     },
     {
       "id": "ht-ip",
       "name_ru": "ht (IP)",
       "file": "ht-ip.lst",
-      "count": 118,
+      "count": 120,
       "default_on": false
     },
     {
       "id": "hu-all",
       "name_ru": "hu (Домены + IP)",
       "file": "hu-all.lst",
-      "count": 2411,
+      "count": 2418,
       "default_on": false
     },
     {
       "id": "hu-ip",
       "name_ru": "hu (IP)",
       "file": "hu-ip.lst",
-      "count": 2411,
+      "count": 2418,
       "default_on": false
     },
     {
       "id": "id-all",
       "name_ru": "id (Домены + IP)",
       "file": "id-all.lst",
-      "count": 7660,
+      "count": 7656,
       "default_on": false
     },
     {
       "id": "id-ip",
       "name_ru": "id (IP)",
       "file": "id-ip.lst",
-      "count": 7660,
+      "count": 7656,
       "default_on": false
     },
     {
       "id": "ie-all",
       "name_ru": "ie (Домены + IP)",
       "file": "ie-all.lst",
-      "count": 7340,
+      "count": 7365,
       "default_on": false
     },
     {
       "id": "ie-ip",
       "name_ru": "ie (IP)",
       "file": "ie-ip.lst",
-      "count": 7340,
+      "count": 7365,
       "default_on": false
     },
     {
       "id": "il-all",
       "name_ru": "il (Домены + IP)",
       "file": "il-all.lst",
-      "count": 3621,
+      "count": 3705,
       "default_on": false
     },
     {
       "id": "il-ip",
       "name_ru": "il (IP)",
       "file": "il-ip.lst",
-      "count": 3621,
+      "count": 3705,
       "default_on": false
     },
     {
       "id": "im-all",
       "name_ru": "im (Домены + IP)",
       "file": "im-all.lst",
-      "count": 389,
+      "count": 390,
       "default_on": false
     },
     {
       "id": "im-ip",
       "name_ru": "im (IP)",
       "file": "im-ip.lst",
-      "count": 389,
+      "count": 390,
       "default_on": false
     },
     {
       "id": "in-all",
       "name_ru": "in (Домены + IP)",
       "file": "in-all.lst",
-      "count": 16565,
+      "count": 16590,
       "default_on": false
     },
     {
       "id": "in-ip",
       "name_ru": "in (IP)",
       "file": "in-ip.lst",
-      "count": 16565,
+      "count": 16590,
       "default_on": false
     },
     {
@@ -1939,154 +1939,154 @@
       "id": "iq-all",
       "name_ru": "iq (Домены + IP)",
       "file": "iq-all.lst",
-      "count": 852,
+      "count": 857,
       "default_on": false
     },
     {
       "id": "iq-ip",
       "name_ru": "iq (IP)",
       "file": "iq-ip.lst",
-      "count": 852,
+      "count": 857,
       "default_on": false
     },
     {
       "id": "ir-all",
       "name_ru": "ir (Домены + IP)",
       "file": "ir-all.lst",
-      "count": 2370,
+      "count": 2368,
       "default_on": false
     },
     {
       "id": "ir-ip",
       "name_ru": "ir (IP)",
       "file": "ir-ip.lst",
-      "count": 2370,
+      "count": 2368,
       "default_on": false
     },
     {
       "id": "is-all",
       "name_ru": "is (Домены + IP)",
       "file": "is-all.lst",
-      "count": 447,
+      "count": 453,
       "default_on": false
     },
     {
       "id": "is-ip",
       "name_ru": "is (IP)",
       "file": "is-ip.lst",
-      "count": 447,
+      "count": 453,
       "default_on": false
     },
     {
       "id": "it-all",
       "name_ru": "it (Домены + IP)",
       "file": "it-all.lst",
-      "count": 13054,
+      "count": 13066,
       "default_on": false
     },
     {
       "id": "it-ip",
       "name_ru": "it (IP)",
       "file": "it-ip.lst",
-      "count": 13054,
+      "count": 13066,
       "default_on": false
     },
     {
       "id": "je-all",
       "name_ru": "je (Домены + IP)",
       "file": "je-all.lst",
-      "count": 343,
+      "count": 345,
       "default_on": false
     },
     {
       "id": "je-ip",
       "name_ru": "je (IP)",
       "file": "je-ip.lst",
-      "count": 343,
+      "count": 345,
       "default_on": false
     },
     {
       "id": "jm-all",
       "name_ru": "jm (Домены + IP)",
       "file": "jm-all.lst",
-      "count": 379,
+      "count": 383,
       "default_on": false
     },
     {
       "id": "jm-ip",
       "name_ru": "jm (IP)",
       "file": "jm-ip.lst",
-      "count": 379,
+      "count": 383,
       "default_on": false
     },
     {
       "id": "jo-all",
       "name_ru": "jo (Домены + IP)",
       "file": "jo-all.lst",
-      "count": 508,
+      "count": 511,
       "default_on": false
     },
     {
       "id": "jo-ip",
       "name_ru": "jo (IP)",
       "file": "jo-ip.lst",
-      "count": 508,
+      "count": 511,
       "default_on": false
     },
     {
       "id": "jp-all",
       "name_ru": "jp (Домены + IP)",
       "file": "jp-all.lst",
-      "count": 27233,
+      "count": 27299,
       "default_on": false
     },
     {
       "id": "jp-ip",
       "name_ru": "jp (IP)",
       "file": "jp-ip.lst",
-      "count": 27233,
+      "count": 27299,
       "default_on": false
     },
     {
       "id": "ke-all",
       "name_ru": "ke (Домены + IP)",
       "file": "ke-all.lst",
-      "count": 1388,
+      "count": 1397,
       "default_on": false
     },
     {
       "id": "ke-ip",
       "name_ru": "ke (IP)",
       "file": "ke-ip.lst",
-      "count": 1388,
+      "count": 1397,
       "default_on": false
     },
     {
       "id": "kg-all",
       "name_ru": "kg (Домены + IP)",
       "file": "kg-all.lst",
-      "count": 292,
+      "count": 283,
       "default_on": false
     },
     {
       "id": "kg-ip",
       "name_ru": "kg (IP)",
       "file": "kg-ip.lst",
-      "count": 292,
+      "count": 283,
       "default_on": false
     },
     {
       "id": "kh-all",
       "name_ru": "kh (Домены + IP)",
       "file": "kh-all.lst",
-      "count": 707,
+      "count": 709,
       "default_on": false
     },
     {
       "id": "kh-ip",
       "name_ru": "kh (IP)",
       "file": "kh-ip.lst",
-      "count": 707,
+      "count": 709,
       "default_on": false
     },
     {
@@ -2121,14 +2121,14 @@
       "id": "kn-all",
       "name_ru": "kn (Домены + IP)",
       "file": "kn-all.lst",
-      "count": 131,
+      "count": 132,
       "default_on": false
     },
     {
       "id": "kn-ip",
       "name_ru": "kn (IP)",
       "file": "kn-ip.lst",
-      "count": 131,
+      "count": 132,
       "default_on": false
     },
     {
@@ -2149,28 +2149,28 @@
       "id": "kr-all",
       "name_ru": "kr (Домены + IP)",
       "file": "kr-all.lst",
-      "count": 5294,
+      "count": 5320,
       "default_on": false
     },
     {
       "id": "kr-ip",
       "name_ru": "kr (IP)",
       "file": "kr-ip.lst",
-      "count": 5294,
+      "count": 5320,
       "default_on": false
     },
     {
       "id": "kw-all",
       "name_ru": "kw (Домены + IP)",
       "file": "kw-all.lst",
-      "count": 572,
+      "count": 576,
       "default_on": false
     },
     {
       "id": "kw-ip",
       "name_ru": "kw (IP)",
       "file": "kw-ip.lst",
-      "count": 572,
+      "count": 576,
       "default_on": false
     },
     {
@@ -2191,28 +2191,28 @@
       "id": "kz-all",
       "name_ru": "kz (Домены + IP)",
       "file": "kz-all.lst",
-      "count": 1552,
+      "count": 1558,
       "default_on": false
     },
     {
       "id": "kz-ip",
       "name_ru": "kz (IP)",
       "file": "kz-ip.lst",
-      "count": 1552,
+      "count": 1558,
       "default_on": false
     },
     {
       "id": "la-all",
       "name_ru": "la (Домены + IP)",
       "file": "la-all.lst",
-      "count": 329,
+      "count": 328,
       "default_on": false
     },
     {
       "id": "la-ip",
       "name_ru": "la (IP)",
       "file": "la-ip.lst",
-      "count": 329,
+      "count": 328,
       "default_on": false
     },
     {
@@ -2247,28 +2247,28 @@
       "id": "li-all",
       "name_ru": "li (Домены + IP)",
       "file": "li-all.lst",
-      "count": 467,
+      "count": 472,
       "default_on": false
     },
     {
       "id": "li-ip",
       "name_ru": "li (IP)",
       "file": "li-ip.lst",
-      "count": 467,
+      "count": 472,
       "default_on": false
     },
     {
       "id": "lk-all",
       "name_ru": "lk (Домены + IP)",
       "file": "lk-all.lst",
-      "count": 366,
+      "count": 369,
       "default_on": false
     },
     {
       "id": "lk-ip",
       "name_ru": "lk (IP)",
       "file": "lk-ip.lst",
-      "count": 366,
+      "count": 369,
       "default_on": false
     },
     {
@@ -2317,98 +2317,98 @@
       "id": "lu-all",
       "name_ru": "lu (Домены + IP)",
       "file": "lu-all.lst",
-      "count": 2200,
+      "count": 2209,
       "default_on": false
     },
     {
       "id": "lu-ip",
       "name_ru": "lu (IP)",
       "file": "lu-ip.lst",
-      "count": 2200,
+      "count": 2209,
       "default_on": false
     },
     {
       "id": "lv-all",
       "name_ru": "lv (Домены + IP)",
       "file": "lv-all.lst",
-      "count": 1573,
+      "count": 1560,
       "default_on": false
     },
     {
       "id": "lv-ip",
       "name_ru": "lv (IP)",
       "file": "lv-ip.lst",
-      "count": 1573,
+      "count": 1560,
       "default_on": false
     },
     {
       "id": "ly-all",
       "name_ru": "ly (Домены + IP)",
       "file": "ly-all.lst",
-      "count": 176,
+      "count": 180,
       "default_on": false
     },
     {
       "id": "ly-ip",
       "name_ru": "ly (IP)",
       "file": "ly-ip.lst",
-      "count": 176,
+      "count": 180,
       "default_on": false
     },
     {
       "id": "ma-all",
       "name_ru": "ma (Домены + IP)",
       "file": "ma-all.lst",
-      "count": 662,
+      "count": 665,
       "default_on": false
     },
     {
       "id": "ma-ip",
       "name_ru": "ma (IP)",
       "file": "ma-ip.lst",
-      "count": 662,
+      "count": 665,
       "default_on": false
     },
     {
       "id": "mc-all",
       "name_ru": "mc (Домены + IP)",
       "file": "mc-all.lst",
-      "count": 323,
+      "count": 326,
       "default_on": false
     },
     {
       "id": "mc-ip",
       "name_ru": "mc (IP)",
       "file": "mc-ip.lst",
-      "count": 323,
+      "count": 326,
       "default_on": false
     },
     {
       "id": "md-all",
       "name_ru": "md (Домены + IP)",
       "file": "md-all.lst",
-      "count": 981,
+      "count": 972,
       "default_on": false
     },
     {
       "id": "md-ip",
       "name_ru": "md (IP)",
       "file": "md-ip.lst",
-      "count": 981,
+      "count": 972,
       "default_on": false
     },
     {
       "id": "me-all",
       "name_ru": "me (Домены + IP)",
       "file": "me-all.lst",
-      "count": 222,
+      "count": 227,
       "default_on": false
     },
     {
       "id": "me-ip",
       "name_ru": "me (IP)",
       "file": "me-ip.lst",
-      "count": 222,
+      "count": 227,
       "default_on": false
     },
     {
@@ -2457,28 +2457,28 @@
       "id": "mf-all",
       "name_ru": "mf (Домены + IP)",
       "file": "mf-all.lst",
-      "count": 103,
+      "count": 114,
       "default_on": false
     },
     {
       "id": "mf-ip",
       "name_ru": "mf (IP)",
       "file": "mf-ip.lst",
-      "count": 103,
+      "count": 114,
       "default_on": false
     },
     {
       "id": "mg-all",
       "name_ru": "mg (Домены + IP)",
       "file": "mg-all.lst",
-      "count": 128,
+      "count": 131,
       "default_on": false
     },
     {
       "id": "mg-ip",
       "name_ru": "mg (IP)",
       "file": "mg-ip.lst",
-      "count": 128,
+      "count": 131,
       "default_on": false
     },
     {
@@ -2499,42 +2499,42 @@
       "id": "mk-all",
       "name_ru": "mk (Домены + IP)",
       "file": "mk-all.lst",
-      "count": 338,
+      "count": 343,
       "default_on": false
     },
     {
       "id": "mk-ip",
       "name_ru": "mk (IP)",
       "file": "mk-ip.lst",
-      "count": 338,
+      "count": 343,
       "default_on": false
     },
     {
       "id": "ml-all",
       "name_ru": "ml (Домены + IP)",
       "file": "ml-all.lst",
-      "count": 110,
+      "count": 113,
       "default_on": false
     },
     {
       "id": "ml-ip",
       "name_ru": "ml (IP)",
       "file": "ml-ip.lst",
-      "count": 110,
+      "count": 113,
       "default_on": false
     },
     {
       "id": "mm-all",
       "name_ru": "mm (Домены + IP)",
       "file": "mm-all.lst",
-      "count": 527,
+      "count": 530,
       "default_on": false
     },
     {
       "id": "mm-ip",
       "name_ru": "mm (IP)",
       "file": "mm-ip.lst",
-      "count": 527,
+      "count": 530,
       "default_on": false
     },
     {
@@ -2555,14 +2555,14 @@
       "id": "mo-all",
       "name_ru": "mo (Домены + IP)",
       "file": "mo-all.lst",
-      "count": 170,
+      "count": 169,
       "default_on": false
     },
     {
       "id": "mo-ip",
       "name_ru": "mo (IP)",
       "file": "mo-ip.lst",
-      "count": 170,
+      "count": 169,
       "default_on": false
     },
     {
@@ -2583,28 +2583,28 @@
       "id": "mq-all",
       "name_ru": "mq (Домены + IP)",
       "file": "mq-all.lst",
-      "count": 285,
+      "count": 293,
       "default_on": false
     },
     {
       "id": "mq-ip",
       "name_ru": "mq (IP)",
       "file": "mq-ip.lst",
-      "count": 285,
+      "count": 293,
       "default_on": false
     },
     {
       "id": "mr-all",
       "name_ru": "mr (Домены + IP)",
       "file": "mr-all.lst",
-      "count": 114,
+      "count": 115,
       "default_on": false
     },
     {
       "id": "mr-ip",
       "name_ru": "mr (IP)",
       "file": "mr-ip.lst",
-      "count": 114,
+      "count": 115,
       "default_on": false
     },
     {
@@ -2625,28 +2625,28 @@
       "id": "mt-all",
       "name_ru": "mt (Домены + IP)",
       "file": "mt-all.lst",
-      "count": 489,
+      "count": 495,
       "default_on": false
     },
     {
       "id": "mt-ip",
       "name_ru": "mt (IP)",
       "file": "mt-ip.lst",
-      "count": 489,
+      "count": 495,
       "default_on": false
     },
     {
       "id": "mu-all",
       "name_ru": "mu (Домены + IP)",
       "file": "mu-all.lst",
-      "count": 3471,
+      "count": 3473,
       "default_on": false
     },
     {
       "id": "mu-ip",
       "name_ru": "mu (IP)",
       "file": "mu-ip.lst",
-      "count": 3471,
+      "count": 3473,
       "default_on": false
     },
     {
@@ -2681,42 +2681,42 @@
       "id": "mx-all",
       "name_ru": "mx (Домены + IP)",
       "file": "mx-all.lst",
-      "count": 6741,
+      "count": 6770,
       "default_on": false
     },
     {
       "id": "mx-ip",
       "name_ru": "mx (IP)",
       "file": "mx-ip.lst",
-      "count": 6741,
+      "count": 6770,
       "default_on": false
     },
     {
       "id": "my-all",
       "name_ru": "my (Домены + IP)",
       "file": "my-all.lst",
-      "count": 3289,
+      "count": 3303,
       "default_on": false
     },
     {
       "id": "my-ip",
       "name_ru": "my (IP)",
       "file": "my-ip.lst",
-      "count": 3289,
+      "count": 3303,
       "default_on": false
     },
     {
       "id": "mz-all",
       "name_ru": "mz (Домены + IP)",
       "file": "mz-all.lst",
-      "count": 247,
+      "count": 249,
       "default_on": false
     },
     {
       "id": "mz-ip",
       "name_ru": "mz (IP)",
       "file": "mz-ip.lst",
-      "count": 247,
+      "count": 249,
       "default_on": false
     },
     {
@@ -2751,14 +2751,14 @@
       "id": "ne-all",
       "name_ru": "ne (Домены + IP)",
       "file": "ne-all.lst",
-      "count": 131,
+      "count": 132,
       "default_on": false
     },
     {
       "id": "ne-ip",
       "name_ru": "ne (IP)",
       "file": "ne-ip.lst",
-      "count": 131,
+      "count": 132,
       "default_on": false
     },
     {
@@ -2793,14 +2793,14 @@
       "id": "ng-all",
       "name_ru": "ng (Домены + IP)",
       "file": "ng-all.lst",
-      "count": 1546,
+      "count": 1550,
       "default_on": false
     },
     {
       "id": "ng-ip",
       "name_ru": "ng (IP)",
       "file": "ng-ip.lst",
-      "count": 1546,
+      "count": 1550,
       "default_on": false
     },
     {
@@ -2835,42 +2835,42 @@
       "id": "nl-all",
       "name_ru": "nl (Домены + IP)",
       "file": "nl-all.lst",
-      "count": 30112,
+      "count": 30150,
       "default_on": false
     },
     {
       "id": "nl-ip",
       "name_ru": "nl (IP)",
       "file": "nl-ip.lst",
-      "count": 30112,
+      "count": 30150,
       "default_on": false
     },
     {
       "id": "no-all",
       "name_ru": "no (Домены + IP)",
       "file": "no-all.lst",
-      "count": 4318,
+      "count": 4326,
       "default_on": false
     },
     {
       "id": "no-ip",
       "name_ru": "no (IP)",
       "file": "no-ip.lst",
-      "count": 4318,
+      "count": 4326,
       "default_on": false
     },
     {
       "id": "np-all",
       "name_ru": "np (Домены + IP)",
       "file": "np-all.lst",
-      "count": 530,
+      "count": 533,
       "default_on": false
     },
     {
       "id": "np-ip",
       "name_ru": "np (IP)",
       "file": "np-ip.lst",
-      "count": 530,
+      "count": 533,
       "default_on": false
     },
     {
@@ -2905,84 +2905,84 @@
       "id": "nz-all",
       "name_ru": "nz (Домены + IP)",
       "file": "nz-all.lst",
-      "count": 2935,
+      "count": 2934,
       "default_on": false
     },
     {
       "id": "nz-ip",
       "name_ru": "nz (IP)",
       "file": "nz-ip.lst",
-      "count": 2935,
+      "count": 2934,
       "default_on": false
     },
     {
       "id": "om-all",
       "name_ru": "om (Домены + IP)",
       "file": "om-all.lst",
-      "count": 411,
+      "count": 413,
       "default_on": false
     },
     {
       "id": "om-ip",
       "name_ru": "om (IP)",
       "file": "om-ip.lst",
-      "count": 411,
+      "count": 413,
       "default_on": false
     },
     {
       "id": "oracle-all",
       "name_ru": "oracle (Домены + IP)",
       "file": "oracle-all.lst",
-      "count": 1406,
+      "count": 1413,
       "default_on": false
     },
     {
       "id": "oracle-ip",
       "name_ru": "oracle (IP)",
       "file": "oracle-ip.lst",
-      "count": 1406,
+      "count": 1413,
       "default_on": false
     },
     {
       "id": "ovh-all",
       "name_ru": "ovh (Домены + IP)",
       "file": "ovh-all.lst",
-      "count": 633,
+      "count": 641,
       "default_on": false
     },
     {
       "id": "ovh-ip",
       "name_ru": "ovh (IP)",
       "file": "ovh-ip.lst",
-      "count": 633,
+      "count": 641,
       "default_on": false
     },
     {
       "id": "pa-all",
       "name_ru": "pa (Домены + IP)",
       "file": "pa-all.lst",
-      "count": 902,
+      "count": 903,
       "default_on": false
     },
     {
       "id": "pa-ip",
       "name_ru": "pa (IP)",
       "file": "pa-ip.lst",
-      "count": 902,
+      "count": 903,
       "default_on": false
     },
     {
       "id": "pe-all",
       "name_ru": "pe (Домены + IP)",
       "file": "pe-all.lst",
-      "count": 1737,
+      "count": 1750,
       "default_on": false
     },
     {
       "id": "pe-ip",
       "name_ru": "pe (IP)",
       "file": "pe-ip.lst",
-      "count": 1737,
+      "count": 1750,
       "default_on": false
     },
     {
@@ -3017,42 +3017,42 @@
       "id": "ph-all",
       "name_ru": "ph (Домены + IP)",
       "file": "ph-all.lst",
-      "count": 3016,
+      "count": 3024,
       "default_on": false
     },
     {
       "id": "ph-ip",
       "name_ru": "ph (IP)",
       "file": "ph-ip.lst",
-      "count": 3016,
+      "count": 3024,
       "default_on": false
     },
     {
       "id": "pk-all",
       "name_ru": "pk (Домены + IP)",
       "file": "pk-all.lst",
-      "count": 1713,
+      "count": 1716,
       "default_on": false
     },
     {
       "id": "pk-ip",
       "name_ru": "pk (IP)",
       "file": "pk-ip.lst",
-      "count": 1713,
+      "count": 1716,
       "default_on": false
     },
     {
       "id": "pl-all",
       "name_ru": "pl (Домены + IP)",
       "file": "pl-all.lst",
-      "count": 12318,
+      "count": 12341,
       "default_on": false
     },
     {
       "id": "pl-ip",
       "name_ru": "pl (IP)",
       "file": "pl-ip.lst",
-      "count": 12318,
+      "count": 12341,
       "default_on": false
     },
     {
@@ -3143,14 +3143,14 @@
       "id": "pt-all",
       "name_ru": "pt (Домены + IP)",
       "file": "pt-all.lst",
-      "count": 2646,
+      "count": 2659,
       "default_on": false
     },
     {
       "id": "pt-ip",
       "name_ru": "pt (IP)",
       "file": "pt-ip.lst",
-      "count": 2646,
+      "count": 2659,
       "default_on": false
     },
     {
@@ -3171,35 +3171,35 @@
       "id": "py-all",
       "name_ru": "py (Домены + IP)",
       "file": "py-all.lst",
-      "count": 535,
+      "count": 537,
       "default_on": false
     },
     {
       "id": "py-ip",
       "name_ru": "py (IP)",
       "file": "py-ip.lst",
-      "count": 535,
+      "count": 537,
       "default_on": false
     },
     {
       "id": "qa-all",
       "name_ru": "qa (Домены + IP)",
       "file": "qa-all.lst",
-      "count": 557,
+      "count": 570,
       "default_on": false
     },
     {
       "id": "qa-ip",
       "name_ru": "qa (IP)",
       "file": "qa-ip.lst",
-      "count": 557,
+      "count": 570,
       "default_on": false
     },
     {
       "id": "re-all",
       "name_ru": "re (Домены + IP)",
       "file": "re-all.lst",
-      "count": 428,
+      "count": 424,
       "default_on": false
     },
     {
@@ -3220,7 +3220,7 @@
       "id": "re-ip",
       "name_ru": "re (IP)",
       "file": "re-ip.lst",
-      "count": 428,
+      "count": 424,
       "default_on": false
     },
     {
@@ -3255,14 +3255,14 @@
       "id": "ro-all",
       "name_ru": "ro (Домены + IP)",
       "file": "ro-all.lst",
-      "count": 4976,
+      "count": 5000,
       "default_on": false
     },
     {
       "id": "ro-ip",
       "name_ru": "ro (IP)",
       "file": "ro-ip.lst",
-      "count": 4976,
+      "count": 5000,
       "default_on": false
     },
     {
@@ -3283,28 +3283,28 @@
       "id": "rs-all",
       "name_ru": "rs (Домены + IP)",
       "file": "rs-all.lst",
-      "count": 1376,
+      "count": 1384,
       "default_on": false
     },
     {
       "id": "rs-ip",
       "name_ru": "rs (IP)",
       "file": "rs-ip.lst",
-      "count": 1376,
+      "count": 1384,
       "default_on": false
     },
     {
       "id": "ru-all",
       "name_ru": "ru (Домены + IP)",
       "file": "ru-all.lst",
-      "count": 15784,
+      "count": 15804,
       "default_on": false
     },
     {
       "id": "ru-ip",
       "name_ru": "ru (IP)",
       "file": "ru-ip.lst",
-      "count": 15784,
+      "count": 15804,
       "default_on": false
     },
     {
@@ -3339,42 +3339,42 @@
       "id": "sa-all",
       "name_ru": "sa (Домены + IP)",
       "file": "sa-all.lst",
-      "count": 2234,
+      "count": 2248,
       "default_on": false
     },
     {
       "id": "sa-ip",
       "name_ru": "sa (IP)",
       "file": "sa-ip.lst",
-      "count": 2234,
+      "count": 2248,
       "default_on": false
     },
     {
       "id": "sb-all",
       "name_ru": "sb (Домены + IP)",
       "file": "sb-all.lst",
-      "count": 70,
+      "count": 71,
       "default_on": false
     },
     {
       "id": "sb-ip",
       "name_ru": "sb (IP)",
       "file": "sb-ip.lst",
-      "count": 70,
+      "count": 71,
       "default_on": false
     },
     {
       "id": "sc-all",
       "name_ru": "sc (Домены + IP)",
       "file": "sc-all.lst",
-      "count": 2951,
+      "count": 2883,
       "default_on": false
     },
     {
       "id": "sc-ip",
       "name_ru": "sc (IP)",
       "file": "sc-ip.lst",
-      "count": 2951,
+      "count": 2883,
       "default_on": false
     },
     {
@@ -3395,56 +3395,56 @@
       "id": "scaleway-all",
       "name_ru": "scaleway (Домены + IP)",
       "file": "scaleway-all.lst",
-      "count": 20,
+      "count": 21,
       "default_on": false
     },
     {
       "id": "scaleway-ip",
       "name_ru": "scaleway (IP)",
       "file": "scaleway-ip.lst",
-      "count": 20,
+      "count": 21,
       "default_on": false
     },
     {
       "id": "sd-all",
       "name_ru": "sd (Домены + IP)",
       "file": "sd-all.lst",
-      "count": 145,
+      "count": 148,
       "default_on": false
     },
     {
       "id": "sd-ip",
       "name_ru": "sd (IP)",
       "file": "sd-ip.lst",
-      "count": 145,
+      "count": 148,
       "default_on": false
     },
     {
       "id": "se-all",
       "name_ru": "se (Домены + IP)",
       "file": "se-all.lst",
-      "count": 13673,
+      "count": 13661,
       "default_on": false
     },
     {
       "id": "se-ip",
       "name_ru": "se (IP)",
       "file": "se-ip.lst",
-      "count": 13673,
+      "count": 13661,
       "default_on": false
     },
     {
       "id": "sg-all",
       "name_ru": "sg (Домены + IP)",
       "file": "sg-all.lst",
-      "count": 16845,
+      "count": 16861,
       "default_on": false
     },
     {
       "id": "sg-ip",
       "name_ru": "sg (IP)",
       "file": "sg-ip.lst",
-      "count": 16845,
+      "count": 16861,
       "default_on": false
     },
     {
@@ -3465,14 +3465,14 @@
       "id": "si-all",
       "name_ru": "si (Домены + IP)",
       "file": "si-all.lst",
-      "count": 1308,
+      "count": 1315,
       "default_on": false
     },
     {
       "id": "si-ip",
       "name_ru": "si (IP)",
       "file": "si-ip.lst",
-      "count": 1308,
+      "count": 1315,
       "default_on": false
     },
     {
@@ -3493,14 +3493,14 @@
       "id": "sk-all",
       "name_ru": "sk (Домены + IP)",
       "file": "sk-all.lst",
-      "count": 1516,
+      "count": 1522,
       "default_on": false
     },
     {
       "id": "sk-ip",
       "name_ru": "sk (IP)",
       "file": "sk-ip.lst",
-      "count": 1516,
+      "count": 1522,
       "default_on": false
     },
     {
@@ -3521,28 +3521,28 @@
       "id": "sm-all",
       "name_ru": "sm (Домены + IP)",
       "file": "sm-all.lst",
-      "count": 113,
+      "count": 118,
       "default_on": false
     },
     {
       "id": "sm-ip",
       "name_ru": "sm (IP)",
       "file": "sm-ip.lst",
-      "count": 113,
+      "count": 118,
       "default_on": false
     },
     {
       "id": "sn-all",
       "name_ru": "sn (Домены + IP)",
       "file": "sn-all.lst",
-      "count": 176,
+      "count": 179,
       "default_on": false
     },
     {
       "id": "sn-ip",
       "name_ru": "sn (IP)",
       "file": "sn-ip.lst",
-      "count": 176,
+      "count": 179,
       "default_on": false
     },
     {
@@ -3619,14 +3619,14 @@
       "id": "sv-all",
       "name_ru": "sv (Домены + IP)",
       "file": "sv-all.lst",
-      "count": 437,
+      "count": 438,
       "default_on": false
     },
     {
       "id": "sv-ip",
       "name_ru": "sv (IP)",
       "file": "sv-ip.lst",
-      "count": 437,
+      "count": 438,
       "default_on": false
     },
     {
@@ -3647,14 +3647,14 @@
       "id": "sy-all",
       "name_ru": "sy (Домены + IP)",
       "file": "sy-all.lst",
-      "count": 397,
+      "count": 392,
       "default_on": false
     },
     {
       "id": "sy-ip",
       "name_ru": "sy (IP)",
       "file": "sy-ip.lst",
-      "count": 397,
+      "count": 392,
       "default_on": false
     },
     {
@@ -3773,14 +3773,14 @@
       "id": "th-all",
       "name_ru": "th (Домены + IP)",
       "file": "th-all.lst",
-      "count": 2733,
+      "count": 2734,
       "default_on": false
     },
     {
       "id": "th-ip",
       "name_ru": "th (IP)",
       "file": "th-ip.lst",
-      "count": 2733,
+      "count": 2734,
       "default_on": false
     },
     {
@@ -3843,14 +3843,14 @@
       "id": "tn-all",
       "name_ru": "tn (Домены + IP)",
       "file": "tn-all.lst",
-      "count": 260,
+      "count": 264,
       "default_on": false
     },
     {
       "id": "tn-ip",
       "name_ru": "tn (IP)",
       "file": "tn-ip.lst",
-      "count": 260,
+      "count": 264,
       "default_on": false
     },
     {
@@ -3871,28 +3871,28 @@
       "id": "tor-all",
       "name_ru": "tor (Домены + IP)",
       "file": "tor-all.lst",
-      "count": 674,
+      "count": 644,
       "default_on": false
     },
     {
       "id": "tor-ip",
       "name_ru": "tor (IP)",
       "file": "tor-ip.lst",
-      "count": 674,
+      "count": 644,
       "default_on": false
     },
     {
       "id": "tr-all",
       "name_ru": "tr (Домены + IP)",
       "file": "tr-all.lst",
-      "count": 5771,
+      "count": 5732,
       "default_on": false
     },
     {
       "id": "tr-ip",
       "name_ru": "tr (IP)",
       "file": "tr-ip.lst",
-      "count": 5771,
+      "count": 5732,
       "default_on": false
     },
     {
@@ -3955,28 +3955,28 @@
       "id": "tz-all",
       "name_ru": "tz (Домены + IP)",
       "file": "tz-all.lst",
-      "count": 488,
+      "count": 493,
       "default_on": false
     },
     {
       "id": "tz-ip",
       "name_ru": "tz (IP)",
       "file": "tz-ip.lst",
-      "count": 488,
+      "count": 493,
       "default_on": false
     },
     {
       "id": "ua-all",
       "name_ru": "ua (Домены + IP)",
       "file": "ua-all.lst",
-      "count": 6311,
+      "count": 6324,
       "default_on": false
     },
     {
       "id": "ua-ip",
       "name_ru": "ua (IP)",
       "file": "ua-ip.lst",
-      "count": 6311,
+      "count": 6324,
       "default_on": false
     },
     {
@@ -3997,14 +3997,14 @@
       "id": "ug-all",
       "name_ru": "ug (Домены + IP)",
       "file": "ug-all.lst",
-      "count": 334,
+      "count": 337,
       "default_on": false
     },
     {
       "id": "ug-ip",
       "name_ru": "ug (IP)",
       "file": "ug-ip.lst",
-      "count": 334,
+      "count": 337,
       "default_on": false
     },
     {
@@ -4025,14 +4025,14 @@
       "id": "us-all",
       "name_ru": "us (Домены + IP)",
       "file": "us-all.lst",
-      "count": 225127,
+      "count": 225451,
       "default_on": false
     },
     {
       "id": "us-ip",
       "name_ru": "us (IP)",
       "file": "us-ip.lst",
-      "count": 225127,
+      "count": 225451,
       "default_on": false
     },
     {
@@ -4053,14 +4053,14 @@
       "id": "uz-all",
       "name_ru": "uz (Домены + IP)",
       "file": "uz-all.lst",
-      "count": 634,
+      "count": 638,
       "default_on": false
     },
     {
       "id": "uz-ip",
       "name_ru": "uz (IP)",
       "file": "uz-ip.lst",
-      "count": 634,
+      "count": 638,
       "default_on": false
     },
     {
@@ -4109,14 +4109,14 @@
       "id": "ve-all",
       "name_ru": "ve (Домены + IP)",
       "file": "ve-all.lst",
-      "count": 1363,
+      "count": 1371,
       "default_on": false
     },
     {
       "id": "ve-ip",
       "name_ru": "ve (IP)",
       "file": "ve-ip.lst",
-      "count": 1363,
+      "count": 1371,
       "default_on": false
     },
     {
@@ -4137,42 +4137,42 @@
       "id": "vg-all",
       "name_ru": "vg (Домены + IP)",
       "file": "vg-all.lst",
-      "count": 390,
+      "count": 385,
       "default_on": false
     },
     {
       "id": "vg-ip",
       "name_ru": "vg (IP)",
       "file": "vg-ip.lst",
-      "count": 390,
+      "count": 385,
       "default_on": false
     },
     {
       "id": "vi-all",
       "name_ru": "vi (Домены + IP)",
       "file": "vi-all.lst",
-      "count": 212,
+      "count": 213,
       "default_on": false
     },
     {
       "id": "vi-ip",
       "name_ru": "vi (IP)",
       "file": "vi-ip.lst",
-      "count": 212,
+      "count": 213,
       "default_on": false
     },
     {
       "id": "vn-all",
       "name_ru": "vn (Домены + IP)",
       "file": "vn-all.lst",
-      "count": 2582,
+      "count": 2591,
       "default_on": false
     },
     {
       "id": "vn-ip",
       "name_ru": "vn (IP)",
       "file": "vn-ip.lst",
-      "count": 2582,
+      "count": 2591,
       "default_on": false
     },
     {
@@ -4263,42 +4263,42 @@
       "id": "ye-all",
       "name_ru": "ye (Домены + IP)",
       "file": "ye-all.lst",
-      "count": 144,
+      "count": 148,
       "default_on": false
     },
     {
       "id": "ye-ip",
       "name_ru": "ye (IP)",
       "file": "ye-ip.lst",
-      "count": 144,
+      "count": 148,
       "default_on": false
     },
     {
       "id": "yt-all",
       "name_ru": "yt (Домены + IP)",
       "file": "yt-all.lst",
-      "count": 92,
+      "count": 97,
       "default_on": false
     },
     {
       "id": "yt-ip",
       "name_ru": "yt (IP)",
       "file": "yt-ip.lst",
-      "count": 92,
+      "count": 97,
       "default_on": false
     },
     {
       "id": "za-all",
       "name_ru": "za (Домены + IP)",
       "file": "za-all.lst",
-      "count": 9564,
+      "count": 9560,
       "default_on": false
     },
     {
       "id": "za-ip",
       "name_ru": "za (IP)",
       "file": "za-ip.lst",
-      "count": 9564,
+      "count": 9560,
       "default_on": false
     },
     {
@@ -4319,28 +4319,28 @@
       "id": "zm-all",
       "name_ru": "zm (Домены + IP)",
       "file": "zm-all.lst",
-      "count": 257,
+      "count": 260,
       "default_on": false
     },
     {
       "id": "zm-ip",
       "name_ru": "zm (IP)",
       "file": "zm-ip.lst",
-      "count": 257,
+      "count": 260,
       "default_on": false
     },
     {
       "id": "zw-all",
       "name_ru": "zw (Домены + IP)",
       "file": "zw-all.lst",
-      "count": 344,
+      "count": 345,
       "default_on": false
     },
     {
       "id": "zw-ip",
       "name_ru": "zw (IP)",
       "file": "zw-ip.lst",
-      "count": 344,
+      "count": 345,
       "default_on": false
     },
     {
@@ -5001,7 +5001,7 @@
       "id": "svc_ae-all",
       "name_ru": "ae (Домены + IP)",
       "file": "ae-all.lst",
-      "count": 3333,
+      "count": 3337,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5012,7 +5012,7 @@
       "id": "svc_ae-ip",
       "name_ru": "ae (IP)",
       "file": "ae-ip.lst",
-      "count": 3333,
+      "count": 3337,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5061,7 +5061,7 @@
       "id": "svc_af-all",
       "name_ru": "af (Домены + IP)",
       "file": "af-all.lst",
-      "count": 550,
+      "count": 552,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5072,7 +5072,7 @@
       "id": "svc_af-ip",
       "name_ru": "af (IP)",
       "file": "af-ip.lst",
-      "count": 550,
+      "count": 552,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5115,7 +5115,7 @@
       "id": "svc_ag-all",
       "name_ru": "ag (Домены + IP)",
       "file": "ag-all.lst",
-      "count": 171,
+      "count": 170,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5126,7 +5126,7 @@
       "id": "svc_ag-ip",
       "name_ru": "ag (IP)",
       "file": "ag-ip.lst",
-      "count": 171,
+      "count": 170,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5169,7 +5169,7 @@
       "id": "svc_ai-all",
       "name_ru": "ai (Домены + IP)",
       "file": "ai-all.lst",
-      "count": 96,
+      "count": 95,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5180,7 +5180,7 @@
       "id": "svc_ai-ip",
       "name_ru": "ai (IP)",
       "file": "ai-ip.lst",
-      "count": 96,
+      "count": 95,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5317,7 +5317,7 @@
       "id": "svc_al-all",
       "name_ru": "al (Домены + IP)",
       "file": "al-all.lst",
-      "count": 1549,
+      "count": 1554,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5328,7 +5328,7 @@
       "id": "svc_al-ip",
       "name_ru": "al (IP)",
       "file": "al-ip.lst",
-      "count": 1549,
+      "count": 1554,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5451,7 +5451,7 @@
       "id": "svc_am-all",
       "name_ru": "am (Домены + IP)",
       "file": "am-all.lst",
-      "count": 558,
+      "count": 555,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5462,7 +5462,7 @@
       "id": "svc_am-ip",
       "name_ru": "am (IP)",
       "file": "am-ip.lst",
-      "count": 558,
+      "count": 555,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5792,7 +5792,7 @@
       "id": "svc_ao-all",
       "name_ru": "ao (Домены + IP)",
       "file": "ao-all.lst",
-      "count": 204,
+      "count": 206,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5803,7 +5803,7 @@
       "id": "svc_ao-ip",
       "name_ru": "ao (IP)",
       "file": "ao-ip.lst",
-      "count": 204,
+      "count": 206,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6132,7 +6132,7 @@
       "id": "svc_aq-all",
       "name_ru": "aq (Домены + IP)",
       "file": "aq-all.lst",
-      "count": 1019,
+      "count": 1018,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6143,7 +6143,7 @@
       "id": "svc_aq-ip",
       "name_ru": "aq (IP)",
       "file": "aq-ip.lst",
-      "count": 1019,
+      "count": 1018,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6154,7 +6154,7 @@
       "id": "svc_ar-all",
       "name_ru": "ar (Домены + IP)",
       "file": "ar-all.lst",
-      "count": 2768,
+      "count": 2746,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6165,7 +6165,7 @@
       "id": "svc_ar-ip",
       "name_ru": "ar (IP)",
       "file": "ar-ip.lst",
-      "count": 2768,
+      "count": 2746,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6272,7 +6272,7 @@
       "id": "svc_as-all",
       "name_ru": "as (Домены + IP)",
       "file": "as-all.lst",
-      "count": 382,
+      "count": 381,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6283,7 +6283,7 @@
       "id": "svc_as-ip",
       "name_ru": "as (IP)",
       "file": "as-ip.lst",
-      "count": 382,
+      "count": 381,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6374,7 +6374,7 @@
       "id": "svc_at-all",
       "name_ru": "at (Домены + IP)",
       "file": "at-all.lst",
-      "count": 3935,
+      "count": 3828,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6385,7 +6385,7 @@
       "id": "svc_at-ip",
       "name_ru": "at (IP)",
       "file": "at-ip.lst",
-      "count": 3935,
+      "count": 3828,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6444,7 +6444,7 @@
       "id": "svc_au-all",
       "name_ru": "au (Домены + IP)",
       "file": "au-all.lst",
-      "count": 87060,
+      "count": 87104,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6455,7 +6455,7 @@
       "id": "svc_au-ip",
       "name_ru": "au (IP)",
       "file": "au-ip.lst",
-      "count": 87060,
+      "count": 87104,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6578,7 +6578,7 @@
       "id": "svc_aw-all",
       "name_ru": "aw (Домены + IP)",
       "file": "aw-all.lst",
-      "count": 99,
+      "count": 98,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6589,7 +6589,7 @@
       "id": "svc_aw-ip",
       "name_ru": "aw (IP)",
       "file": "aw-ip.lst",
-      "count": 99,
+      "count": 98,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6632,7 +6632,7 @@
       "id": "svc_ax-all",
       "name_ru": "ax (Домены + IP)",
       "file": "ax-all.lst",
-      "count": 137,
+      "count": 136,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6643,7 +6643,7 @@
       "id": "svc_ax-ip",
       "name_ru": "ax (IP)",
       "file": "ax-ip.lst",
-      "count": 137,
+      "count": 136,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6654,7 +6654,7 @@
       "id": "svc_az-all",
       "name_ru": "az (Домены + IP)",
       "file": "az-all.lst",
-      "count": 530,
+      "count": 532,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6665,7 +6665,7 @@
       "id": "svc_az-ip",
       "name_ru": "az (IP)",
       "file": "az-ip.lst",
-      "count": 530,
+      "count": 532,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6676,7 +6676,7 @@
       "id": "svc_azure-all",
       "name_ru": "azure (Домены + IP)",
       "file": "azure-all.lst",
-      "count": 1338,
+      "count": 1605,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6695,7 +6695,7 @@
       "id": "svc_azure-ip",
       "name_ru": "azure (IP)",
       "file": "azure-ip.lst",
-      "count": 1250,
+      "count": 1517,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6722,7 +6722,7 @@
       "id": "svc_ba-all",
       "name_ru": "ba (Домены + IP)",
       "file": "ba-all.lst",
-      "count": 207,
+      "count": 208,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6733,7 +6733,7 @@
       "id": "svc_ba-ip",
       "name_ru": "ba (IP)",
       "file": "ba-ip.lst",
-      "count": 207,
+      "count": 208,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6888,7 +6888,7 @@
       "id": "svc_bb-all",
       "name_ru": "bb (Домены + IP)",
       "file": "bb-all.lst",
-      "count": 115,
+      "count": 114,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6899,7 +6899,7 @@
       "id": "svc_bb-ip",
       "name_ru": "bb (IP)",
       "file": "bb-ip.lst",
-      "count": 115,
+      "count": 114,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6926,7 +6926,7 @@
       "id": "svc_bd-all",
       "name_ru": "bd (Домены + IP)",
       "file": "bd-all.lst",
-      "count": 2243,
+      "count": 2230,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6937,7 +6937,7 @@
       "id": "svc_bd-ip",
       "name_ru": "bd (IP)",
       "file": "bd-ip.lst",
-      "count": 2243,
+      "count": 2230,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6964,7 +6964,7 @@
       "id": "svc_be-all",
       "name_ru": "be (Домены + IP)",
       "file": "be-all.lst",
-      "count": 144961,
+      "count": 144811,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6975,7 +6975,7 @@
       "id": "svc_be-ip",
       "name_ru": "be (IP)",
       "file": "be-ip.lst",
-      "count": 144961,
+      "count": 144811,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7168,7 +7168,7 @@
       "id": "svc_bf-all",
       "name_ru": "bf (Домены + IP)",
       "file": "bf-all.lst",
-      "count": 140,
+      "count": 142,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7179,7 +7179,7 @@
       "id": "svc_bf-ip",
       "name_ru": "bf (IP)",
       "file": "bf-ip.lst",
-      "count": 140,
+      "count": 142,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7190,7 +7190,7 @@
       "id": "svc_bg-all",
       "name_ru": "bg (Домены + IP)",
       "file": "bg-all.lst",
-      "count": 1545,
+      "count": 1566,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7201,7 +7201,7 @@
       "id": "svc_bg-ip",
       "name_ru": "bg (IP)",
       "file": "bg-ip.lst",
-      "count": 1545,
+      "count": 1566,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7234,7 +7234,7 @@
       "id": "svc_bi-all",
       "name_ru": "bi (Домены + IP)",
       "file": "bi-all.lst",
-      "count": 89,
+      "count": 88,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7245,7 +7245,7 @@
       "id": "svc_bi-ip",
       "name_ru": "bi (IP)",
       "file": "bi-ip.lst",
-      "count": 89,
+      "count": 88,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7432,7 +7432,7 @@
       "id": "svc_bj-all",
       "name_ru": "bj (Домены + IP)",
       "file": "bj-all.lst",
-      "count": 113,
+      "count": 112,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7443,7 +7443,7 @@
       "id": "svc_bj-ip",
       "name_ru": "bj (IP)",
       "file": "bj-ip.lst",
-      "count": 113,
+      "count": 112,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7470,7 +7470,7 @@
       "id": "svc_bl-all",
       "name_ru": "bl (Домены + IP)",
       "file": "bl-all.lst",
-      "count": 85,
+      "count": 84,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7481,7 +7481,7 @@
       "id": "svc_bl-ip",
       "name_ru": "bl (IP)",
       "file": "bl-ip.lst",
-      "count": 85,
+      "count": 84,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7650,7 +7650,7 @@
       "id": "svc_bm-all",
       "name_ru": "bm (Домены + IP)",
       "file": "bm-all.lst",
-      "count": 113,
+      "count": 112,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7661,7 +7661,7 @@
       "id": "svc_bm-ip",
       "name_ru": "bm (IP)",
       "file": "bm-ip.lst",
-      "count": 113,
+      "count": 112,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7710,7 +7710,7 @@
       "id": "svc_bo-all",
       "name_ru": "bo (Домены + IP)",
       "file": "bo-all.lst",
-      "count": 237,
+      "count": 241,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7721,7 +7721,7 @@
       "id": "svc_bo-ip",
       "name_ru": "bo (IP)",
       "file": "bo-ip.lst",
-      "count": 237,
+      "count": 241,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7924,7 +7924,7 @@
       "id": "svc_bq-all",
       "name_ru": "bq (Домены + IP)",
       "file": "bq-all.lst",
-      "count": 79,
+      "count": 78,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7935,7 +7935,7 @@
       "id": "svc_bq-ip",
       "name_ru": "bq (IP)",
       "file": "bq-ip.lst",
-      "count": 79,
+      "count": 78,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7946,7 +7946,7 @@
       "id": "svc_br-all",
       "name_ru": "br (Домены + IP)",
       "file": "br-all.lst",
-      "count": 13774,
+      "count": 13784,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7957,7 +7957,7 @@
       "id": "svc_br-ip",
       "name_ru": "br (IP)",
       "file": "br-ip.lst",
-      "count": 13774,
+      "count": 13784,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8064,7 +8064,7 @@
       "id": "svc_bs-all",
       "name_ru": "bs (Домены + IP)",
       "file": "bs-all.lst",
-      "count": 178,
+      "count": 176,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8075,7 +8075,7 @@
       "id": "svc_bs-ip",
       "name_ru": "bs (IP)",
       "file": "bs-ip.lst",
-      "count": 178,
+      "count": 176,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8086,7 +8086,7 @@
       "id": "svc_bt-all",
       "name_ru": "bt (Домены + IP)",
       "file": "bt-all.lst",
-      "count": 167,
+      "count": 166,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8097,7 +8097,7 @@
       "id": "svc_bt-ip",
       "name_ru": "bt (IP)",
       "file": "bt-ip.lst",
-      "count": 167,
+      "count": 166,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8210,7 +8210,7 @@
       "id": "svc_bv-all",
       "name_ru": "bv (Домены + IP)",
       "file": "bv-all.lst",
-      "count": 35,
+      "count": 34,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8221,7 +8221,7 @@
       "id": "svc_bv-ip",
       "name_ru": "bv (IP)",
       "file": "bv-ip.lst",
-      "count": 35,
+      "count": 34,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8232,7 +8232,7 @@
       "id": "svc_bw-all",
       "name_ru": "bw (Домены + IP)",
       "file": "bw-all.lst",
-      "count": 118,
+      "count": 117,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8243,7 +8243,7 @@
       "id": "svc_bw-ip",
       "name_ru": "bw (IP)",
       "file": "bw-ip.lst",
-      "count": 118,
+      "count": 117,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8254,7 +8254,7 @@
       "id": "svc_by-all",
       "name_ru": "by (Домены + IP)",
       "file": "by-all.lst",
-      "count": 467,
+      "count": 466,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8265,7 +8265,7 @@
       "id": "svc_by-ip",
       "name_ru": "by (IP)",
       "file": "by-ip.lst",
-      "count": 467,
+      "count": 466,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8324,7 +8324,7 @@
       "id": "svc_bz-all",
       "name_ru": "bz (Домены + IP)",
       "file": "bz-all.lst",
-      "count": 246,
+      "count": 245,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8335,7 +8335,7 @@
       "id": "svc_bz-ip",
       "name_ru": "bz (IP)",
       "file": "bz-ip.lst",
-      "count": 246,
+      "count": 245,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8362,7 +8362,7 @@
       "id": "svc_ca-all",
       "name_ru": "ca (Домены + IP)",
       "file": "ca-all.lst",
-      "count": 27632,
+      "count": 27718,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8373,7 +8373,7 @@
       "id": "svc_ca-ip",
       "name_ru": "ca (IP)",
       "file": "ca-ip.lst",
-      "count": 27632,
+      "count": 27718,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -8864,7 +8864,7 @@
       "id": "category-companies-all",
       "name_ru": "category-companies (Домены + IP)",
       "file": "category-companies-all.lst",
-      "count": 8196,
+      "count": 8200,
       "default_on": false,
       "kind": "domains"
     },
@@ -8872,7 +8872,7 @@
       "id": "category-companies-domains",
       "name_ru": "category-companies (Домены)",
       "file": "category-companies-domains.lst",
-      "count": 8196,
+      "count": 8200,
       "default_on": false,
       "kind": "domains"
     },
@@ -9072,7 +9072,7 @@
       "id": "category-entertainment-all",
       "name_ru": "category-entertainment (Домены + IP)",
       "file": "category-entertainment-all.lst",
-      "count": 2062,
+      "count": 2063,
       "default_on": false,
       "kind": "domains"
     },
@@ -9080,7 +9080,7 @@
       "id": "category-entertainment-domains",
       "name_ru": "category-entertainment (Домены)",
       "file": "category-entertainment-domains.lst",
-      "count": 2062,
+      "count": 2063,
       "default_on": false,
       "kind": "domains"
     },
@@ -9184,7 +9184,7 @@
       "id": "category-games-all",
       "name_ru": "category-games (Домены + IP)",
       "file": "category-games-all.lst",
-      "count": 1068,
+      "count": 1069,
       "default_on": false,
       "kind": "domains"
     },
@@ -9192,7 +9192,7 @@
       "id": "category-games-domains",
       "name_ru": "category-games (Домены)",
       "file": "category-games-domains.lst",
-      "count": 1068,
+      "count": 1069,
       "default_on": false,
       "kind": "domains"
     },
@@ -9248,7 +9248,7 @@
       "id": "category-ip-geo-detect-all",
       "name_ru": "category-ip-geo-detect (Домены + IP)",
       "file": "category-ip-geo-detect-all.lst",
-      "count": 234,
+      "count": 235,
       "default_on": false,
       "kind": "domains"
     },
@@ -9256,7 +9256,7 @@
       "id": "category-ip-geo-detect-domains",
       "name_ru": "category-ip-geo-detect (Домены)",
       "file": "category-ip-geo-detect-domains.lst",
-      "count": 234,
+      "count": 235,
       "default_on": false,
       "kind": "domains"
     },
@@ -10000,7 +10000,7 @@
       "id": "svc_cc-all",
       "name_ru": "cc (Домены + IP)",
       "file": "cc-all.lst",
-      "count": 45,
+      "count": 44,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10011,7 +10011,7 @@
       "id": "svc_cc-ip",
       "name_ru": "cc (IP)",
       "file": "cc-ip.lst",
-      "count": 45,
+      "count": 44,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10054,7 +10054,7 @@
       "id": "svc_cd-all",
       "name_ru": "cd (Домены + IP)",
       "file": "cd-all.lst",
-      "count": 189,
+      "count": 191,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10065,7 +10065,7 @@
       "id": "svc_cd-ip",
       "name_ru": "cd (IP)",
       "file": "cd-ip.lst",
-      "count": 189,
+      "count": 191,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10202,7 +10202,7 @@
       "id": "svc_cf-all",
       "name_ru": "cf (Домены + IP)",
       "file": "cf-all.lst",
-      "count": 91,
+      "count": 90,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10213,7 +10213,7 @@
       "id": "svc_cf-ip",
       "name_ru": "cf (IP)",
       "file": "cf-ip.lst",
-      "count": 91,
+      "count": 90,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10224,7 +10224,7 @@
       "id": "svc_cg-all",
       "name_ru": "cg (Домены + IP)",
       "file": "cg-all.lst",
-      "count": 116,
+      "count": 115,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10235,7 +10235,7 @@
       "id": "svc_cg-ip",
       "name_ru": "cg (IP)",
       "file": "cg-ip.lst",
-      "count": 116,
+      "count": 115,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10246,7 +10246,7 @@
       "id": "svc_ch-all",
       "name_ru": "ch (Домены + IP)",
       "file": "ch-all.lst",
-      "count": 54077,
+      "count": 54139,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10257,7 +10257,7 @@
       "id": "svc_ch-ip",
       "name_ru": "ch (IP)",
       "file": "ch-ip.lst",
-      "count": 54077,
+      "count": 54139,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10380,7 +10380,7 @@
       "id": "svc_ci-all",
       "name_ru": "ci (Домены + IP)",
       "file": "ci-all.lst",
-      "count": 162,
+      "count": 164,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10391,7 +10391,7 @@
       "id": "svc_ci-ip",
       "name_ru": "ci (IP)",
       "file": "ci-ip.lst",
-      "count": 162,
+      "count": 164,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10498,7 +10498,7 @@
       "id": "svc_ck-all",
       "name_ru": "ck (Домены + IP)",
       "file": "ck-all.lst",
-      "count": 87,
+      "count": 86,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10509,7 +10509,7 @@
       "id": "svc_ck-ip",
       "name_ru": "ck (IP)",
       "file": "ck-ip.lst",
-      "count": 87,
+      "count": 86,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10536,7 +10536,7 @@
       "id": "svc_cl-all",
       "name_ru": "cl (Домены + IP)",
       "file": "cl-all.lst",
-      "count": 8405,
+      "count": 8406,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10547,7 +10547,7 @@
       "id": "svc_cl-ip",
       "name_ru": "cl (IP)",
       "file": "cl-ip.lst",
-      "count": 8405,
+      "count": 8406,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10700,7 +10700,7 @@
       "id": "svc_cloudfront-all",
       "name_ru": "cloudfront (Домены + IP)",
       "file": "cloudfront-all.lst",
-      "count": 31,
+      "count": 32,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10711,7 +10711,7 @@
       "id": "svc_cloudfront-ip",
       "name_ru": "cloudfront (IP)",
       "file": "cloudfront-ip.lst",
-      "count": 31,
+      "count": 32,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10770,7 +10770,7 @@
       "id": "svc_cm-all",
       "name_ru": "cm (Домены + IP)",
       "file": "cm-all.lst",
-      "count": 152,
+      "count": 154,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10781,7 +10781,7 @@
       "id": "svc_cm-ip",
       "name_ru": "cm (IP)",
       "file": "cm-ip.lst",
-      "count": 152,
+      "count": 154,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10920,7 +10920,7 @@
       "id": "svc_co-all",
       "name_ru": "co (Домены + IP)",
       "file": "co-all.lst",
-      "count": 2756,
+      "count": 2762,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -10931,7 +10931,7 @@
       "id": "svc_co-ip",
       "name_ru": "co (IP)",
       "file": "co-ip.lst",
-      "count": 2756,
+      "count": 2762,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11156,7 +11156,7 @@
       "id": "svc_constant-all",
       "name_ru": "constant (Домены + IP)",
       "file": "constant-all.lst",
-      "count": 854,
+      "count": 857,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11167,7 +11167,7 @@
       "id": "svc_constant-ip",
       "name_ru": "constant (IP)",
       "file": "constant-ip.lst",
-      "count": 854,
+      "count": 857,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11360,7 +11360,7 @@
       "id": "svc_cr-all",
       "name_ru": "cr (Домены + IP)",
       "file": "cr-all.lst",
-      "count": 397,
+      "count": 392,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11371,7 +11371,7 @@
       "id": "svc_cr-ip",
       "name_ru": "cr (IP)",
       "file": "cr-ip.lst",
-      "count": 397,
+      "count": 392,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11494,7 +11494,7 @@
       "id": "svc_cu-all",
       "name_ru": "cu (Домены + IP)",
       "file": "cu-all.lst",
-      "count": 123,
+      "count": 122,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11505,7 +11505,7 @@
       "id": "svc_cu-ip",
       "name_ru": "cu (IP)",
       "file": "cu-ip.lst",
-      "count": 123,
+      "count": 122,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11580,7 +11580,7 @@
       "id": "svc_cv-all",
       "name_ru": "cv (Домены + IP)",
       "file": "cv-all.lst",
-      "count": 140,
+      "count": 139,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11591,7 +11591,7 @@
       "id": "svc_cv-ip",
       "name_ru": "cv (IP)",
       "file": "cv-ip.lst",
-      "count": 140,
+      "count": 139,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11602,7 +11602,7 @@
       "id": "svc_cw-all",
       "name_ru": "cw (Домены + IP)",
       "file": "cw-all.lst",
-      "count": 112,
+      "count": 111,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11613,7 +11613,7 @@
       "id": "svc_cw-ip",
       "name_ru": "cw (IP)",
       "file": "cw-ip.lst",
-      "count": 112,
+      "count": 111,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11624,7 +11624,7 @@
       "id": "svc_cx-all",
       "name_ru": "cx (Домены + IP)",
       "file": "cx-all.lst",
-      "count": 76,
+      "count": 75,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11635,7 +11635,7 @@
       "id": "svc_cx-ip",
       "name_ru": "cx (IP)",
       "file": "cx-ip.lst",
-      "count": 76,
+      "count": 75,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11646,7 +11646,7 @@
       "id": "svc_cy-all",
       "name_ru": "cy (Домены + IP)",
       "file": "cy-all.lst",
-      "count": 968,
+      "count": 957,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11657,7 +11657,7 @@
       "id": "svc_cy-ip",
       "name_ru": "cy (IP)",
       "file": "cy-ip.lst",
-      "count": 968,
+      "count": 957,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11716,7 +11716,7 @@
       "id": "svc_cz-all",
       "name_ru": "cz (Домены + IP)",
       "file": "cz-all.lst",
-      "count": 3620,
+      "count": 3555,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11727,7 +11727,7 @@
       "id": "svc_cz-ip",
       "name_ru": "cz (IP)",
       "file": "cz-ip.lst",
-      "count": 3620,
+      "count": 3555,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11834,7 +11834,7 @@
       "id": "svc_datacamp-all",
       "name_ru": "datacamp (Домены + IP)",
       "file": "datacamp-all.lst",
-      "count": 219,
+      "count": 218,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11845,7 +11845,7 @@
       "id": "svc_datacamp-ip",
       "name_ru": "datacamp (IP)",
       "file": "datacamp-ip.lst",
-      "count": 219,
+      "count": 218,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11926,7 +11926,7 @@
       "id": "svc_de-all",
       "name_ru": "de (Домены + IP)",
       "file": "de-all.lst",
-      "count": 59884,
+      "count": 60151,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -11937,7 +11937,7 @@
       "id": "svc_de-ip",
       "name_ru": "de (IP)",
       "file": "de-ip.lst",
-      "count": 59884,
+      "count": 60151,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12378,7 +12378,7 @@
       "id": "svc_dj-all",
       "name_ru": "dj (Домены + IP)",
       "file": "dj-all.lst",
-      "count": 216,
+      "count": 215,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12389,7 +12389,7 @@
       "id": "svc_dj-ip",
       "name_ru": "dj (IP)",
       "file": "dj-ip.lst",
-      "count": 216,
+      "count": 215,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12416,7 +12416,7 @@
       "id": "svc_dk-all",
       "name_ru": "dk (Домены + IP)",
       "file": "dk-all.lst",
-      "count": 2023,
+      "count": 2027,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12427,7 +12427,7 @@
       "id": "svc_dk-ip",
       "name_ru": "dk (IP)",
       "file": "dk-ip.lst",
-      "count": 2023,
+      "count": 2027,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12470,7 +12470,7 @@
       "id": "svc_dm-all",
       "name_ru": "dm (Домены + IP)",
       "file": "dm-all.lst",
-      "count": 97,
+      "count": 96,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12481,7 +12481,7 @@
       "id": "svc_dm-ip",
       "name_ru": "dm (IP)",
       "file": "dm-ip.lst",
-      "count": 97,
+      "count": 96,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12556,7 +12556,7 @@
       "id": "svc_do-all",
       "name_ru": "do (Домены + IP)",
       "file": "do-all.lst",
-      "count": 710,
+      "count": 713,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12567,7 +12567,7 @@
       "id": "svc_do-ip",
       "name_ru": "do (IP)",
       "file": "do-ip.lst",
-      "count": 710,
+      "count": 713,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12962,7 +12962,7 @@
       "id": "svc_dz-all",
       "name_ru": "dz (Домены + IP)",
       "file": "dz-all.lst",
-      "count": 255,
+      "count": 257,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -12973,7 +12973,7 @@
       "id": "svc_dz-ip",
       "name_ru": "dz (IP)",
       "file": "dz-ip.lst",
-      "count": 255,
+      "count": 257,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13080,7 +13080,7 @@
       "id": "svc_ec-all",
       "name_ru": "ec (Домены + IP)",
       "file": "ec-all.lst",
-      "count": 665,
+      "count": 667,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13091,7 +13091,7 @@
       "id": "svc_ec-ip",
       "name_ru": "ec (IP)",
       "file": "ec-ip.lst",
-      "count": 665,
+      "count": 667,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13150,7 +13150,7 @@
       "id": "svc_ee-all",
       "name_ru": "ee (Домены + IP)",
       "file": "ee-all.lst",
-      "count": 1537,
+      "count": 1550,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13161,7 +13161,7 @@
       "id": "svc_ee-ip",
       "name_ru": "ee (IP)",
       "file": "ee-ip.lst",
-      "count": 1537,
+      "count": 1550,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13172,7 +13172,7 @@
       "id": "svc_eg-all",
       "name_ru": "eg (Домены + IP)",
       "file": "eg-all.lst",
-      "count": 321,
+      "count": 323,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13183,7 +13183,7 @@
       "id": "svc_eg-ip",
       "name_ru": "eg (IP)",
       "file": "eg-ip.lst",
-      "count": 321,
+      "count": 323,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13210,7 +13210,7 @@
       "id": "svc_eh-all",
       "name_ru": "eh (Домены + IP)",
       "file": "eh-all.lst",
-      "count": 45,
+      "count": 44,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13221,7 +13221,7 @@
       "id": "svc_eh-ip",
       "name_ru": "eh (IP)",
       "file": "eh-ip.lst",
-      "count": 45,
+      "count": 44,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13523,7 +13523,7 @@
       "id": "svc_er-all",
       "name_ru": "er (Домены + IP)",
       "file": "er-all.lst",
-      "count": 89,
+      "count": 88,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13534,7 +13534,7 @@
       "id": "svc_er-ip",
       "name_ru": "er (IP)",
       "file": "er-ip.lst",
-      "count": 89,
+      "count": 88,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13561,7 +13561,7 @@
       "id": "svc_es-all",
       "name_ru": "es (Домены + IP)",
       "file": "es-all.lst",
-      "count": 9402,
+      "count": 9413,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13572,7 +13572,7 @@
       "id": "svc_es-ip",
       "name_ru": "es (IP)",
       "file": "es-ip.lst",
-      "count": 9402,
+      "count": 9413,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13663,7 +13663,7 @@
       "id": "svc_et-all",
       "name_ru": "et (Домены + IP)",
       "file": "et-all.lst",
-      "count": 123,
+      "count": 125,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13674,7 +13674,7 @@
       "id": "svc_et-ip",
       "name_ru": "et (IP)",
       "file": "et-ip.lst",
-      "count": 123,
+      "count": 125,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13923,7 +13923,7 @@
       "id": "svc_fastly-all",
       "name_ru": "fastly (Домены + IP)",
       "file": "fastly-all.lst",
-      "count": 52,
+      "count": 47,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -13942,7 +13942,7 @@
       "id": "svc_fastly-ip",
       "name_ru": "fastly (IP)",
       "file": "fastly-ip.lst",
-      "count": 45,
+      "count": 40,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14065,7 +14065,7 @@
       "id": "svc_fi-all",
       "name_ru": "fi (Домены + IP)",
       "file": "fi-all.lst",
-      "count": 43664,
+      "count": 43668,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14076,7 +14076,7 @@
       "id": "svc_fi-ip",
       "name_ru": "fi (IP)",
       "file": "fi-ip.lst",
-      "count": 43664,
+      "count": 43668,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14199,7 +14199,7 @@
       "id": "svc_fj-all",
       "name_ru": "fj (Домены + IP)",
       "file": "fj-all.lst",
-      "count": 115,
+      "count": 114,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14210,7 +14210,7 @@
       "id": "svc_fj-ip",
       "name_ru": "fj (IP)",
       "file": "fj-ip.lst",
-      "count": 115,
+      "count": 114,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14221,7 +14221,7 @@
       "id": "svc_fk-all",
       "name_ru": "fk (Домены + IP)",
       "file": "fk-all.lst",
-      "count": 74,
+      "count": 73,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14232,7 +14232,7 @@
       "id": "svc_fk-ip",
       "name_ru": "fk (IP)",
       "file": "fk-ip.lst",
-      "count": 74,
+      "count": 73,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14339,7 +14339,7 @@
       "id": "svc_fm-all",
       "name_ru": "fm (Домены + IP)",
       "file": "fm-all.lst",
-      "count": 112,
+      "count": 111,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14350,7 +14350,7 @@
       "id": "svc_fm-ip",
       "name_ru": "fm (IP)",
       "file": "fm-ip.lst",
-      "count": 112,
+      "count": 111,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14559,7 +14559,7 @@
       "id": "svc_fr-all",
       "name_ru": "fr (Домены + IP)",
       "file": "fr-all.lst",
-      "count": 14010,
+      "count": 13917,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14570,7 +14570,7 @@
       "id": "svc_fr-ip",
       "name_ru": "fr (IP)",
       "file": "fr-ip.lst",
-      "count": 14010,
+      "count": 13917,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14725,7 +14725,7 @@
       "id": "svc_ga-all",
       "name_ru": "ga (Домены + IP)",
       "file": "ga-all.lst",
-      "count": 99,
+      "count": 98,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14736,7 +14736,7 @@
       "id": "svc_ga-ip",
       "name_ru": "ga (IP)",
       "file": "ga-ip.lst",
-      "count": 99,
+      "count": 98,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14875,7 +14875,7 @@
       "id": "svc_gb-all",
       "name_ru": "gb (Домены + IP)",
       "file": "gb-all.lst",
-      "count": 33174,
+      "count": 33261,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14886,7 +14886,7 @@
       "id": "svc_gb-ip",
       "name_ru": "gb (IP)",
       "file": "gb-ip.lst",
-      "count": 33174,
+      "count": 33261,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14919,7 +14919,7 @@
       "id": "svc_gd-all",
       "name_ru": "gd (Домены + IP)",
       "file": "gd-all.lst",
-      "count": 110,
+      "count": 108,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14930,7 +14930,7 @@
       "id": "svc_gd-ip",
       "name_ru": "gd (IP)",
       "file": "gd-ip.lst",
-      "count": 110,
+      "count": 108,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14941,7 +14941,7 @@
       "id": "svc_ge-all",
       "name_ru": "ge (Домены + IP)",
       "file": "ge-all.lst",
-      "count": 369,
+      "count": 368,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14952,7 +14952,7 @@
       "id": "svc_ge-ip",
       "name_ru": "ge (IP)",
       "file": "ge-ip.lst",
-      "count": 369,
+      "count": 368,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15043,7 +15043,7 @@
       "id": "svc_gf-all",
       "name_ru": "gf (Домены + IP)",
       "file": "gf-all.lst",
-      "count": 81,
+      "count": 80,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15054,7 +15054,7 @@
       "id": "svc_gf-ip",
       "name_ru": "gf (IP)",
       "file": "gf-ip.lst",
-      "count": 81,
+      "count": 80,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15097,7 +15097,7 @@
       "id": "svc_gg-all",
       "name_ru": "gg (Домены + IP)",
       "file": "gg-all.lst",
-      "count": 95,
+      "count": 94,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15108,7 +15108,7 @@
       "id": "svc_gg-ip",
       "name_ru": "gg (IP)",
       "file": "gg-ip.lst",
-      "count": 95,
+      "count": 94,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15135,7 +15135,7 @@
       "id": "svc_gh-all",
       "name_ru": "gh (Домены + IP)",
       "file": "gh-all.lst",
-      "count": 269,
+      "count": 271,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15146,7 +15146,7 @@
       "id": "svc_gh-ip",
       "name_ru": "gh (IP)",
       "file": "gh-ip.lst",
-      "count": 269,
+      "count": 271,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15157,7 +15157,7 @@
       "id": "svc_gi-all",
       "name_ru": "gi (Домены + IP)",
       "file": "gi-all.lst",
-      "count": 132,
+      "count": 131,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15168,7 +15168,7 @@
       "id": "svc_gi-ip",
       "name_ru": "gi (IP)",
       "file": "gi-ip.lst",
-      "count": 132,
+      "count": 131,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15369,7 +15369,7 @@
       "id": "svc_gl-all",
       "name_ru": "gl (Домены + IP)",
       "file": "gl-all.lst",
-      "count": 190,
+      "count": 189,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15380,7 +15380,7 @@
       "id": "svc_gl-ip",
       "name_ru": "gl (IP)",
       "file": "gl-ip.lst",
-      "count": 190,
+      "count": 189,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15477,7 +15477,7 @@
       "id": "svc_gm-all",
       "name_ru": "gm (Домены + IP)",
       "file": "gm-all.lst",
-      "count": 107,
+      "count": 106,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15488,7 +15488,7 @@
       "id": "svc_gm-ip",
       "name_ru": "gm (IP)",
       "file": "gm-ip.lst",
-      "count": 107,
+      "count": 106,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15515,7 +15515,7 @@
       "id": "svc_gn-all",
       "name_ru": "gn (Домены + IP)",
       "file": "gn-all.lst",
-      "count": 113,
+      "count": 112,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15526,7 +15526,7 @@
       "id": "svc_gn-ip",
       "name_ru": "gn (IP)",
       "file": "gn-ip.lst",
-      "count": 113,
+      "count": 112,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15617,7 +15617,7 @@
       "id": "svc_google-all",
       "name_ru": "google (Домены + IP)",
       "file": "google-all.lst",
-      "count": 6453,
+      "count": 6531,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15668,7 +15668,7 @@
       "id": "svc_google-ip",
       "name_ru": "google (IP)",
       "file": "google-ip.lst",
-      "count": 5441,
+      "count": 5519,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15775,7 +15775,7 @@
       "id": "svc_gp-all",
       "name_ru": "gp (Домены + IP)",
       "file": "gp-all.lst",
-      "count": 98,
+      "count": 105,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15786,7 +15786,7 @@
       "id": "svc_gp-ip",
       "name_ru": "gp (IP)",
       "file": "gp-ip.lst",
-      "count": 98,
+      "count": 105,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15797,7 +15797,7 @@
       "id": "svc_gq-all",
       "name_ru": "gq (Домены + IP)",
       "file": "gq-all.lst",
-      "count": 86,
+      "count": 85,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15808,7 +15808,7 @@
       "id": "svc_gq-ip",
       "name_ru": "gq (IP)",
       "file": "gq-ip.lst",
-      "count": 86,
+      "count": 85,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15819,7 +15819,7 @@
       "id": "svc_gr-all",
       "name_ru": "gr (Домены + IP)",
       "file": "gr-all.lst",
-      "count": 1414,
+      "count": 1421,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15830,7 +15830,7 @@
       "id": "svc_gr-ip",
       "name_ru": "gr (IP)",
       "file": "gr-ip.lst",
-      "count": 1414,
+      "count": 1421,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15969,7 +15969,7 @@
       "id": "svc_gs-all",
       "name_ru": "gs (Домены + IP)",
       "file": "gs-all.lst",
-      "count": 37,
+      "count": 36,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15980,7 +15980,7 @@
       "id": "svc_gs-ip",
       "name_ru": "gs (IP)",
       "file": "gs-ip.lst",
-      "count": 37,
+      "count": 36,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -15991,7 +15991,7 @@
       "id": "svc_gt-all",
       "name_ru": "gt (Домены + IP)",
       "file": "gt-all.lst",
-      "count": 300,
+      "count": 302,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16002,7 +16002,7 @@
       "id": "svc_gt-ip",
       "name_ru": "gt (IP)",
       "file": "gt-ip.lst",
-      "count": 300,
+      "count": 302,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16013,7 +16013,7 @@
       "id": "svc_gthost-all",
       "name_ru": "gthost (Домены + IP)",
       "file": "gthost-all.lst",
-      "count": 18,
+      "count": 17,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16024,7 +16024,7 @@
       "id": "svc_gthost-ip",
       "name_ru": "gthost (IP)",
       "file": "gthost-ip.lst",
-      "count": 18,
+      "count": 17,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16035,7 +16035,7 @@
       "id": "svc_gu-all",
       "name_ru": "gu (Домены + IP)",
       "file": "gu-all.lst",
-      "count": 275,
+      "count": 274,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16046,7 +16046,7 @@
       "id": "svc_gu-ip",
       "name_ru": "gu (IP)",
       "file": "gu-ip.lst",
-      "count": 275,
+      "count": 274,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16105,7 +16105,7 @@
       "id": "svc_gw-all",
       "name_ru": "gw (Домены + IP)",
       "file": "gw-all.lst",
-      "count": 97,
+      "count": 96,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16116,7 +16116,7 @@
       "id": "svc_gw-ip",
       "name_ru": "gw (IP)",
       "file": "gw-ip.lst",
-      "count": 97,
+      "count": 96,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16127,7 +16127,7 @@
       "id": "svc_gy-all",
       "name_ru": "gy (Домены + IP)",
       "file": "gy-all.lst",
-      "count": 109,
+      "count": 108,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16138,7 +16138,7 @@
       "id": "svc_gy-ip",
       "name_ru": "gy (IP)",
       "file": "gy-ip.lst",
-      "count": 109,
+      "count": 108,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16563,7 +16563,7 @@
       "id": "svc_hk-all",
       "name_ru": "hk (Домены + IP)",
       "file": "hk-all.lst",
-      "count": 11819,
+      "count": 11808,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16574,7 +16574,7 @@
       "id": "svc_hk-ip",
       "name_ru": "hk (IP)",
       "file": "hk-ip.lst",
-      "count": 11819,
+      "count": 11808,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16713,7 +16713,7 @@
       "id": "svc_hm-all",
       "name_ru": "hm (Домены + IP)",
       "file": "hm-all.lst",
-      "count": 36,
+      "count": 35,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16732,7 +16732,7 @@
       "id": "svc_hm-ip",
       "name_ru": "hm (IP)",
       "file": "hm-ip.lst",
-      "count": 35,
+      "count": 34,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16743,7 +16743,7 @@
       "id": "svc_hn-all",
       "name_ru": "hn (Домены + IP)",
       "file": "hn-all.lst",
-      "count": 297,
+      "count": 298,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16754,7 +16754,7 @@
       "id": "svc_hn-ip",
       "name_ru": "hn (IP)",
       "file": "hn-ip.lst",
-      "count": 297,
+      "count": 298,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16893,7 +16893,7 @@
       "id": "svc_hr-all",
       "name_ru": "hr (Домены + IP)",
       "file": "hr-all.lst",
-      "count": 408,
+      "count": 445,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16904,7 +16904,7 @@
       "id": "svc_hr-ip",
       "name_ru": "hr (IP)",
       "file": "hr-ip.lst",
-      "count": 408,
+      "count": 445,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16953,7 +16953,7 @@
       "id": "svc_hu-all",
       "name_ru": "hu (Домены + IP)",
       "file": "hu-all.lst",
-      "count": 1371,
+      "count": 1376,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -16964,7 +16964,7 @@
       "id": "svc_hu-ip",
       "name_ru": "hu (IP)",
       "file": "hu-ip.lst",
-      "count": 1371,
+      "count": 1376,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -17343,7 +17343,7 @@
       "id": "svc_id-all",
       "name_ru": "id (Домены + IP)",
       "file": "id-all.lst",
-      "count": 4771,
+      "count": 4780,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -17354,7 +17354,7 @@
       "id": "svc_id-ip",
       "name_ru": "id (IP)",
       "file": "id-ip.lst",
-      "count": 4771,
+      "count": 4780,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -17413,7 +17413,7 @@
       "id": "svc_ie-all",
       "name_ru": "ie (Домены + IP)",
       "file": "ie-all.lst",
-      "count": 6112,
+      "count": 6133,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -17424,7 +17424,7 @@
       "id": "svc_ie-ip",
       "name_ru": "ie (IP)",
       "file": "ie-ip.lst",
-      "count": 6112,
+      "count": 6133,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -17547,7 +17547,7 @@
       "id": "svc_il-all",
       "name_ru": "il (Домены + IP)",
       "file": "il-all.lst",
-      "count": 2316,
+      "count": 2343,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -17558,7 +17558,7 @@
       "id": "svc_il-ip",
       "name_ru": "il (IP)",
       "file": "il-ip.lst",
-      "count": 2316,
+      "count": 2343,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -17783,7 +17783,7 @@
       "id": "svc_in-all",
       "name_ru": "in (Домены + IP)",
       "file": "in-all.lst",
-      "count": 10777,
+      "count": 10792,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -17794,7 +17794,7 @@
       "id": "svc_in-ip",
       "name_ru": "in (IP)",
       "file": "in-ip.lst",
-      "count": 10777,
+      "count": 10792,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -17997,7 +17997,7 @@
       "id": "svc_io-all",
       "name_ru": "io (Домены + IP)",
       "file": "io-all.lst",
-      "count": 87,
+      "count": 86,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18008,7 +18008,7 @@
       "id": "svc_io-ip",
       "name_ru": "io (IP)",
       "file": "io-ip.lst",
-      "count": 87,
+      "count": 86,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18035,7 +18035,7 @@
       "id": "svc_iq-all",
       "name_ru": "iq (Домены + IP)",
       "file": "iq-all.lst",
-      "count": 1152,
+      "count": 1154,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18046,7 +18046,7 @@
       "id": "svc_iq-ip",
       "name_ru": "iq (IP)",
       "file": "iq-ip.lst",
-      "count": 1152,
+      "count": 1154,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18073,7 +18073,7 @@
       "id": "svc_ir-all",
       "name_ru": "ir (Домены + IP)",
       "file": "ir-all.lst",
-      "count": 1135,
+      "count": 1134,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18084,7 +18084,7 @@
       "id": "svc_ir-ip",
       "name_ru": "ir (IP)",
       "file": "ir-ip.lst",
-      "count": 1135,
+      "count": 1134,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18095,7 +18095,7 @@
       "id": "svc_is-all",
       "name_ru": "is (Домены + IP)",
       "file": "is-all.lst",
-      "count": 721,
+      "count": 725,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18106,7 +18106,7 @@
       "id": "svc_is-ip",
       "name_ru": "is (IP)",
       "file": "is-ip.lst",
-      "count": 721,
+      "count": 725,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18149,7 +18149,7 @@
       "id": "svc_it-all",
       "name_ru": "it (Домены + IP)",
       "file": "it-all.lst",
-      "count": 5749,
+      "count": 5754,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18160,7 +18160,7 @@
       "id": "svc_it-ip",
       "name_ru": "it (IP)",
       "file": "it-ip.lst",
-      "count": 5749,
+      "count": 5754,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18647,7 +18647,7 @@
       "id": "svc_jo-all",
       "name_ru": "jo (Домены + IP)",
       "file": "jo-all.lst",
-      "count": 262,
+      "count": 264,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18658,7 +18658,7 @@
       "id": "svc_jo-ip",
       "name_ru": "jo (IP)",
       "file": "jo-ip.lst",
-      "count": 262,
+      "count": 264,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18685,7 +18685,7 @@
       "id": "svc_jp-all",
       "name_ru": "jp (Домены + IP)",
       "file": "jp-all.lst",
-      "count": 23071,
+      "count": 23315,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18696,7 +18696,7 @@
       "id": "svc_jp-ip",
       "name_ru": "jp (IP)",
       "file": "jp-ip.lst",
-      "count": 23071,
+      "count": 23315,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18915,7 +18915,7 @@
       "id": "svc_ke-all",
       "name_ru": "ke (Домены + IP)",
       "file": "ke-all.lst",
-      "count": 577,
+      "count": 580,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -18926,7 +18926,7 @@
       "id": "svc_ke-ip",
       "name_ru": "ke (IP)",
       "file": "ke-ip.lst",
-      "count": 577,
+      "count": 580,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19017,7 +19017,7 @@
       "id": "svc_kg-all",
       "name_ru": "kg (Домены + IP)",
       "file": "kg-all.lst",
-      "count": 317,
+      "count": 318,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19028,7 +19028,7 @@
       "id": "svc_kg-ip",
       "name_ru": "kg (IP)",
       "file": "kg-ip.lst",
-      "count": 317,
+      "count": 318,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19039,7 +19039,7 @@
       "id": "svc_kh-all",
       "name_ru": "kh (Домены + IP)",
       "file": "kh-all.lst",
-      "count": 301,
+      "count": 303,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19050,7 +19050,7 @@
       "id": "svc_kh-ip",
       "name_ru": "kh (IP)",
       "file": "kh-ip.lst",
-      "count": 301,
+      "count": 303,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19077,7 +19077,7 @@
       "id": "svc_ki-all",
       "name_ru": "ki (Домены + IP)",
       "file": "ki-all.lst",
-      "count": 144,
+      "count": 143,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19088,7 +19088,7 @@
       "id": "svc_ki-ip",
       "name_ru": "ki (IP)",
       "file": "ki-ip.lst",
-      "count": 144,
+      "count": 143,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19243,7 +19243,7 @@
       "id": "svc_km-all",
       "name_ru": "km (Домены + IP)",
       "file": "km-all.lst",
-      "count": 86,
+      "count": 85,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19254,7 +19254,7 @@
       "id": "svc_km-ip",
       "name_ru": "km (IP)",
       "file": "km-ip.lst",
-      "count": 86,
+      "count": 85,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19265,7 +19265,7 @@
       "id": "svc_kn-all",
       "name_ru": "kn (Домены + IP)",
       "file": "kn-all.lst",
-      "count": 124,
+      "count": 123,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19276,7 +19276,7 @@
       "id": "svc_kn-ip",
       "name_ru": "kn (IP)",
       "file": "kn-ip.lst",
-      "count": 124,
+      "count": 123,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19383,7 +19383,7 @@
       "id": "svc_kp-all",
       "name_ru": "kp (Домены + IP)",
       "file": "kp-all.lst",
-      "count": 742,
+      "count": 740,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19394,7 +19394,7 @@
       "id": "svc_kp-ip",
       "name_ru": "kp (IP)",
       "file": "kp-ip.lst",
-      "count": 742,
+      "count": 740,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19405,7 +19405,7 @@
       "id": "svc_kr-all",
       "name_ru": "kr (Домены + IP)",
       "file": "kr-all.lst",
-      "count": 3820,
+      "count": 3842,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19416,7 +19416,7 @@
       "id": "svc_kr-ip",
       "name_ru": "kr (IP)",
       "file": "kr-ip.lst",
-      "count": 3820,
+      "count": 3842,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19619,7 +19619,7 @@
       "id": "svc_kw-all",
       "name_ru": "kw (Домены + IP)",
       "file": "kw-all.lst",
-      "count": 574,
+      "count": 578,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19630,7 +19630,7 @@
       "id": "svc_kw-ip",
       "name_ru": "kw (IP)",
       "file": "kw-ip.lst",
-      "count": 574,
+      "count": 578,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19641,7 +19641,7 @@
       "id": "svc_ky-all",
       "name_ru": "ky (Домены + IP)",
       "file": "ky-all.lst",
-      "count": 109,
+      "count": 107,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19652,7 +19652,7 @@
       "id": "svc_ky-ip",
       "name_ru": "ky (IP)",
       "file": "ky-ip.lst",
-      "count": 109,
+      "count": 107,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19679,7 +19679,7 @@
       "id": "svc_kz-all",
       "name_ru": "kz (Домены + IP)",
       "file": "kz-all.lst",
-      "count": 1335,
+      "count": 1337,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19690,7 +19690,7 @@
       "id": "svc_kz-ip",
       "name_ru": "kz (IP)",
       "file": "kz-ip.lst",
-      "count": 1335,
+      "count": 1337,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19701,7 +19701,7 @@
       "id": "svc_la-all",
       "name_ru": "la (Домены + IP)",
       "file": "la-all.lst",
-      "count": 153,
+      "count": 152,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19712,7 +19712,7 @@
       "id": "svc_la-ip",
       "name_ru": "la (IP)",
       "file": "la-ip.lst",
-      "count": 153,
+      "count": 152,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19899,7 +19899,7 @@
       "id": "svc_lb-all",
       "name_ru": "lb (Домены + IP)",
       "file": "lb-all.lst",
-      "count": 336,
+      "count": 335,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19910,7 +19910,7 @@
       "id": "svc_lb-ip",
       "name_ru": "lb (IP)",
       "file": "lb-ip.lst",
-      "count": 336,
+      "count": 335,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19921,7 +19921,7 @@
       "id": "svc_lc-all",
       "name_ru": "lc (Домены + IP)",
       "file": "lc-all.lst",
-      "count": 100,
+      "count": 99,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -19932,7 +19932,7 @@
       "id": "svc_lc-ip",
       "name_ru": "lc (IP)",
       "file": "lc-ip.lst",
-      "count": 100,
+      "count": 99,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20023,7 +20023,7 @@
       "id": "svc_li-all",
       "name_ru": "li (Домены + IP)",
       "file": "li-all.lst",
-      "count": 236,
+      "count": 240,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20034,7 +20034,7 @@
       "id": "svc_li-ip",
       "name_ru": "li (IP)",
       "file": "li-ip.lst",
-      "count": 236,
+      "count": 240,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20397,7 +20397,7 @@
       "id": "svc_lk-all",
       "name_ru": "lk (Домены + IP)",
       "file": "lk-all.lst",
-      "count": 1847,
+      "count": 1850,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20408,7 +20408,7 @@
       "id": "svc_lk-ip",
       "name_ru": "lk (IP)",
       "file": "lk-ip.lst",
-      "count": 1847,
+      "count": 1850,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20547,7 +20547,7 @@
       "id": "svc_lr-all",
       "name_ru": "lr (Домены + IP)",
       "file": "lr-all.lst",
-      "count": 117,
+      "count": 116,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20558,7 +20558,7 @@
       "id": "svc_lr-ip",
       "name_ru": "lr (IP)",
       "file": "lr-ip.lst",
-      "count": 117,
+      "count": 116,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20569,7 +20569,7 @@
       "id": "svc_ls-all",
       "name_ru": "ls (Домены + IP)",
       "file": "ls-all.lst",
-      "count": 99,
+      "count": 98,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20580,7 +20580,7 @@
       "id": "svc_ls-ip",
       "name_ru": "ls (IP)",
       "file": "ls-ip.lst",
-      "count": 99,
+      "count": 98,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20591,7 +20591,7 @@
       "id": "svc_lt-all",
       "name_ru": "lt (Домены + IP)",
       "file": "lt-all.lst",
-      "count": 4201,
+      "count": 4200,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20602,7 +20602,7 @@
       "id": "svc_lt-ip",
       "name_ru": "lt (IP)",
       "file": "lt-ip.lst",
-      "count": 4201,
+      "count": 4200,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20613,7 +20613,7 @@
       "id": "svc_lu-all",
       "name_ru": "lu (Домены + IP)",
       "file": "lu-all.lst",
-      "count": 941,
+      "count": 945,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20624,7 +20624,7 @@
       "id": "svc_lu-ip",
       "name_ru": "lu (IP)",
       "file": "lu-ip.lst",
-      "count": 941,
+      "count": 945,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20651,7 +20651,7 @@
       "id": "svc_lv-all",
       "name_ru": "lv (Домены + IP)",
       "file": "lv-all.lst",
-      "count": 986,
+      "count": 990,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20662,7 +20662,7 @@
       "id": "svc_lv-ip",
       "name_ru": "lv (IP)",
       "file": "lv-ip.lst",
-      "count": 986,
+      "count": 990,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20673,7 +20673,7 @@
       "id": "svc_ly-all",
       "name_ru": "ly (Домены + IP)",
       "file": "ly-all.lst",
-      "count": 111,
+      "count": 113,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20684,7 +20684,7 @@
       "id": "svc_ly-ip",
       "name_ru": "ly (IP)",
       "file": "ly-ip.lst",
-      "count": 111,
+      "count": 113,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20711,7 +20711,7 @@
       "id": "svc_ma-all",
       "name_ru": "ma (Домены + IP)",
       "file": "ma-all.lst",
-      "count": 299,
+      "count": 301,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -20722,7 +20722,7 @@
       "id": "svc_ma-ip",
       "name_ru": "ma (IP)",
       "file": "ma-ip.lst",
-      "count": 299,
+      "count": 301,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21037,7 +21037,7 @@
       "id": "svc_mc-all",
       "name_ru": "mc (Домены + IP)",
       "file": "mc-all.lst",
-      "count": 115,
+      "count": 119,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21048,7 +21048,7 @@
       "id": "svc_mc-ip",
       "name_ru": "mc (IP)",
       "file": "mc-ip.lst",
-      "count": 115,
+      "count": 119,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21075,7 +21075,7 @@
       "id": "svc_md-all",
       "name_ru": "md (Домены + IP)",
       "file": "md-all.lst",
-      "count": 2156,
+      "count": 2160,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21086,7 +21086,7 @@
       "id": "svc_md-ip",
       "name_ru": "md (IP)",
       "file": "md-ip.lst",
-      "count": 2156,
+      "count": 2160,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21113,7 +21113,7 @@
       "id": "svc_me-all",
       "name_ru": "me (Домены + IP)",
       "file": "me-all.lst",
-      "count": 147,
+      "count": 151,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21124,7 +21124,7 @@
       "id": "svc_me-ip",
       "name_ru": "me (IP)",
       "file": "me-ip.lst",
-      "count": 147,
+      "count": 151,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21433,7 +21433,7 @@
       "id": "svc_mf-all",
       "name_ru": "mf (Домены + IP)",
       "file": "mf-all.lst",
-      "count": 86,
+      "count": 85,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21444,7 +21444,7 @@
       "id": "svc_mf-ip",
       "name_ru": "mf (IP)",
       "file": "mf-ip.lst",
-      "count": 86,
+      "count": 85,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21455,7 +21455,7 @@
       "id": "svc_mg-all",
       "name_ru": "mg (Домены + IP)",
       "file": "mg-all.lst",
-      "count": 122,
+      "count": 124,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21466,7 +21466,7 @@
       "id": "svc_mg-ip",
       "name_ru": "mg (IP)",
       "file": "mg-ip.lst",
-      "count": 122,
+      "count": 124,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21477,7 +21477,7 @@
       "id": "svc_mh-all",
       "name_ru": "mh (Домены + IP)",
       "file": "mh-all.lst",
-      "count": 80,
+      "count": 79,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21488,7 +21488,7 @@
       "id": "svc_mh-ip",
       "name_ru": "mh (IP)",
       "file": "mh-ip.lst",
-      "count": 80,
+      "count": 79,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21787,7 +21787,7 @@
       "id": "svc_mk-all",
       "name_ru": "mk (Домены + IP)",
       "file": "mk-all.lst",
-      "count": 189,
+      "count": 194,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21798,7 +21798,7 @@
       "id": "svc_mk-ip",
       "name_ru": "mk (IP)",
       "file": "mk-ip.lst",
-      "count": 189,
+      "count": 194,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21809,7 +21809,7 @@
       "id": "svc_ml-all",
       "name_ru": "ml (Домены + IP)",
       "file": "ml-all.lst",
-      "count": 90,
+      "count": 92,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21820,7 +21820,7 @@
       "id": "svc_ml-ip",
       "name_ru": "ml (IP)",
       "file": "ml-ip.lst",
-      "count": 90,
+      "count": 92,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21831,7 +21831,7 @@
       "id": "svc_mm-all",
       "name_ru": "mm (Домены + IP)",
       "file": "mm-all.lst",
-      "count": 384,
+      "count": 386,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21842,7 +21842,7 @@
       "id": "svc_mm-ip",
       "name_ru": "mm (IP)",
       "file": "mm-ip.lst",
-      "count": 384,
+      "count": 386,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21853,7 +21853,7 @@
       "id": "svc_mn-all",
       "name_ru": "mn (Домены + IP)",
       "file": "mn-all.lst",
-      "count": 326,
+      "count": 325,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21864,7 +21864,7 @@
       "id": "svc_mn-ip",
       "name_ru": "mn (IP)",
       "file": "mn-ip.lst",
-      "count": 326,
+      "count": 325,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21875,7 +21875,7 @@
       "id": "svc_mo-all",
       "name_ru": "mo (Домены + IP)",
       "file": "mo-all.lst",
-      "count": 786,
+      "count": 782,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -21886,7 +21886,7 @@
       "id": "svc_mo-ip",
       "name_ru": "mo (IP)",
       "file": "mo-ip.lst",
-      "count": 786,
+      "count": 782,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22169,7 +22169,7 @@
       "id": "svc_mp-all",
       "name_ru": "mp (Домены + IP)",
       "file": "mp-all.lst",
-      "count": 72,
+      "count": 71,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22180,7 +22180,7 @@
       "id": "svc_mp-ip",
       "name_ru": "mp (IP)",
       "file": "mp-ip.lst",
-      "count": 72,
+      "count": 71,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22213,7 +22213,7 @@
       "id": "svc_mr-all",
       "name_ru": "mr (Домены + IP)",
       "file": "mr-all.lst",
-      "count": 97,
+      "count": 96,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22224,7 +22224,7 @@
       "id": "svc_mr-ip",
       "name_ru": "mr (IP)",
       "file": "mr-ip.lst",
-      "count": 97,
+      "count": 96,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22235,7 +22235,7 @@
       "id": "svc_ms-all",
       "name_ru": "ms (Домены + IP)",
       "file": "ms-all.lst",
-      "count": 84,
+      "count": 83,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22246,7 +22246,7 @@
       "id": "svc_ms-ip",
       "name_ru": "ms (IP)",
       "file": "ms-ip.lst",
-      "count": 84,
+      "count": 83,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22289,7 +22289,7 @@
       "id": "svc_mt-all",
       "name_ru": "mt (Домены + IP)",
       "file": "mt-all.lst",
-      "count": 239,
+      "count": 231,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22300,7 +22300,7 @@
       "id": "svc_mt-ip",
       "name_ru": "mt (IP)",
       "file": "mt-ip.lst",
-      "count": 239,
+      "count": 231,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22327,7 +22327,7 @@
       "id": "svc_mu-all",
       "name_ru": "mu (Домены + IP)",
       "file": "mu-all.lst",
-      "count": 7849,
+      "count": 7848,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22338,7 +22338,7 @@
       "id": "svc_mu-ip",
       "name_ru": "mu (IP)",
       "file": "mu-ip.lst",
-      "count": 7849,
+      "count": 7848,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22429,7 +22429,7 @@
       "id": "svc_mv-all",
       "name_ru": "mv (Домены + IP)",
       "file": "mv-all.lst",
-      "count": 141,
+      "count": 140,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22440,7 +22440,7 @@
       "id": "svc_mv-ip",
       "name_ru": "mv (IP)",
       "file": "mv-ip.lst",
-      "count": 141,
+      "count": 140,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22467,7 +22467,7 @@
       "id": "svc_mw-all",
       "name_ru": "mw (Домены + IP)",
       "file": "mw-all.lst",
-      "count": 158,
+      "count": 157,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22478,7 +22478,7 @@
       "id": "svc_mw-ip",
       "name_ru": "mw (IP)",
       "file": "mw-ip.lst",
-      "count": 158,
+      "count": 157,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22489,7 +22489,7 @@
       "id": "svc_mx-all",
       "name_ru": "mx (Домены + IP)",
       "file": "mx-all.lst",
-      "count": 2607,
+      "count": 2697,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22500,7 +22500,7 @@
       "id": "svc_mx-ip",
       "name_ru": "mx (IP)",
       "file": "mx-ip.lst",
-      "count": 2607,
+      "count": 2697,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22527,7 +22527,7 @@
       "id": "svc_my-all",
       "name_ru": "my (Домены + IP)",
       "file": "my-all.lst",
-      "count": 1803,
+      "count": 1729,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22538,7 +22538,7 @@
       "id": "svc_my-ip",
       "name_ru": "my (IP)",
       "file": "my-ip.lst",
-      "count": 1803,
+      "count": 1729,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22613,7 +22613,7 @@
       "id": "svc_mz-all",
       "name_ru": "mz (Домены + IP)",
       "file": "mz-all.lst",
-      "count": 129,
+      "count": 131,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22624,7 +22624,7 @@
       "id": "svc_mz-ip",
       "name_ru": "mz (IP)",
       "file": "mz-ip.lst",
-      "count": 129,
+      "count": 131,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22683,7 +22683,7 @@
       "id": "svc_na-all",
       "name_ru": "na (Домены + IP)",
       "file": "na-all.lst",
-      "count": 114,
+      "count": 113,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -22694,7 +22694,7 @@
       "id": "svc_na-ip",
       "name_ru": "na (IP)",
       "file": "na-ip.lst",
-      "count": 114,
+      "count": 113,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23083,7 +23083,7 @@
       "id": "svc_nf-all",
       "name_ru": "nf (Домены + IP)",
       "file": "nf-all.lst",
-      "count": 79,
+      "count": 78,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23094,7 +23094,7 @@
       "id": "svc_nf-ip",
       "name_ru": "nf (IP)",
       "file": "nf-ip.lst",
-      "count": 79,
+      "count": 78,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23105,7 +23105,7 @@
       "id": "svc_ng-all",
       "name_ru": "ng (Домены + IP)",
       "file": "ng-all.lst",
-      "count": 696,
+      "count": 699,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23116,7 +23116,7 @@
       "id": "svc_ng-ip",
       "name_ru": "ng (IP)",
       "file": "ng-ip.lst",
-      "count": 696,
+      "count": 699,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23191,7 +23191,7 @@
       "id": "svc_ni-all",
       "name_ru": "ni (Домены + IP)",
       "file": "ni-all.lst",
-      "count": 129,
+      "count": 128,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23202,7 +23202,7 @@
       "id": "svc_ni-ip",
       "name_ru": "ni (IP)",
       "file": "ni-ip.lst",
-      "count": 129,
+      "count": 128,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23387,7 +23387,7 @@
       "id": "svc_nl-all",
       "name_ru": "nl (Домены + IP)",
       "file": "nl-all.lst",
-      "count": 156000,
+      "count": 156155,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23398,7 +23398,7 @@
       "id": "svc_nl-ip",
       "name_ru": "nl (IP)",
       "file": "nl-ip.lst",
-      "count": 156000,
+      "count": 156155,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23409,7 +23409,7 @@
       "id": "svc_no-all",
       "name_ru": "no (Домены + IP)",
       "file": "no-all.lst",
-      "count": 2019,
+      "count": 2023,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23420,7 +23420,7 @@
       "id": "svc_no-ip",
       "name_ru": "no (IP)",
       "file": "no-ip.lst",
-      "count": 2019,
+      "count": 2023,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23559,7 +23559,7 @@
       "id": "svc_np-all",
       "name_ru": "np (Домены + IP)",
       "file": "np-all.lst",
-      "count": 360,
+      "count": 362,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23570,7 +23570,7 @@
       "id": "svc_np-ip",
       "name_ru": "np (IP)",
       "file": "np-ip.lst",
-      "count": 360,
+      "count": 362,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23597,7 +23597,7 @@
       "id": "svc_nr-all",
       "name_ru": "nr (Домены + IP)",
       "file": "nr-all.lst",
-      "count": 86,
+      "count": 85,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23608,7 +23608,7 @@
       "id": "svc_nr-ip",
       "name_ru": "nr (IP)",
       "file": "nr-ip.lst",
-      "count": 86,
+      "count": 85,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23619,7 +23619,7 @@
       "id": "svc_nu-all",
       "name_ru": "nu (Домены + IP)",
       "file": "nu-all.lst",
-      "count": 76,
+      "count": 75,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23630,7 +23630,7 @@
       "id": "svc_nu-ip",
       "name_ru": "nu (IP)",
       "file": "nu-ip.lst",
-      "count": 76,
+      "count": 75,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23753,7 +23753,7 @@
       "id": "svc_nz-all",
       "name_ru": "nz (Домены + IP)",
       "file": "nz-all.lst",
-      "count": 2770,
+      "count": 2766,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23764,7 +23764,7 @@
       "id": "svc_nz-ip",
       "name_ru": "nz (IP)",
       "file": "nz-ip.lst",
-      "count": 2770,
+      "count": 2766,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23919,7 +23919,7 @@
       "id": "svc_om-all",
       "name_ru": "om (Домены + IP)",
       "file": "om-all.lst",
-      "count": 508,
+      "count": 507,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -23930,7 +23930,7 @@
       "id": "svc_om-ip",
       "name_ru": "om (IP)",
       "file": "om-ip.lst",
-      "count": 508,
+      "count": 507,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24197,7 +24197,7 @@
       "id": "svc_oracle-all",
       "name_ru": "oracle (Домены + IP)",
       "file": "oracle-all.lst",
-      "count": 568,
+      "count": 569,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24216,7 +24216,7 @@
       "id": "svc_oracle-ip",
       "name_ru": "oracle (IP)",
       "file": "oracle-ip.lst",
-      "count": 551,
+      "count": 552,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24393,7 +24393,7 @@
       "id": "svc_pa-all",
       "name_ru": "pa (Домены + IP)",
       "file": "pa-all.lst",
-      "count": 542,
+      "count": 541,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24404,7 +24404,7 @@
       "id": "svc_pa-ip",
       "name_ru": "pa (IP)",
       "file": "pa-ip.lst",
-      "count": 542,
+      "count": 541,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24607,7 +24607,7 @@
       "id": "svc_pe-all",
       "name_ru": "pe (Домены + IP)",
       "file": "pe-all.lst",
-      "count": 955,
+      "count": 954,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24618,7 +24618,7 @@
       "id": "svc_pe-ip",
       "name_ru": "pe (IP)",
       "file": "pe-ip.lst",
-      "count": 955,
+      "count": 954,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24715,7 +24715,7 @@
       "id": "svc_pg-all",
       "name_ru": "pg (Домены + IP)",
       "file": "pg-all.lst",
-      "count": 155,
+      "count": 154,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24726,7 +24726,7 @@
       "id": "svc_pg-ip",
       "name_ru": "pg (IP)",
       "file": "pg-ip.lst",
-      "count": 155,
+      "count": 154,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24753,7 +24753,7 @@
       "id": "svc_ph-all",
       "name_ru": "ph (Домены + IP)",
       "file": "ph-all.lst",
-      "count": 1492,
+      "count": 1568,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -24764,7 +24764,7 @@
       "id": "svc_ph-ip",
       "name_ru": "ph (IP)",
       "file": "ph-ip.lst",
-      "count": 1492,
+      "count": 1568,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25031,7 +25031,7 @@
       "id": "svc_pk-all",
       "name_ru": "pk (Домены + IP)",
       "file": "pk-all.lst",
-      "count": 743,
+      "count": 746,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25042,7 +25042,7 @@
       "id": "svc_pk-ip",
       "name_ru": "pk (IP)",
       "file": "pk-ip.lst",
-      "count": 743,
+      "count": 746,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25053,7 +25053,7 @@
       "id": "svc_pl-all",
       "name_ru": "pl (Домены + IP)",
       "file": "pl-all.lst",
-      "count": 7623,
+      "count": 7182,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25064,7 +25064,7 @@
       "id": "svc_pl-ip",
       "name_ru": "pl (IP)",
       "file": "pl-ip.lst",
-      "count": 7623,
+      "count": 7182,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25129,7 +25129,7 @@
       "id": "playstation-all",
       "name_ru": "playstation (Домены + IP)",
       "file": "playstation-all.lst",
-      "count": 3,
+      "count": 4,
       "default_on": false,
       "kind": "domains"
     },
@@ -25137,7 +25137,7 @@
       "id": "playstation-domains",
       "name_ru": "playstation (Домены)",
       "file": "playstation-domains.lst",
-      "count": 3,
+      "count": 4,
       "default_on": false,
       "kind": "domains"
     },
@@ -25177,7 +25177,7 @@
       "id": "svc_pm-all",
       "name_ru": "pm (Домены + IP)",
       "file": "pm-all.lst",
-      "count": 87,
+      "count": 86,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25188,7 +25188,7 @@
       "id": "svc_pm-ip",
       "name_ru": "pm (IP)",
       "file": "pm-ip.lst",
-      "count": 87,
+      "count": 86,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25199,7 +25199,7 @@
       "id": "svc_pn-all",
       "name_ru": "pn (Домены + IP)",
       "file": "pn-all.lst",
-      "count": 33,
+      "count": 32,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25210,7 +25210,7 @@
       "id": "svc_pn-ip",
       "name_ru": "pn (IP)",
       "file": "pn-ip.lst",
-      "count": 33,
+      "count": 32,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25381,7 +25381,7 @@
       "id": "svc_pr-all",
       "name_ru": "pr (Домены + IP)",
       "file": "pr-all.lst",
-      "count": 842,
+      "count": 847,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25392,7 +25392,7 @@
       "id": "svc_pr-ip",
       "name_ru": "pr (IP)",
       "file": "pr-ip.lst",
-      "count": 842,
+      "count": 847,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25567,7 +25567,7 @@
       "id": "svc_pt-all",
       "name_ru": "pt (Домены + IP)",
       "file": "pt-all.lst",
-      "count": 2110,
+      "count": 2112,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25578,7 +25578,7 @@
       "id": "svc_pt-ip",
       "name_ru": "pt (IP)",
       "file": "pt-ip.lst",
-      "count": 2110,
+      "count": 2112,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25669,7 +25669,7 @@
       "id": "svc_pw-all",
       "name_ru": "pw (Домены + IP)",
       "file": "pw-all.lst",
-      "count": 80,
+      "count": 79,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25680,7 +25680,7 @@
       "id": "svc_pw-ip",
       "name_ru": "pw (IP)",
       "file": "pw-ip.lst",
-      "count": 80,
+      "count": 79,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25691,7 +25691,7 @@
       "id": "svc_py-all",
       "name_ru": "py (Домены + IP)",
       "file": "py-all.lst",
-      "count": 261,
+      "count": 260,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25702,7 +25702,7 @@
       "id": "svc_py-ip",
       "name_ru": "py (IP)",
       "file": "py-ip.lst",
-      "count": 261,
+      "count": 260,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25729,7 +25729,7 @@
       "id": "svc_qa-all",
       "name_ru": "qa (Домены + IP)",
       "file": "qa-all.lst",
-      "count": 395,
+      "count": 400,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -25740,7 +25740,7 @@
       "id": "svc_qa-ip",
       "name_ru": "qa (IP)",
       "file": "qa-ip.lst",
-      "count": 395,
+      "count": 400,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26119,7 +26119,7 @@
       "id": "svc_re-all",
       "name_ru": "re (Домены + IP)",
       "file": "re-all.lst",
-      "count": 143,
+      "count": 132,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26130,7 +26130,7 @@
       "id": "svc_re-ip",
       "name_ru": "re (IP)",
       "file": "re-ip.lst",
-      "count": 143,
+      "count": 132,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26478,7 +26478,7 @@
       "id": "svc_ro-all",
       "name_ru": "ro (Домены + IP)",
       "file": "ro-all.lst",
-      "count": 2204,
+      "count": 2196,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26489,7 +26489,7 @@
       "id": "svc_ro-ip",
       "name_ru": "ro (IP)",
       "file": "ro-ip.lst",
-      "count": 2204,
+      "count": 2196,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26594,7 +26594,7 @@
       "id": "svc_rs-all",
       "name_ru": "rs (Домены + IP)",
       "file": "rs-all.lst",
-      "count": 1167,
+      "count": 1147,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26605,7 +26605,7 @@
       "id": "svc_rs-ip",
       "name_ru": "rs (IP)",
       "file": "rs-ip.lst",
-      "count": 1167,
+      "count": 1147,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26664,7 +26664,7 @@
       "id": "svc_ru-all",
       "name_ru": "ru (Домены + IP)",
       "file": "ru-all.lst",
-      "count": 17509,
+      "count": 17510,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26691,7 +26691,7 @@
       "id": "svc_ru-ip",
       "name_ru": "ru (IP)",
       "file": "ru-ip.lst",
-      "count": 17509,
+      "count": 17510,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26814,7 +26814,7 @@
       "id": "svc_rw-all",
       "name_ru": "rw (Домены + IP)",
       "file": "rw-all.lst",
-      "count": 139,
+      "count": 138,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26825,7 +26825,7 @@
       "id": "svc_rw-ip",
       "name_ru": "rw (IP)",
       "file": "rw-ip.lst",
-      "count": 139,
+      "count": 138,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26836,7 +26836,7 @@
       "id": "svc_sa-all",
       "name_ru": "sa (Домены + IP)",
       "file": "sa-all.lst",
-      "count": 1249,
+      "count": 1254,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26847,7 +26847,7 @@
       "id": "svc_sa-ip",
       "name_ru": "sa (IP)",
       "file": "sa-ip.lst",
-      "count": 1249,
+      "count": 1254,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26938,7 +26938,7 @@
       "id": "svc_sb-all",
       "name_ru": "sb (Домены + IP)",
       "file": "sb-all.lst",
-      "count": 244,
+      "count": 243,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -26957,7 +26957,7 @@
       "id": "svc_sb-ip",
       "name_ru": "sb (IP)",
       "file": "sb-ip.lst",
-      "count": 236,
+      "count": 235,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27000,7 +27000,7 @@
       "id": "svc_sc-all",
       "name_ru": "sc (Домены + IP)",
       "file": "sc-all.lst",
-      "count": 2727,
+      "count": 2742,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27011,7 +27011,7 @@
       "id": "svc_sc-ip",
       "name_ru": "sc (IP)",
       "file": "sc-ip.lst",
-      "count": 2727,
+      "count": 2742,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27226,7 +27226,7 @@
       "id": "svc_sd-all",
       "name_ru": "sd (Домены + IP)",
       "file": "sd-all.lst",
-      "count": 108,
+      "count": 110,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27237,7 +27237,7 @@
       "id": "svc_sd-ip",
       "name_ru": "sd (IP)",
       "file": "sd-ip.lst",
-      "count": 108,
+      "count": 110,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27248,7 +27248,7 @@
       "id": "svc_se-all",
       "name_ru": "se (Домены + IP)",
       "file": "se-all.lst",
-      "count": 6980,
+      "count": 6986,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27259,7 +27259,7 @@
       "id": "svc_se-ip",
       "name_ru": "se (IP)",
       "file": "se-ip.lst",
-      "count": 6980,
+      "count": 6986,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27462,7 +27462,7 @@
       "id": "svc_sg-all",
       "name_ru": "sg (Домены + IP)",
       "file": "sg-all.lst",
-      "count": 53387,
+      "count": 53173,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27473,7 +27473,7 @@
       "id": "svc_sg-ip",
       "name_ru": "sg (IP)",
       "file": "sg-ip.lst",
-      "count": 53387,
+      "count": 53173,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27484,7 +27484,7 @@
       "id": "svc_sh-all",
       "name_ru": "sh (Домены + IP)",
       "file": "sh-all.lst",
-      "count": 61,
+      "count": 60,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27495,7 +27495,7 @@
       "id": "svc_sh-ip",
       "name_ru": "sh (IP)",
       "file": "sh-ip.lst",
-      "count": 61,
+      "count": 60,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27650,7 +27650,7 @@
       "id": "svc_si-all",
       "name_ru": "si (Домены + IP)",
       "file": "si-all.lst",
-      "count": 644,
+      "count": 649,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27661,7 +27661,7 @@
       "id": "svc_si-ip",
       "name_ru": "si (IP)",
       "file": "si-ip.lst",
-      "count": 644,
+      "count": 649,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27752,7 +27752,7 @@
       "id": "svc_sj-all",
       "name_ru": "sj (Домены + IP)",
       "file": "sj-all.lst",
-      "count": 47,
+      "count": 46,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27763,7 +27763,7 @@
       "id": "svc_sj-ip",
       "name_ru": "sj (IP)",
       "file": "sj-ip.lst",
-      "count": 47,
+      "count": 46,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27774,7 +27774,7 @@
       "id": "svc_sk-all",
       "name_ru": "sk (Домены + IP)",
       "file": "sk-all.lst",
-      "count": 865,
+      "count": 1040,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27785,7 +27785,7 @@
       "id": "svc_sk-ip",
       "name_ru": "sk (IP)",
       "file": "sk-ip.lst",
-      "count": 865,
+      "count": 1040,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27860,7 +27860,7 @@
       "id": "svc_sl-all",
       "name_ru": "sl (Домены + IP)",
       "file": "sl-all.lst",
-      "count": 110,
+      "count": 109,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27871,7 +27871,7 @@
       "id": "svc_sl-ip",
       "name_ru": "sl (IP)",
       "file": "sl-ip.lst",
-      "count": 110,
+      "count": 109,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27930,7 +27930,7 @@
       "id": "svc_sm-all",
       "name_ru": "sm (Домены + IP)",
       "file": "sm-all.lst",
-      "count": 103,
+      "count": 107,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -27941,7 +27941,7 @@
       "id": "svc_sm-ip",
       "name_ru": "sm (IP)",
       "file": "sm-ip.lst",
-      "count": 103,
+      "count": 107,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28016,7 +28016,7 @@
       "id": "svc_sn-all",
       "name_ru": "sn (Домены + IP)",
       "file": "sn-all.lst",
-      "count": 137,
+      "count": 139,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28027,7 +28027,7 @@
       "id": "svc_sn-ip",
       "name_ru": "sn (IP)",
       "file": "sn-ip.lst",
-      "count": 137,
+      "count": 139,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28118,7 +28118,7 @@
       "id": "svc_so-all",
       "name_ru": "so (Домены + IP)",
       "file": "so-all.lst",
-      "count": 154,
+      "count": 153,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28129,7 +28129,7 @@
       "id": "svc_so-ip",
       "name_ru": "so (IP)",
       "file": "so-ip.lst",
-      "count": 154,
+      "count": 153,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28236,7 +28236,7 @@
       "id": "svc_sony-all",
       "name_ru": "sony (Домены + IP)",
       "file": "sony-all.lst",
-      "count": 162,
+      "count": 166,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28247,7 +28247,7 @@
       "id": "sony-domains",
       "name_ru": "sony (Домены)",
       "file": "sony-domains.lst",
-      "count": 110,
+      "count": 114,
       "default_on": false,
       "kind": "domains"
     },
@@ -28522,7 +28522,7 @@
       "id": "svc_sr-all",
       "name_ru": "sr (Домены + IP)",
       "file": "sr-all.lst",
-      "count": 125,
+      "count": 124,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28533,7 +28533,7 @@
       "id": "svc_sr-ip",
       "name_ru": "sr (IP)",
       "file": "sr-ip.lst",
-      "count": 125,
+      "count": 124,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28544,7 +28544,7 @@
       "id": "svc_ss-all",
       "name_ru": "ss (Домены + IP)",
       "file": "ss-all.lst",
-      "count": 103,
+      "count": 102,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28555,7 +28555,7 @@
       "id": "svc_ss-ip",
       "name_ru": "ss (IP)",
       "file": "ss-ip.lst",
-      "count": 103,
+      "count": 102,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28598,7 +28598,7 @@
       "id": "svc_st-all",
       "name_ru": "st (Домены + IP)",
       "file": "st-all.lst",
-      "count": 95,
+      "count": 94,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -28617,7 +28617,7 @@
       "id": "svc_st-ip",
       "name_ru": "st (IP)",
       "file": "st-ip.lst",
-      "count": 94,
+      "count": 93,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29076,7 +29076,7 @@
       "id": "svc_sv-all",
       "name_ru": "sv (Домены + IP)",
       "file": "sv-all.lst",
-      "count": 216,
+      "count": 215,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29087,7 +29087,7 @@
       "id": "svc_sv-ip",
       "name_ru": "sv (IP)",
       "file": "sv-ip.lst",
-      "count": 216,
+      "count": 215,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29162,7 +29162,7 @@
       "id": "svc_sx-all",
       "name_ru": "sx (Домены + IP)",
       "file": "sx-all.lst",
-      "count": 71,
+      "count": 70,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29173,7 +29173,7 @@
       "id": "svc_sx-ip",
       "name_ru": "sx (IP)",
       "file": "sx-ip.lst",
-      "count": 71,
+      "count": 70,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29200,7 +29200,7 @@
       "id": "svc_sy-all",
       "name_ru": "sy (Домены + IP)",
       "file": "sy-all.lst",
-      "count": 128,
+      "count": 127,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29211,7 +29211,7 @@
       "id": "svc_sy-ip",
       "name_ru": "sy (IP)",
       "file": "sy-ip.lst",
-      "count": 128,
+      "count": 127,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29270,7 +29270,7 @@
       "id": "svc_sz-all",
       "name_ru": "sz (Домены + IP)",
       "file": "sz-all.lst",
-      "count": 100,
+      "count": 99,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29281,7 +29281,7 @@
       "id": "svc_sz-ip",
       "name_ru": "sz (IP)",
       "file": "sz-ip.lst",
-      "count": 100,
+      "count": 99,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29484,7 +29484,7 @@
       "id": "svc_tc-all",
       "name_ru": "tc (Домены + IP)",
       "file": "tc-all.lst",
-      "count": 85,
+      "count": 83,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29495,7 +29495,7 @@
       "id": "svc_tc-ip",
       "name_ru": "tc (IP)",
       "file": "tc-ip.lst",
-      "count": 85,
+      "count": 83,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29522,7 +29522,7 @@
       "id": "svc_td-all",
       "name_ru": "td (Домены + IP)",
       "file": "td-all.lst",
-      "count": 101,
+      "count": 100,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29533,7 +29533,7 @@
       "id": "svc_td-ip",
       "name_ru": "td (IP)",
       "file": "td-ip.lst",
-      "count": 101,
+      "count": 100,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29897,7 +29897,7 @@
       "id": "svc_tf-all",
       "name_ru": "tf (Домены + IP)",
       "file": "tf-all.lst",
-      "count": 31,
+      "count": 30,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29908,7 +29908,7 @@
       "id": "svc_tf-ip",
       "name_ru": "tf (IP)",
       "file": "tf-ip.lst",
-      "count": 31,
+      "count": 30,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29919,7 +29919,7 @@
       "id": "svc_tg-all",
       "name_ru": "tg (Домены + IP)",
       "file": "tg-all.lst",
-      "count": 108,
+      "count": 107,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29930,7 +29930,7 @@
       "id": "svc_tg-ip",
       "name_ru": "tg (IP)",
       "file": "tg-ip.lst",
-      "count": 108,
+      "count": 107,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29957,7 +29957,7 @@
       "id": "svc_th-all",
       "name_ru": "th (Домены + IP)",
       "file": "th-all.lst",
-      "count": 2541,
+      "count": 2543,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -29968,7 +29968,7 @@
       "id": "svc_th-ip",
       "name_ru": "th (IP)",
       "file": "th-ip.lst",
-      "count": 2541,
+      "count": 2543,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30283,7 +30283,7 @@
       "id": "svc_tj-all",
       "name_ru": "tj (Домены + IP)",
       "file": "tj-all.lst",
-      "count": 176,
+      "count": 175,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30294,7 +30294,7 @@
       "id": "svc_tj-ip",
       "name_ru": "tj (IP)",
       "file": "tj-ip.lst",
-      "count": 176,
+      "count": 175,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30305,7 +30305,7 @@
       "id": "svc_tk-all",
       "name_ru": "tk (Домены + IP)",
       "file": "tk-all.lst",
-      "count": 96,
+      "count": 95,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30316,7 +30316,7 @@
       "id": "svc_tk-ip",
       "name_ru": "tk (IP)",
       "file": "tk-ip.lst",
-      "count": 96,
+      "count": 95,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30327,7 +30327,7 @@
       "id": "svc_tl-all",
       "name_ru": "tl (Домены + IP)",
       "file": "tl-all.lst",
-      "count": 102,
+      "count": 101,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30338,7 +30338,7 @@
       "id": "svc_tl-ip",
       "name_ru": "tl (IP)",
       "file": "tl-ip.lst",
-      "count": 102,
+      "count": 101,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30349,7 +30349,7 @@
       "id": "svc_tm-all",
       "name_ru": "tm (Домены + IP)",
       "file": "tm-all.lst",
-      "count": 111,
+      "count": 110,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30360,7 +30360,7 @@
       "id": "svc_tm-ip",
       "name_ru": "tm (IP)",
       "file": "tm-ip.lst",
-      "count": 111,
+      "count": 110,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30403,7 +30403,7 @@
       "id": "svc_tn-all",
       "name_ru": "tn (Домены + IP)",
       "file": "tn-all.lst",
-      "count": 154,
+      "count": 156,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30414,7 +30414,7 @@
       "id": "svc_tn-ip",
       "name_ru": "tn (IP)",
       "file": "tn-ip.lst",
-      "count": 154,
+      "count": 156,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30425,7 +30425,7 @@
       "id": "svc_to-all",
       "name_ru": "to (Домены + IP)",
       "file": "to-all.lst",
-      "count": 88,
+      "count": 87,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30436,7 +30436,7 @@
       "id": "svc_to-ip",
       "name_ru": "to (IP)",
       "file": "to-ip.lst",
-      "count": 88,
+      "count": 87,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30543,7 +30543,7 @@
       "id": "svc_tr-all",
       "name_ru": "tr (Домены + IP)",
       "file": "tr-all.lst",
-      "count": 4031,
+      "count": 4034,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30554,7 +30554,7 @@
       "id": "svc_tr-ip",
       "name_ru": "tr (IP)",
       "file": "tr-ip.lst",
-      "count": 4031,
+      "count": 4034,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30709,7 +30709,7 @@
       "id": "svc_tt-all",
       "name_ru": "tt (Домены + IP)",
       "file": "tt-all.lst",
-      "count": 150,
+      "count": 148,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30720,7 +30720,7 @@
       "id": "svc_tt-ip",
       "name_ru": "tt (IP)",
       "file": "tt-ip.lst",
-      "count": 150,
+      "count": 148,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30795,7 +30795,7 @@
       "id": "svc_tv-all",
       "name_ru": "tv (Домены + IP)",
       "file": "tv-all.lst",
-      "count": 109,
+      "count": 108,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30806,7 +30806,7 @@
       "id": "svc_tv-ip",
       "name_ru": "tv (IP)",
       "file": "tv-ip.lst",
-      "count": 109,
+      "count": 108,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30865,7 +30865,7 @@
       "id": "svc_tw-all",
       "name_ru": "tw (Домены + IP)",
       "file": "tw-all.lst",
-      "count": 3222,
+      "count": 3223,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30876,7 +30876,7 @@
       "id": "svc_tw-ip",
       "name_ru": "tw (IP)",
       "file": "tw-ip.lst",
-      "count": 3222,
+      "count": 3223,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -30997,7 +30997,7 @@
       "id": "svc_tz-all",
       "name_ru": "tz (Домены + IP)",
       "file": "tz-all.lst",
-      "count": 282,
+      "count": 284,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31008,7 +31008,7 @@
       "id": "svc_tz-ip",
       "name_ru": "tz (IP)",
       "file": "tz-ip.lst",
-      "count": 282,
+      "count": 284,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31035,7 +31035,7 @@
       "id": "svc_ua-all",
       "name_ru": "ua (Домены + IP)",
       "file": "ua-all.lst",
-      "count": 3474,
+      "count": 3464,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31046,7 +31046,7 @@
       "id": "svc_ua-ip",
       "name_ru": "ua (IP)",
       "file": "ua-ip.lst",
-      "count": 3474,
+      "count": 3464,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31247,7 +31247,7 @@
       "id": "svc_ug-all",
       "name_ru": "ug (Домены + IP)",
       "file": "ug-all.lst",
-      "count": 227,
+      "count": 229,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31258,7 +31258,7 @@
       "id": "svc_ug-ip",
       "name_ru": "ug (IP)",
       "file": "ug-ip.lst",
-      "count": 227,
+      "count": 229,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31269,7 +31269,7 @@
       "id": "svc_um-all",
       "name_ru": "um (Домены + IP)",
       "file": "um-all.lst",
-      "count": 77,
+      "count": 76,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31280,7 +31280,7 @@
       "id": "svc_um-ip",
       "name_ru": "um (IP)",
       "file": "um-ip.lst",
-      "count": 77,
+      "count": 76,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31387,7 +31387,7 @@
       "id": "svc_us-all",
       "name_ru": "us (Домены + IP)",
       "file": "us-all.lst",
-      "count": 215398,
+      "count": 214421,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31398,7 +31398,7 @@
       "id": "svc_us-ip",
       "name_ru": "us (IP)",
       "file": "us-ip.lst",
-      "count": 215398,
+      "count": 214421,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31441,7 +31441,7 @@
       "id": "svc_uy-all",
       "name_ru": "uy (Домены + IP)",
       "file": "uy-all.lst",
-      "count": 193,
+      "count": 192,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31452,7 +31452,7 @@
       "id": "svc_uy-ip",
       "name_ru": "uy (IP)",
       "file": "uy-ip.lst",
-      "count": 193,
+      "count": 192,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31463,7 +31463,7 @@
       "id": "svc_uz-all",
       "name_ru": "uz (Домены + IP)",
       "file": "uz-all.lst",
-      "count": 347,
+      "count": 348,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31474,7 +31474,7 @@
       "id": "svc_uz-ip",
       "name_ru": "uz (IP)",
       "file": "uz-ip.lst",
-      "count": 347,
+      "count": 348,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31517,7 +31517,7 @@
       "id": "svc_va-all",
       "name_ru": "va (Домены + IP)",
       "file": "va-all.lst",
-      "count": 154,
+      "count": 153,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31528,7 +31528,7 @@
       "id": "svc_va-ip",
       "name_ru": "va (IP)",
       "file": "va-ip.lst",
-      "count": 154,
+      "count": 153,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31609,7 +31609,7 @@
       "id": "svc_vc-all",
       "name_ru": "vc (Домены + IP)",
       "file": "vc-all.lst",
-      "count": 83,
+      "count": 82,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31620,7 +31620,7 @@
       "id": "svc_vc-ip",
       "name_ru": "vc (IP)",
       "file": "vc-ip.lst",
-      "count": 83,
+      "count": 82,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31747,7 +31747,7 @@
       "id": "svc_vg-all",
       "name_ru": "vg (Домены + IP)",
       "file": "vg-all.lst",
-      "count": 350,
+      "count": 349,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31758,7 +31758,7 @@
       "id": "svc_vg-ip",
       "name_ru": "vg (IP)",
       "file": "vg-ip.lst",
-      "count": 350,
+      "count": 349,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31785,7 +31785,7 @@
       "id": "svc_vi-all",
       "name_ru": "vi (Домены + IP)",
       "file": "vi-all.lst",
-      "count": 184,
+      "count": 187,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31796,7 +31796,7 @@
       "id": "svc_vi-ip",
       "name_ru": "vi (IP)",
       "file": "vi-ip.lst",
-      "count": 184,
+      "count": 187,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31967,7 +31967,7 @@
       "id": "svc_vn-all",
       "name_ru": "vn (Домены + IP)",
       "file": "vn-all.lst",
-      "count": 1830,
+      "count": 1789,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -31978,7 +31978,7 @@
       "id": "svc_vn-ip",
       "name_ru": "vn (IP)",
       "file": "vn-ip.lst",
-      "count": 1830,
+      "count": 1789,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -32165,7 +32165,7 @@
       "id": "svc_vu-all",
       "name_ru": "vu (Домены + IP)",
       "file": "vu-all.lst",
-      "count": 252,
+      "count": 251,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -32176,7 +32176,7 @@
       "id": "svc_vu-ip",
       "name_ru": "vu (IP)",
       "file": "vu-ip.lst",
-      "count": 252,
+      "count": 251,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -32478,7 +32478,7 @@
       "id": "svc_wf-all",
       "name_ru": "wf (Домены + IP)",
       "file": "wf-all.lst",
-      "count": 75,
+      "count": 74,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -32489,7 +32489,7 @@
       "id": "svc_wf-ip",
       "name_ru": "wf (IP)",
       "file": "wf-ip.lst",
-      "count": 75,
+      "count": 74,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -32900,7 +32900,7 @@
       "id": "svc_ws-all",
       "name_ru": "ws (Домены + IP)",
       "file": "ws-all.lst",
-      "count": 92,
+      "count": 91,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -32911,7 +32911,7 @@
       "id": "svc_ws-ip",
       "name_ru": "ws (IP)",
       "file": "ws-ip.lst",
-      "count": 92,
+      "count": 91,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -33438,7 +33438,7 @@
       "id": "svc_ye-all",
       "name_ru": "ye (Домены + IP)",
       "file": "ye-all.lst",
-      "count": 127,
+      "count": 129,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -33449,7 +33449,7 @@
       "id": "svc_ye-ip",
       "name_ru": "ye (IP)",
       "file": "ye-ip.lst",
-      "count": 127,
+      "count": 129,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -33668,7 +33668,7 @@
       "id": "svc_yt-all",
       "name_ru": "yt (Домены + IP)",
       "file": "yt-all.lst",
-      "count": 77,
+      "count": 76,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -33679,7 +33679,7 @@
       "id": "svc_yt-ip",
       "name_ru": "yt (IP)",
       "file": "yt-ip.lst",
-      "count": 77,
+      "count": 76,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -33866,7 +33866,7 @@
       "id": "svc_za-all",
       "name_ru": "za (Домены + IP)",
       "file": "za-all.lst",
-      "count": 2171,
+      "count": 2175,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -33877,7 +33877,7 @@
       "id": "svc_za-ip",
       "name_ru": "za (IP)",
       "file": "za-ip.lst",
-      "count": 2171,
+      "count": 2175,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -34080,7 +34080,7 @@
       "id": "svc_zm-all",
       "name_ru": "zm (Домены + IP)",
       "file": "zm-all.lst",
-      "count": 139,
+      "count": 141,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -34091,7 +34091,7 @@
       "id": "svc_zm-ip",
       "name_ru": "zm (IP)",
       "file": "zm-ip.lst",
-      "count": 139,
+      "count": 141,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -34214,7 +34214,7 @@
       "id": "svc_zw-all",
       "name_ru": "zw (Домены + IP)",
       "file": "zw-all.lst",
-      "count": 196,
+      "count": 195,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -34225,7 +34225,7 @@
       "id": "svc_zw-ip",
       "name_ru": "zw (IP)",
       "file": "zw-ip.lst",
-      "count": 196,
+      "count": 195,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
