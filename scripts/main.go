@@ -353,10 +353,10 @@ func main() {
 	for _, tag := range validTags {
 		ips := all[tag].ips()
 		if len(ips) != 0 {
-			path := filepath.Join(basePath, fmt.Sprintf("%s-ip.lst", tag))
+			path := filepath.Join(basePath, fmt.Sprintf("geoip-%s.lst", tag))
 			file, err := os.OpenFile(path, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 			if err == nil {
-				file.WriteString(fmt.Sprintf("# name: %s (IP)\n", tag))
+				file.WriteString(fmt.Sprintf("# name: geoip:%s\n", tag))
 				file.WriteString(strings.Join(ips, "\n") + "\n")
 			}
 			file.Close()
@@ -364,24 +364,24 @@ func main() {
 
 		domains := all[tag].domains()
 		if len(domains) != 0 {
-			path := filepath.Join(basePath, fmt.Sprintf("%s-domains.lst", tag))
+			path := filepath.Join(basePath, fmt.Sprintf("geosite-%s.lst", tag))
 			file, err := os.OpenFile(path, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 			if err == nil {
-				file.WriteString(fmt.Sprintf("# name: %s (Домены)\n", tag))
+				file.WriteString(fmt.Sprintf("# name: geosite:%s\n", tag))
 				file.WriteString(strings.Join(domains, "\n") + "\n")
 			}
 			file.Close()
 		}
 
-		entries := all[tag].sorted()
-
-		path := filepath.Join(basePath, fmt.Sprintf("%s-all.lst", tag))
-		file, err := os.OpenFile(path, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
-		if err == nil {
-			file.WriteString(fmt.Sprintf("# name: %s (Домены + IP)\n", tag))
-			file.WriteString(strings.Join(entries, "\n") + "\n")
-		}
-		file.Close()
+		//entries := all[tag].sorted()
+		//
+		//path := filepath.Join(basePath, fmt.Sprintf("%s-all.lst", tag))
+		//file, err := os.OpenFile(path, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+		//if err == nil {
+		//	file.WriteString(fmt.Sprintf("# name: %s (Домены + IP)\n", tag))
+		//	file.WriteString(strings.Join(entries, "\n") + "\n")
+		//}
+		//file.Close()
 	}
 	fmt.Printf("  записано %d тегов\n", len(validTags))
 	fmt.Println("=== Готово ===")
