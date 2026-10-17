@@ -11,6 +11,12 @@ on:
     # 03:17 UTC. Не полночь: в полночь начинают сборку все, и общие раннеры ждут очереди.
     - cron: '17 3 * * *'
   workflow_dispatch:
+    inputs:
+      force_release:
+        description: 'Force release?'
+        required: true
+        type: boolean
+        default: false
 #  push:
 #    branches: [main]
 #    # Правка своего списка или источника — повод пересобрать сразу, а не ждать ночи.
@@ -67,7 +73,7 @@ jobs:
           fi
 
       - name: Сохранить в репозиторий
-        if: steps.diff.outputs.changed == 'yes'
+        if: inputs.force_release == true || steps.diff.outputs.changed == 'yes'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -80,7 +86,7 @@ jobs:
       # потому что всё остальное лежит там, где его ведут, и второй экземпляр списка
       # означал бы два ответа на вопрос «что сейчас в telegram.srs».
       - name: Обновить релиз
-        if: steps.diff.outputs.changed == 'yes'
+        if: inputs.force_release == true || steps.diff.outputs.changed == 'yes'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
