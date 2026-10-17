@@ -1,7 +1,0 @@
-# name: microsoft-pki (Домены + IP)
-crl.microsoft.com
-mscrl.microsoft.com
-msocsp.com
-ocsp.microsoft.com
-oneocsp.microsoft.com
-www.microsoft.com
