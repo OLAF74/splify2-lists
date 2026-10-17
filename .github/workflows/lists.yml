@@ -73,7 +73,7 @@ jobs:
           fi
 
       - name: Сохранить в репозиторий
-        if: inputs.force_release == true || steps.diff.outputs.changed == 'yes'
+        if: steps.diff.outputs.changed == 'yes'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
