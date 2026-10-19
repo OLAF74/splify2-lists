@@ -1,3 +1,6 @@
 # name: geosite:kinopoisk
 kinopoisk-ru.clstorage.net
 kinopoisk.ru
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+kp.yandex.net
