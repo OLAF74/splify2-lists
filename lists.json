@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-19_09-00",
-  "generated_at": "2026-10-19T09:00:28Z",
+  "version": "2026-10-20_08-38",
+  "generated_at": "2026-10-20T08:38:51Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -70,7 +70,7 @@
       "id": "geoip-amazon",
       "name_ru": "geoip:amazon",
       "file": "geoip-amazon.lst",
-      "count": 1744,
+      "count": 1745,
       "default_on": false
     },
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 901,
+      "count": 921,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 18065,
+      "count": 17951,
       "default_on": false
     },
     {
@@ -378,7 +378,7 @@
       "id": "geoip-cdn77",
       "name_ru": "geoip:cdn77",
       "file": "geoip-cdn77.lst",
-      "count": 190,
+      "count": 191,
       "default_on": false
     },
     {
@@ -455,14 +455,14 @@
       "id": "geoip-cogent",
       "name_ru": "geoip:cogent",
       "file": "geoip-cogent.lst",
-      "count": 757,
+      "count": 747,
       "default_on": false
     },
     {
       "id": "geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 842,
+      "count": 846,
       "default_on": false
     },
     {
@@ -525,7 +525,7 @@
       "id": "geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 2831,
+      "count": 2833,
       "default_on": false
     },
     {
@@ -546,7 +546,7 @@
       "id": "geoip-digitalocean",
       "name_ru": "geoip:digitalocean",
       "file": "geoip-digitalocean.lst",
-      "count": 168,
+      "count": 169,
       "default_on": false
     },
     {
@@ -1470,14 +1470,14 @@
       "id": "geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 1414,
+      "count": 1405,
       "default_on": false
     },
     {
       "id": "geoip-ovh",
       "name_ru": "geoip:ovh",
       "file": "geoip-ovh.lst",
-      "count": 640,
+      "count": 645,
       "default_on": false
     },
     {
@@ -1603,7 +1603,7 @@
       "id": "geoip-re-filter",
       "name_ru": "geoip:re-filter",
       "file": "geoip-re-filter.lst",
-      "count": 25158,
+      "count": 25266,
       "default_on": false
     },
     {
@@ -1939,7 +1939,7 @@
       "id": "geoip-tor",
       "name_ru": "geoip:tor",
       "file": "geoip-tor.lst",
-      "count": 645,
+      "count": 639,
       "default_on": false
     },
     {
@@ -2285,7 +2285,7 @@
       "id": "svc_geoip-amazon",
       "name_ru": "geoip:amazon",
       "file": "geoip-amazon.lst",
-      "count": 2346,
+      "count": 2344,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2857,7 +2857,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 990,
+      "count": 991,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2956,7 +2956,7 @@
       "id": "svc_geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 220,
+      "count": 221,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7399,7 +7399,7 @@
       "id": "geosite-category-ip-geo-detect",
       "name_ru": "geosite:category-ip-geo-detect",
       "file": "geosite-category-ip-geo-detect.lst",
-      "count": 235,
+      "count": 1615,
       "default_on": false,
       "kind": "domains"
     },
@@ -7455,7 +7455,7 @@
       "id": "geosite-category-medicine-ru",
       "name_ru": "geosite:category-medicine-ru",
       "file": "geosite-category-medicine-ru.lst",
-      "count": 34,
+      "count": 45,
       "default_on": false,
       "kind": "domains"
     },
@@ -7591,7 +7591,7 @@
       "id": "geosite-category-ru",
       "name_ru": "geosite:category-ru",
       "file": "geosite-category-ru.lst",
-      "count": 1130,
+      "count": 1134,
       "default_on": false,
       "kind": "domains"
     },
