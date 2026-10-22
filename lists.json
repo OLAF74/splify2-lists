@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-21_08-39",
-  "generated_at": "2026-10-21T08:39:42Z",
+  "version": "2026-10-22_08-42",
+  "generated_at": "2026-10-22T08:42:18Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 913,
+      "count": 912,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 17938,
+      "count": 17948,
       "default_on": false
     },
     {
@@ -7223,7 +7223,7 @@
       "id": "geosite-category-cryptocurrency",
       "name_ru": "geosite:category-cryptocurrency",
       "file": "geosite-category-cryptocurrency.lst",
-      "count": 234,
+      "count": 239,
       "default_on": false,
       "kind": "domains"
     },
@@ -7239,7 +7239,7 @@
       "id": "geosite-category-dev",
       "name_ru": "geosite:category-dev",
       "file": "geosite-category-dev.lst",
-      "count": 656,
+      "count": 661,
       "default_on": false,
       "kind": "domains"
     },
@@ -7263,7 +7263,7 @@
       "id": "geosite-category-ecommerce",
       "name_ru": "geosite:category-ecommerce",
       "file": "geosite-category-ecommerce.lst",
-      "count": 1195,
+      "count": 1205,
       "default_on": false,
       "kind": "domains"
     },
@@ -7311,7 +7311,7 @@
       "id": "geosite-category-entertainment",
       "name_ru": "geosite:category-entertainment",
       "file": "geosite-category-entertainment.lst",
-      "count": 2071,
+      "count": 2079,
       "default_on": false,
       "kind": "domains"
     },
@@ -7351,7 +7351,7 @@
       "id": "geosite-category-forums",
       "name_ru": "geosite:category-forums",
       "file": "geosite-category-forums.lst",
-      "count": 105,
+      "count": 106,
       "default_on": false,
       "kind": "domains"
     },
@@ -7367,7 +7367,7 @@
       "id": "geosite-category-games",
       "name_ru": "geosite:category-games",
       "file": "geosite-category-games.lst",
-      "count": 1072,
+      "count": 1079,
       "default_on": false,
       "kind": "domains"
     },
@@ -7431,7 +7431,7 @@
       "id": "geosite-category-media-ru-blocked",
       "name_ru": "geosite:category-media-ru-blocked",
       "file": "geosite-category-media-ru-blocked.lst",
-      "count": 131,
+      "count": 132,
       "default_on": false,
       "kind": "domains"
     },
@@ -7591,7 +7591,7 @@
       "id": "geosite-category-ru",
       "name_ru": "geosite:category-ru",
       "file": "geosite-category-ru.lst",
-      "count": 1136,
+      "count": 1139,
       "default_on": false,
       "kind": "domains"
     },
@@ -8844,6 +8844,14 @@
       "kind": "domains"
     },
     {
+      "id": "geosite-dsn-host",
+      "name_ru": "geosite:dsn-host",
+      "file": "geosite-dsn-host.lst",
+      "count": 3,
+      "default_on": false,
+      "kind": "domains"
+    },
+    {
       "id": "geosite-duckduckgo",
       "name_ru": "geosite:duckduckgo",
       "file": "geosite-duckduckgo.lst",
@@ -9272,6 +9280,14 @@
       "name_ru": "geosite:fandom",
       "file": "geosite-fandom.lst",
       "count": 12,
+      "default_on": false,
+      "kind": "domains"
+    },
+    {
+      "id": "geosite-fanfiction",
+      "name_ru": "geosite:fanfiction",
+      "file": "geosite-fanfiction.lst",
+      "count": 1,
       "default_on": false,
       "kind": "domains"
     },
@@ -11359,7 +11375,7 @@
       "id": "geosite-kinopub",
       "name_ru": "geosite:kinopub",
       "file": "geosite-kinopub.lst",
-      "count": 18,
+      "count": 19,
       "default_on": false,
       "kind": "domains"
     },
@@ -15039,7 +15055,7 @@
       "id": "geosite-steam",
       "name_ru": "geosite:steam",
       "file": "geosite-steam.lst",
-      "count": 55,
+      "count": 56,
       "default_on": false,
       "kind": "domains"
     },
@@ -16407,7 +16423,7 @@
       "id": "geosite-wargaming",
       "name_ru": "geosite:wargaming",
       "file": "geosite-wargaming.lst",
-      "count": 11,
+      "count": 12,
       "default_on": false,
       "kind": "domains"
     },
