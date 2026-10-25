@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-24_08-13",
-  "generated_at": "2026-10-24T08:13:06Z",
+  "version": "2026-10-25_08-30",
+  "generated_at": "2026-10-25T08:30:47Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -70,7 +70,7 @@
       "id": "geoip-amazon",
       "name_ru": "geoip:amazon",
       "file": "geoip-amazon.lst",
-      "count": 1745,
+      "count": 1746,
       "default_on": false
     },
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 913,
+      "count": 920,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 17982,
+      "count": 18051,
       "default_on": false
     },
     {
@@ -427,7 +427,7 @@
       "id": "geoip-cloudflare",
       "name_ru": "geoip:cloudflare",
       "file": "geoip-cloudflare.lst",
-      "count": 819,
+      "count": 821,
       "default_on": false
     },
     {
@@ -462,7 +462,7 @@
       "id": "geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 849,
+      "count": 848,
       "default_on": false
     },
     {
@@ -525,7 +525,7 @@
       "id": "geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 2840,
+      "count": 2841,
       "default_on": false
     },
     {
@@ -728,7 +728,7 @@
       "id": "geoip-gcore",
       "name_ru": "geoip:gcore",
       "file": "geoip-gcore.lst",
-      "count": 346,
+      "count": 348,
       "default_on": false
     },
     {
@@ -1470,14 +1470,14 @@
       "id": "geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 1414,
+      "count": 1415,
       "default_on": false
     },
     {
       "id": "geoip-ovh",
       "name_ru": "geoip:ovh",
       "file": "geoip-ovh.lst",
-      "count": 651,
+      "count": 652,
       "default_on": false
     },
     {
@@ -1694,7 +1694,7 @@
       "id": "geoip-scalaxy",
       "name_ru": "geoip:scalaxy",
       "file": "geoip-scalaxy.lst",
-      "count": 235,
+      "count": 231,
       "default_on": false
     },
     {
@@ -2857,7 +2857,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 983,
+      "count": 993,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5775,7 +5775,7 @@
       "id": "geosite-agora",
       "name_ru": "geosite:agora",
       "file": "geosite-agora.lst",
-      "count": 2,
+      "count": 3,
       "default_on": false,
       "kind": "domains"
     },
@@ -7063,7 +7063,7 @@
       "id": "geosite-category-ads-and-telemetry",
       "name_ru": "geosite:category-ads-and-telemetry",
       "file": "geosite-category-ads-and-telemetry.lst",
-      "count": 779,
+      "count": 780,
       "default_on": false,
       "kind": "domains"
     },
@@ -7471,7 +7471,7 @@
       "id": "geosite-category-netdisk",
       "name_ru": "geosite:category-netdisk",
       "file": "geosite-category-netdisk.lst",
-      "count": 50,
+      "count": 59,
       "default_on": false,
       "kind": "domains"
     },
@@ -7599,7 +7599,7 @@
       "id": "geosite-category-scholar-hk",
       "name_ru": "geosite:category-scholar-hk",
       "file": "geosite-category-scholar-hk.lst",
-      "count": 13,
+      "count": 18,
       "default_on": false,
       "kind": "domains"
     },
@@ -7623,7 +7623,7 @@
       "id": "geosite-category-scholar",
       "name_ru": "geosite:category-scholar",
       "file": "geosite-category-scholar.lst",
-      "count": 448,
+      "count": 453,
       "default_on": false,
       "kind": "domains"
     },
@@ -7863,7 +7863,7 @@
       "id": "geosite-chaoxing",
       "name_ru": "geosite:chaoxing",
       "file": "geosite-chaoxing.lst",
-      "count": 24,
+      "count": 26,
       "default_on": false,
       "kind": "domains"
     },
@@ -8351,7 +8351,7 @@
       "id": "geosite-cuhk",
       "name_ru": "geosite:cuhk",
       "file": "geosite-cuhk.lst",
-      "count": 3,
+      "count": 6,
       "default_on": false,
       "kind": "domains"
     },
@@ -8831,7 +8831,7 @@
       "id": "geosite-dropbox",
       "name_ru": "geosite:dropbox",
       "file": "geosite-dropbox.lst",
-      "count": 16,
+      "count": 25,
       "default_on": false,
       "kind": "domains"
     },
@@ -8999,7 +8999,7 @@
       "id": "geosite-eduhk",
       "name_ru": "geosite:eduhk",
       "file": "geosite-eduhk.lst",
-      "count": 3,
+      "count": 4,
       "default_on": false,
       "kind": "domains"
     },
@@ -9775,7 +9775,7 @@
       "id": "geosite-gfw",
       "name_ru": "geosite:gfw",
       "file": "geosite-gfw.lst",
-      "count": 4213,
+      "count": 4222,
       "default_on": false,
       "kind": "domains"
     },
@@ -10223,7 +10223,7 @@
       "id": "geosite-hdrezka",
       "name_ru": "geosite:hdrezka",
       "file": "geosite-hdrezka.lst",
-      "count": 11,
+      "count": 16,
       "default_on": false,
       "kind": "domains"
     },
@@ -10335,7 +10335,7 @@
       "id": "geosite-hkbu",
       "name_ru": "geosite:hkbu",
       "file": "geosite-hkbu.lst",
-      "count": 3,
+      "count": 4,
       "default_on": false,
       "kind": "domains"
     },
