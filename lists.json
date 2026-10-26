@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-25_08-30",
-  "generated_at": "2026-10-25T08:30:47Z",
+  "version": "2026-10-26_09-03",
+  "generated_at": "2026-10-26T09:03:05Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -70,7 +70,7 @@
       "id": "geoip-amazon",
       "name_ru": "geoip:amazon",
       "file": "geoip-amazon.lst",
-      "count": 1746,
+      "count": 1745,
       "default_on": false
     },
     {
@@ -84,7 +84,7 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 920,
+      "count": 909,
       "default_on": false
     },
     {
@@ -455,14 +455,14 @@
       "id": "geoip-cogent",
       "name_ru": "geoip:cogent",
       "file": "geoip-cogent.lst",
-      "count": 737,
+      "count": 734,
       "default_on": false
     },
     {
       "id": "geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 848,
+      "count": 724,
       "default_on": false
     },
     {
@@ -525,7 +525,7 @@
       "id": "geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 2841,
+      "count": 2844,
       "default_on": false
     },
     {
@@ -546,7 +546,7 @@
       "id": "geoip-digitalocean",
       "name_ru": "geoip:digitalocean",
       "file": "geoip-digitalocean.lst",
-      "count": 169,
+      "count": 170,
       "default_on": false
     },
     {
@@ -882,7 +882,7 @@
       "id": "geoip-hetzner",
       "name_ru": "geoip:hetzner",
       "file": "geoip-hetzner.lst",
-      "count": 113,
+      "count": 114,
       "default_on": false
     },
     {
@@ -1477,7 +1477,7 @@
       "id": "geoip-ovh",
       "name_ru": "geoip:ovh",
       "file": "geoip-ovh.lst",
-      "count": 652,
+      "count": 651,
       "default_on": false
     },
     {
@@ -1694,7 +1694,7 @@
       "id": "geoip-scalaxy",
       "name_ru": "geoip:scalaxy",
       "file": "geoip-scalaxy.lst",
-      "count": 231,
+      "count": 230,
       "default_on": false
     },
     {
@@ -2857,7 +2857,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 993,
+      "count": 986,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7167,7 +7167,7 @@
       "id": "geosite-category-browser",
       "name_ru": "geosite:category-browser",
       "file": "geosite-category-browser.lst",
-      "count": 35,
+      "count": 36,
       "default_on": false,
       "kind": "domains"
     },
@@ -7415,7 +7415,7 @@
       "id": "geosite-category-ir",
       "name_ru": "geosite:category-ir",
       "file": "geosite-category-ir.lst",
-      "count": 188,
+      "count": 189,
       "default_on": false,
       "kind": "domains"
     },
@@ -7423,7 +7423,7 @@
       "id": "geosite-category-media-ir",
       "name_ru": "geosite:category-media-ir",
       "file": "geosite-category-media-ir.lst",
-      "count": 28,
+      "count": 29,
       "default_on": false,
       "kind": "domains"
     },
@@ -11708,6 +11708,14 @@
       "kind": "domains"
     },
     {
+      "id": "geosite-librewolf",
+      "name_ru": "geosite:librewolf",
+      "file": "geosite-librewolf.lst",
+      "count": 2,
+      "default_on": false,
+      "kind": "domains"
+    },
+    {
       "id": "geosite-liepin",
       "name_ru": "geosite:liepin",
       "file": "geosite-liepin.lst",
@@ -12263,7 +12271,7 @@
       "id": "geosite-midea",
       "name_ru": "geosite:midea",
       "file": "geosite-midea.lst",
-      "count": 5,
+      "count": 6,
       "default_on": false,
       "kind": "domains"
     },
@@ -15519,7 +15527,7 @@
       "id": "geosite-test-ipv6",
       "name_ru": "geosite:test-ipv6",
       "file": "geosite-test-ipv6.lst",
-      "count": 24,
+      "count": 42,
       "default_on": false,
       "kind": "domains"
     },
