@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-26_09-03",
-  "generated_at": "2026-10-26T09:03:05Z",
+  "version": "2026-10-27_09-06",
+  "generated_at": "2026-10-27T09:06:04Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 909,
+      "count": 916,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 18051,
+      "count": 18003,
       "default_on": false
     },
     {
@@ -6375,7 +6375,7 @@
       "id": "geosite-azure",
       "name_ru": "geosite:azure",
       "file": "geosite-azure.lst",
-      "count": 88,
+      "count": 91,
       "default_on": false,
       "kind": "domains"
     },
@@ -7063,7 +7063,7 @@
       "id": "geosite-category-ads-and-telemetry",
       "name_ru": "geosite:category-ads-and-telemetry",
       "file": "geosite-category-ads-and-telemetry.lst",
-      "count": 780,
+      "count": 802,
       "default_on": false,
       "kind": "domains"
     },
@@ -7071,7 +7071,7 @@
       "id": "geosite-category-ai-chat",
       "name_ru": "geosite:category-ai-chat",
       "file": "geosite-category-ai-chat.lst",
-      "count": 205,
+      "count": 214,
       "default_on": false,
       "kind": "domains"
     },
@@ -7087,7 +7087,7 @@
       "id": "geosite-category-ai",
       "name_ru": "geosite:category-ai",
       "file": "geosite-category-ai.lst",
-      "count": 205,
+      "count": 214,
       "default_on": false,
       "kind": "domains"
     },
@@ -7199,7 +7199,7 @@
       "id": "geosite-category-companies",
       "name_ru": "geosite:category-companies",
       "file": "geosite-category-companies.lst",
-      "count": 8216,
+      "count": 8224,
       "default_on": false,
       "kind": "domains"
     },
@@ -7239,7 +7239,7 @@
       "id": "geosite-category-dev",
       "name_ru": "geosite:category-dev",
       "file": "geosite-category-dev.lst",
-      "count": 661,
+      "count": 663,
       "default_on": false,
       "kind": "domains"
     },
@@ -7319,7 +7319,7 @@
       "id": "geosite-category-finance",
       "name_ru": "geosite:category-finance",
       "file": "geosite-category-finance.lst",
-      "count": 726,
+      "count": 728,
       "default_on": false,
       "kind": "domains"
     },
@@ -7695,7 +7695,7 @@
       "id": "geosite-category-telemetry",
       "name_ru": "geosite:category-telemetry",
       "file": "geosite-category-telemetry.lst",
-      "count": 6,
+      "count": 214,
       "default_on": false,
       "kind": "domains"
     },
@@ -9967,7 +9967,7 @@
       "id": "geosite-google-deepmind",
       "name_ru": "geosite:google-deepmind",
       "file": "geosite-google-deepmind.lst",
-      "count": 46,
+      "count": 49,
       "default_on": false,
       "kind": "domains"
     },
@@ -9975,7 +9975,7 @@
       "id": "geosite-google-gemini",
       "name_ru": "geosite:google-gemini",
       "file": "geosite-google-gemini.lst",
-      "count": 46,
+      "count": 49,
       "default_on": false,
       "kind": "domains"
     },
@@ -12207,7 +12207,7 @@
       "id": "geosite-meta",
       "name_ru": "geosite:meta",
       "file": "geosite-meta.lst",
-      "count": 557,
+      "count": 558,
       "default_on": false,
       "kind": "domains"
     },
@@ -12247,7 +12247,7 @@
       "id": "geosite-microsoft-dev",
       "name_ru": "geosite:microsoft-dev",
       "file": "geosite-microsoft-dev.lst",
-      "count": 71,
+      "count": 73,
       "default_on": false,
       "kind": "domains"
     },
@@ -12263,7 +12263,7 @@
       "id": "geosite-microsoft",
       "name_ru": "geosite:microsoft",
       "file": "geosite-microsoft.lst",
-      "count": 639,
+      "count": 646,
       "default_on": false,
       "kind": "domains"
     },
@@ -14399,7 +14399,7 @@
       "id": "geosite-schwab",
       "name_ru": "geosite:schwab",
       "file": "geosite-schwab.lst",
-      "count": 7,
+      "count": 8,
       "default_on": false,
       "kind": "domains"
     },
