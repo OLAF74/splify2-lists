@@ -53,6 +53,9 @@ appbridge.ca
 appbridge.io
 appbridge.it
 apps5.oingo.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 appspot.com
 apture.com
 area120.com
@@ -231,11 +234,12 @@ financeleadsonline.com
 firebase-settings.crashlytics.com
 firebase.com
 firebase.dev
-firebase.google.com
 firebase.googleapis.com
 firebase.io
 firebaseapp.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com
@@ -265,6 +269,8 @@ g2.gstatic.com
 g3.gstatic.com
 gateway.dev
 gcr.io
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 gerritcodereview.com
 get.app
 get.dev

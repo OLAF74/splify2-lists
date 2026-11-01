@@ -57,6 +57,7 @@ cafe.github.com
 cdn.amplitude.com
 cdn.eu.amplitude.com
 clickstream.sberbank.ru
+cloudflareinsights-cn.com
 cloudflareinsights.com
 cnlogs.umeng.com
 cnlogs.umengcloud.com
@@ -68,6 +69,7 @@ counter.yandex.ru
 crash.163.com
 crash2.zhihu.com
 crashlytics.163.com
+crashlyticsreports-pa.googleapis.com
 data.microsoft.com
 data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
@@ -83,6 +85,7 @@ engagement-static.eu.amplitude.com
 error-tracking.megamarket.tech
 extlog.snssdk.com
 fclog.baidu.com
+firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 gs.amplitude.com
@@ -200,6 +203,7 @@ trackingprd.hwwt8.com
 trackserver.shuxinyc.com
 ulogs.umeng.com
 ulogs.umengcloud.com
+update.crashlytics.com
 v6-adashx.ut.amap.com
 v6-adashx.ut.cainiao.com
 v6-adashx.ut.ele.me

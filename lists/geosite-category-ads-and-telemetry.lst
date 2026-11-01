@@ -308,6 +308,7 @@ click.hunantv.com
 click.rustore.ru
 click.uve.weibo.com
 clickstream.sberbank.ru
+cloudflareinsights-cn.com
 cloudflareinsights.com
 cloudpush.iqiyi.com
 cm.baidu.com
@@ -328,6 +329,7 @@ cpu.baidu.com
 crash.163.com
 crash2.zhihu.com
 crashlytics.163.com
+crashlyticsreports-pa.googleapis.com
 cretgate.com
 csjplatform.com
 cstm.baidu.com
@@ -384,6 +386,7 @@ fclick.baidu.com
 fclog.baidu.com
 fcmatch.google.com
 fenxi.com
+firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 fourier.taobao.com
@@ -753,6 +756,7 @@ union.baidu.com
 unioncom.cc
 unionimage.baidu.com
 unityads.unity3d.com
+update.crashlytics.com
 uranus.sogou.com
 urchin.com
 utoken.umeng.com
