@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-01_10-34",
-  "generated_at": "2026-11-01T10:34:22Z",
+  "version": "2026-11-02_11-18",
+  "generated_at": "2026-11-02T11:18:51Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -70,7 +70,7 @@
       "id": "geoip-amazon",
       "name_ru": "geoip:amazon",
       "file": "geoip-amazon.lst",
-      "count": 1750,
+      "count": 1751,
       "default_on": false
     },
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 911,
+      "count": 913,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 18049,
+      "count": 18045,
       "default_on": false
     },
     {
@@ -525,7 +525,7 @@
       "id": "geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 2847,
+      "count": 2848,
       "default_on": false
     },
     {
@@ -854,7 +854,7 @@
       "id": "geoip-gthost",
       "name_ru": "geoip:gthost",
       "file": "geoip-gthost.lst",
-      "count": 244,
+      "count": 245,
       "default_on": false
     },
     {
@@ -1477,7 +1477,7 @@
       "id": "geoip-ovh",
       "name_ru": "geoip:ovh",
       "file": "geoip-ovh.lst",
-      "count": 655,
+      "count": 656,
       "default_on": false
     },
     {
@@ -1603,7 +1603,7 @@
       "id": "geoip-re-filter",
       "name_ru": "geoip:re-filter",
       "file": "geoip-re-filter.lst",
-      "count": 25266,
+      "count": 25391,
       "default_on": false
     },
     {
@@ -2850,7 +2850,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 817,
+      "count": 868,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4401,7 +4401,7 @@
       "id": "svc_geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 553,
+      "count": 552,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -14104,7 +14104,7 @@
       "id": "geosite-refilter",
       "name_ru": "geosite:refilter",
       "file": "geosite-refilter.lst",
-      "count": 72758,
+      "count": 73397,
       "default_on": false,
       "kind": "domains"
     },
