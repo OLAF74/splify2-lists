@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-02_11-18",
-  "generated_at": "2026-11-02T11:18:51Z",
+  "version": "2026-11-03_10-58",
+  "generated_at": "2026-11-03T10:58:09Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -14,7 +14,7 @@
       "id": "geoip-ae",
       "name_ru": "geoip:ae",
       "file": "geoip-ae.lst",
-      "count": 4733,
+      "count": 4714,
       "default_on": false
     },
     {
@@ -28,14 +28,14 @@
       "id": "geoip-af",
       "name_ru": "geoip:af",
       "file": "geoip-af.lst",
-      "count": 339,
+      "count": 344,
       "default_on": false
     },
     {
       "id": "geoip-ag",
       "name_ru": "geoip:ag",
       "file": "geoip-ag.lst",
-      "count": 190,
+      "count": 193,
       "default_on": false
     },
     {
@@ -56,14 +56,14 @@
       "id": "geoip-al",
       "name_ru": "geoip:al",
       "file": "geoip-al.lst",
-      "count": 610,
+      "count": 628,
       "default_on": false
     },
     {
       "id": "geoip-am",
       "name_ru": "geoip:am",
       "file": "geoip-am.lst",
-      "count": 448,
+      "count": 445,
       "default_on": false
     },
     {
@@ -84,21 +84,21 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 913,
+      "count": 908,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 18045,
+      "count": 18088,
       "default_on": false
     },
     {
       "id": "geoip-ao",
       "name_ru": "geoip:ao",
       "file": "geoip-ao.lst",
-      "count": 556,
+      "count": 559,
       "default_on": false
     },
     {
@@ -112,42 +112,42 @@
       "id": "geoip-aq",
       "name_ru": "geoip:aq",
       "file": "geoip-aq.lst",
-      "count": 66,
+      "count": 62,
       "default_on": false
     },
     {
       "id": "geoip-ar",
       "name_ru": "geoip:ar",
       "file": "geoip-ar.lst",
-      "count": 4873,
+      "count": 4835,
       "default_on": false
     },
     {
       "id": "geoip-as",
       "name_ru": "geoip:as",
       "file": "geoip-as.lst",
-      "count": 124,
+      "count": 131,
       "default_on": false
     },
     {
       "id": "geoip-at",
       "name_ru": "geoip:at",
       "file": "geoip-at.lst",
-      "count": 6126,
+      "count": 6121,
       "default_on": false
     },
     {
       "id": "geoip-au",
       "name_ru": "geoip:au",
       "file": "geoip-au.lst",
-      "count": 17542,
+      "count": 17492,
       "default_on": false
     },
     {
       "id": "geoip-aw",
       "name_ru": "geoip:aw",
       "file": "geoip-aw.lst",
-      "count": 105,
+      "count": 107,
       "default_on": false
     },
     {
@@ -161,7 +161,7 @@
       "id": "geoip-az",
       "name_ru": "geoip:az",
       "file": "geoip-az.lst",
-      "count": 472,
+      "count": 478,
       "default_on": false
     },
     {
@@ -175,28 +175,28 @@
       "id": "geoip-ba",
       "name_ru": "geoip:ba",
       "file": "geoip-ba.lst",
-      "count": 476,
+      "count": 481,
       "default_on": false
     },
     {
       "id": "geoip-bb",
       "name_ru": "geoip:bb",
       "file": "geoip-bb.lst",
-      "count": 258,
+      "count": 257,
       "default_on": false
     },
     {
       "id": "geoip-bd",
       "name_ru": "geoip:bd",
       "file": "geoip-bd.lst",
-      "count": 3070,
+      "count": 3073,
       "default_on": false
     },
     {
       "id": "geoip-be",
       "name_ru": "geoip:be",
       "file": "geoip-be.lst",
-      "count": 8711,
+      "count": 8764,
       "default_on": false
     },
     {
@@ -210,21 +210,21 @@
       "id": "geoip-bf",
       "name_ru": "geoip:bf",
       "file": "geoip-bf.lst",
-      "count": 171,
+      "count": 179,
       "default_on": false
     },
     {
       "id": "geoip-bg",
       "name_ru": "geoip:bg",
       "file": "geoip-bg.lst",
-      "count": 3038,
+      "count": 3058,
       "default_on": false
     },
     {
       "id": "geoip-bh",
       "name_ru": "geoip:bh",
       "file": "geoip-bh.lst",
-      "count": 420,
+      "count": 409,
       "default_on": false
     },
     {
@@ -238,14 +238,14 @@
       "id": "geoip-bj",
       "name_ru": "geoip:bj",
       "file": "geoip-bj.lst",
-      "count": 125,
+      "count": 133,
       "default_on": false
     },
     {
       "id": "geoip-bl",
       "name_ru": "geoip:bl",
       "file": "geoip-bl.lst",
-      "count": 53,
+      "count": 50,
       "default_on": false
     },
     {
@@ -259,21 +259,21 @@
       "id": "geoip-bm",
       "name_ru": "geoip:bm",
       "file": "geoip-bm.lst",
-      "count": 461,
+      "count": 457,
       "default_on": false
     },
     {
       "id": "geoip-bn",
       "name_ru": "geoip:bn",
       "file": "geoip-bn.lst",
-      "count": 152,
+      "count": 159,
       "default_on": false
     },
     {
       "id": "geoip-bo",
       "name_ru": "geoip:bo",
       "file": "geoip-bo.lst",
-      "count": 511,
+      "count": 507,
       "default_on": false
     },
     {
@@ -287,14 +287,14 @@
       "id": "geoip-br",
       "name_ru": "geoip:br",
       "file": "geoip-br.lst",
-      "count": 15047,
+      "count": 15018,
       "default_on": false
     },
     {
       "id": "geoip-bs",
       "name_ru": "geoip:bs",
       "file": "geoip-bs.lst",
-      "count": 218,
+      "count": 205,
       "default_on": false
     },
     {
@@ -322,35 +322,35 @@
       "id": "geoip-bv",
       "name_ru": "geoip:bv",
       "file": "geoip-bv.lst",
-      "count": 17,
+      "count": 16,
       "default_on": false
     },
     {
       "id": "geoip-bw",
       "name_ru": "geoip:bw",
       "file": "geoip-bw.lst",
-      "count": 191,
+      "count": 192,
       "default_on": false
     },
     {
       "id": "geoip-by",
       "name_ru": "geoip:by",
       "file": "geoip-by.lst",
-      "count": 549,
+      "count": 552,
       "default_on": false
     },
     {
       "id": "geoip-bz",
       "name_ru": "geoip:bz",
       "file": "geoip-bz.lst",
-      "count": 249,
+      "count": 240,
       "default_on": false
     },
     {
       "id": "geoip-ca",
       "name_ru": "geoip:ca",
       "file": "geoip-ca.lst",
-      "count": 48741,
+      "count": 50800,
       "default_on": false
     },
     {
@@ -392,35 +392,35 @@
       "id": "geoip-cg",
       "name_ru": "geoip:cg",
       "file": "geoip-cg.lst",
-      "count": 133,
+      "count": 132,
       "default_on": false
     },
     {
       "id": "geoip-ch",
       "name_ru": "geoip:ch",
       "file": "geoip-ch.lst",
-      "count": 8726,
+      "count": 8686,
       "default_on": false
     },
     {
       "id": "geoip-ci",
       "name_ru": "geoip:ci",
       "file": "geoip-ci.lst",
-      "count": 407,
+      "count": 408,
       "default_on": false
     },
     {
       "id": "geoip-ck",
       "name_ru": "geoip:ck",
       "file": "geoip-ck.lst",
-      "count": 61,
+      "count": 56,
       "default_on": false
     },
     {
       "id": "geoip-cl",
       "name_ru": "geoip:cl",
       "file": "geoip-cl.lst",
-      "count": 2842,
+      "count": 2848,
       "default_on": false
     },
     {
@@ -434,7 +434,7 @@
       "id": "geoip-cloudfront",
       "name_ru": "geoip:cloudfront",
       "file": "geoip-cloudfront.lst",
-      "count": 182,
+      "count": 183,
       "default_on": false
     },
     {
@@ -448,7 +448,7 @@
       "id": "geoip-co",
       "name_ru": "geoip:co",
       "file": "geoip-co.lst",
-      "count": 3762,
+      "count": 3858,
       "default_on": false
     },
     {
@@ -462,21 +462,21 @@
       "id": "geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 747,
+      "count": 727,
       "default_on": false
     },
     {
       "id": "geoip-contabo",
       "name_ru": "geoip:contabo",
       "file": "geoip-contabo.lst",
-      "count": 287,
+      "count": 289,
       "default_on": false
     },
     {
       "id": "geoip-cr",
       "name_ru": "geoip:cr",
       "file": "geoip-cr.lst",
-      "count": 855,
+      "count": 876,
       "default_on": false
     },
     {
@@ -490,14 +490,14 @@
       "id": "geoip-cv",
       "name_ru": "geoip:cv",
       "file": "geoip-cv.lst",
-      "count": 113,
+      "count": 119,
       "default_on": false
     },
     {
       "id": "geoip-cw",
       "name_ru": "geoip:cw",
       "file": "geoip-cw.lst",
-      "count": 209,
+      "count": 204,
       "default_on": false
     },
     {
@@ -511,21 +511,21 @@
       "id": "geoip-cy",
       "name_ru": "geoip:cy",
       "file": "geoip-cy.lst",
-      "count": 1292,
+      "count": 1313,
       "default_on": false
     },
     {
       "id": "geoip-cz",
       "name_ru": "geoip:cz",
       "file": "geoip-cz.lst",
-      "count": 5004,
+      "count": 5022,
       "default_on": false
     },
     {
       "id": "geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 2848,
+      "count": 2777,
       "default_on": false
     },
     {
@@ -539,7 +539,7 @@
       "id": "geoip-de",
       "name_ru": "geoip:de",
       "file": "geoip-de.lst",
-      "count": 46774,
+      "count": 46508,
       "default_on": false
     },
     {
@@ -560,14 +560,14 @@
       "id": "geoip-dj",
       "name_ru": "geoip:dj",
       "file": "geoip-dj.lst",
-      "count": 99,
+      "count": 100,
       "default_on": false
     },
     {
       "id": "geoip-dk",
       "name_ru": "geoip:dk",
       "file": "geoip-dk.lst",
-      "count": 5189,
+      "count": 5169,
       "default_on": false
     },
     {
@@ -581,35 +581,35 @@
       "id": "geoip-do",
       "name_ru": "geoip:do",
       "file": "geoip-do.lst",
-      "count": 915,
+      "count": 917,
       "default_on": false
     },
     {
       "id": "geoip-dz",
       "name_ru": "geoip:dz",
       "file": "geoip-dz.lst",
-      "count": 297,
+      "count": 296,
       "default_on": false
     },
     {
       "id": "geoip-ec",
       "name_ru": "geoip:ec",
       "file": "geoip-ec.lst",
-      "count": 1244,
+      "count": 1228,
       "default_on": false
     },
     {
       "id": "geoip-ee",
       "name_ru": "geoip:ee",
       "file": "geoip-ee.lst",
-      "count": 1547,
+      "count": 1564,
       "default_on": false
     },
     {
       "id": "geoip-eg",
       "name_ru": "geoip:eg",
       "file": "geoip-eg.lst",
-      "count": 1056,
+      "count": 1050,
       "default_on": false
     },
     {
@@ -644,7 +644,7 @@
       "id": "geoip-es",
       "name_ru": "geoip:es",
       "file": "geoip-es.lst",
-      "count": 16589,
+      "count": 16476,
       "default_on": false
     },
     {
@@ -672,14 +672,14 @@
       "id": "geoip-fi",
       "name_ru": "geoip:fi",
       "file": "geoip-fi.lst",
-      "count": 5713,
+      "count": 5644,
       "default_on": false
     },
     {
       "id": "geoip-fj",
       "name_ru": "geoip:fj",
       "file": "geoip-fj.lst",
-      "count": 149,
+      "count": 143,
       "default_on": false
     },
     {
@@ -693,7 +693,7 @@
       "id": "geoip-fm",
       "name_ru": "geoip:fm",
       "file": "geoip-fm.lst",
-      "count": 80,
+      "count": 81,
       "default_on": false
     },
     {
@@ -707,35 +707,35 @@
       "id": "geoip-fr",
       "name_ru": "geoip:fr",
       "file": "geoip-fr.lst",
-      "count": 49343,
+      "count": 49136,
       "default_on": false
     },
     {
       "id": "geoip-ga",
       "name_ru": "geoip:ga",
       "file": "geoip-ga.lst",
-      "count": 139,
+      "count": 142,
       "default_on": false
     },
     {
       "id": "geoip-gb",
       "name_ru": "geoip:gb",
       "file": "geoip-gb.lst",
-      "count": 62962,
+      "count": 62398,
       "default_on": false
     },
     {
       "id": "geoip-gcore",
       "name_ru": "geoip:gcore",
       "file": "geoip-gcore.lst",
-      "count": 348,
+      "count": 349,
       "default_on": false
     },
     {
       "id": "geoip-gd",
       "name_ru": "geoip:gd",
       "file": "geoip-gd.lst",
-      "count": 123,
+      "count": 120,
       "default_on": false
     },
     {
@@ -756,21 +756,21 @@
       "id": "geoip-gg",
       "name_ru": "geoip:gg",
       "file": "geoip-gg.lst",
-      "count": 200,
+      "count": 202,
       "default_on": false
     },
     {
       "id": "geoip-gh",
       "name_ru": "geoip:gh",
       "file": "geoip-gh.lst",
-      "count": 452,
+      "count": 449,
       "default_on": false
     },
     {
       "id": "geoip-gi",
       "name_ru": "geoip:gi",
       "file": "geoip-gi.lst",
-      "count": 208,
+      "count": 205,
       "default_on": false
     },
     {
@@ -784,7 +784,7 @@
       "id": "geoip-gl",
       "name_ru": "geoip:gl",
       "file": "geoip-gl.lst",
-      "count": 136,
+      "count": 131,
       "default_on": false
     },
     {
@@ -798,14 +798,14 @@
       "id": "geoip-gm",
       "name_ru": "geoip:gm",
       "file": "geoip-gm.lst",
-      "count": 97,
+      "count": 98,
       "default_on": false
     },
     {
       "id": "geoip-gn",
       "name_ru": "geoip:gn",
       "file": "geoip-gn.lst",
-      "count": 108,
+      "count": 110,
       "default_on": false
     },
     {
@@ -819,7 +819,7 @@
       "id": "geoip-gp",
       "name_ru": "geoip:gp",
       "file": "geoip-gp.lst",
-      "count": 364,
+      "count": 365,
       "default_on": false
     },
     {
@@ -833,7 +833,7 @@
       "id": "geoip-gr",
       "name_ru": "geoip:gr",
       "file": "geoip-gr.lst",
-      "count": 2022,
+      "count": 2013,
       "default_on": false
     },
     {
@@ -847,7 +847,7 @@
       "id": "geoip-gt",
       "name_ru": "geoip:gt",
       "file": "geoip-gt.lst",
-      "count": 840,
+      "count": 799,
       "default_on": false
     },
     {
@@ -861,7 +861,7 @@
       "id": "geoip-gu",
       "name_ru": "geoip:gu",
       "file": "geoip-gu.lst",
-      "count": 258,
+      "count": 246,
       "default_on": false
     },
     {
@@ -889,7 +889,7 @@
       "id": "geoip-hk",
       "name_ru": "geoip:hk",
       "file": "geoip-hk.lst",
-      "count": 17567,
+      "count": 17521,
       "default_on": false
     },
     {
@@ -903,112 +903,112 @@
       "id": "geoip-hn",
       "name_ru": "geoip:hn",
       "file": "geoip-hn.lst",
-      "count": 703,
+      "count": 704,
       "default_on": false
     },
     {
       "id": "geoip-hr",
       "name_ru": "geoip:hr",
       "file": "geoip-hr.lst",
-      "count": 1054,
+      "count": 1043,
       "default_on": false
     },
     {
       "id": "geoip-ht",
       "name_ru": "geoip:ht",
       "file": "geoip-ht.lst",
-      "count": 120,
+      "count": 114,
       "default_on": false
     },
     {
       "id": "geoip-hu",
       "name_ru": "geoip:hu",
       "file": "geoip-hu.lst",
-      "count": 2440,
+      "count": 2408,
       "default_on": false
     },
     {
       "id": "geoip-id",
       "name_ru": "geoip:id",
       "file": "geoip-id.lst",
-      "count": 7705,
+      "count": 7976,
       "default_on": false
     },
     {
       "id": "geoip-ie",
       "name_ru": "geoip:ie",
       "file": "geoip-ie.lst",
-      "count": 7384,
+      "count": 7359,
       "default_on": false
     },
     {
       "id": "geoip-il",
       "name_ru": "geoip:il",
       "file": "geoip-il.lst",
-      "count": 3846,
+      "count": 3820,
       "default_on": false
     },
     {
       "id": "geoip-im",
       "name_ru": "geoip:im",
       "file": "geoip-im.lst",
-      "count": 388,
+      "count": 384,
       "default_on": false
     },
     {
       "id": "geoip-in",
       "name_ru": "geoip:in",
       "file": "geoip-in.lst",
-      "count": 16732,
+      "count": 16683,
       "default_on": false
     },
     {
       "id": "geoip-io",
       "name_ru": "geoip:io",
       "file": "geoip-io.lst",
-      "count": 49,
+      "count": 40,
       "default_on": false
     },
     {
       "id": "geoip-iq",
       "name_ru": "geoip:iq",
       "file": "geoip-iq.lst",
-      "count": 858,
+      "count": 879,
       "default_on": false
     },
     {
       "id": "geoip-ir",
       "name_ru": "geoip:ir",
       "file": "geoip-ir.lst",
-      "count": 2367,
+      "count": 2374,
       "default_on": false
     },
     {
       "id": "geoip-is",
       "name_ru": "geoip:is",
       "file": "geoip-is.lst",
-      "count": 452,
+      "count": 450,
       "default_on": false
     },
     {
       "id": "geoip-it",
       "name_ru": "geoip:it",
       "file": "geoip-it.lst",
-      "count": 13073,
+      "count": 13002,
       "default_on": false
     },
     {
       "id": "geoip-je",
       "name_ru": "geoip:je",
       "file": "geoip-je.lst",
-      "count": 349,
+      "count": 346,
       "default_on": false
     },
     {
       "id": "geoip-jm",
       "name_ru": "geoip:jm",
       "file": "geoip-jm.lst",
-      "count": 383,
+      "count": 381,
       "default_on": false
     },
     {
@@ -1022,42 +1022,42 @@
       "id": "geoip-jp",
       "name_ru": "geoip:jp",
       "file": "geoip-jp.lst",
-      "count": 27408,
+      "count": 20828,
       "default_on": false
     },
     {
       "id": "geoip-ke",
       "name_ru": "geoip:ke",
       "file": "geoip-ke.lst",
-      "count": 1416,
+      "count": 1430,
       "default_on": false
     },
     {
       "id": "geoip-kg",
       "name_ru": "geoip:kg",
       "file": "geoip-kg.lst",
-      "count": 286,
+      "count": 301,
       "default_on": false
     },
     {
       "id": "geoip-kh",
       "name_ru": "geoip:kh",
       "file": "geoip-kh.lst",
-      "count": 714,
+      "count": 711,
       "default_on": false
     },
     {
       "id": "geoip-ki",
       "name_ru": "geoip:ki",
       "file": "geoip-ki.lst",
-      "count": 97,
+      "count": 95,
       "default_on": false
     },
     {
       "id": "geoip-km",
       "name_ru": "geoip:km",
       "file": "geoip-km.lst",
-      "count": 88,
+      "count": 84,
       "default_on": false
     },
     {
@@ -1078,14 +1078,14 @@
       "id": "geoip-kr",
       "name_ru": "geoip:kr",
       "file": "geoip-kr.lst",
-      "count": 5330,
+      "count": 5322,
       "default_on": false
     },
     {
       "id": "geoip-kw",
       "name_ru": "geoip:kw",
       "file": "geoip-kw.lst",
-      "count": 581,
+      "count": 580,
       "default_on": false
     },
     {
@@ -1099,49 +1099,49 @@
       "id": "geoip-kz",
       "name_ru": "geoip:kz",
       "file": "geoip-kz.lst",
-      "count": 1565,
+      "count": 1595,
       "default_on": false
     },
     {
       "id": "geoip-la",
       "name_ru": "geoip:la",
       "file": "geoip-la.lst",
-      "count": 328,
+      "count": 330,
       "default_on": false
     },
     {
       "id": "geoip-lb",
       "name_ru": "geoip:lb",
       "file": "geoip-lb.lst",
-      "count": 480,
+      "count": 483,
       "default_on": false
     },
     {
       "id": "geoip-lc",
       "name_ru": "geoip:lc",
       "file": "geoip-lc.lst",
-      "count": 128,
+      "count": 129,
       "default_on": false
     },
     {
       "id": "geoip-li",
       "name_ru": "geoip:li",
       "file": "geoip-li.lst",
-      "count": 472,
+      "count": 471,
       "default_on": false
     },
     {
       "id": "geoip-lk",
       "name_ru": "geoip:lk",
       "file": "geoip-lk.lst",
-      "count": 374,
+      "count": 372,
       "default_on": false
     },
     {
       "id": "geoip-lr",
       "name_ru": "geoip:lr",
       "file": "geoip-lr.lst",
-      "count": 141,
+      "count": 140,
       "default_on": false
     },
     {
@@ -1155,35 +1155,35 @@
       "id": "geoip-lt",
       "name_ru": "geoip:lt",
       "file": "geoip-lt.lst",
-      "count": 1972,
+      "count": 1966,
       "default_on": false
     },
     {
       "id": "geoip-lu",
       "name_ru": "geoip:lu",
       "file": "geoip-lu.lst",
-      "count": 2214,
+      "count": 2202,
       "default_on": false
     },
     {
       "id": "geoip-lv",
       "name_ru": "geoip:lv",
       "file": "geoip-lv.lst",
-      "count": 1569,
+      "count": 1542,
       "default_on": false
     },
     {
       "id": "geoip-ly",
       "name_ru": "geoip:ly",
       "file": "geoip-ly.lst",
-      "count": 181,
+      "count": 182,
       "default_on": false
     },
     {
       "id": "geoip-ma",
       "name_ru": "geoip:ma",
       "file": "geoip-ma.lst",
-      "count": 667,
+      "count": 666,
       "default_on": false
     },
     {
@@ -1197,14 +1197,14 @@
       "id": "geoip-md",
       "name_ru": "geoip:md",
       "file": "geoip-md.lst",
-      "count": 970,
+      "count": 984,
       "default_on": false
     },
     {
       "id": "geoip-me",
       "name_ru": "geoip:me",
       "file": "geoip-me.lst",
-      "count": 226,
+      "count": 229,
       "default_on": false
     },
     {
@@ -1232,14 +1232,14 @@
       "id": "geoip-mf",
       "name_ru": "geoip:mf",
       "file": "geoip-mf.lst",
-      "count": 114,
+      "count": 112,
       "default_on": false
     },
     {
       "id": "geoip-mg",
       "name_ru": "geoip:mg",
       "file": "geoip-mg.lst",
-      "count": 132,
+      "count": 119,
       "default_on": false
     },
     {
@@ -1253,119 +1253,119 @@
       "id": "geoip-mk",
       "name_ru": "geoip:mk",
       "file": "geoip-mk.lst",
-      "count": 347,
+      "count": 348,
       "default_on": false
     },
     {
       "id": "geoip-ml",
       "name_ru": "geoip:ml",
       "file": "geoip-ml.lst",
-      "count": 114,
+      "count": 113,
       "default_on": false
     },
     {
       "id": "geoip-mm",
       "name_ru": "geoip:mm",
       "file": "geoip-mm.lst",
-      "count": 531,
+      "count": 529,
       "default_on": false
     },
     {
       "id": "geoip-mn",
       "name_ru": "geoip:mn",
       "file": "geoip-mn.lst",
-      "count": 343,
+      "count": 342,
       "default_on": false
     },
     {
       "id": "geoip-mo",
       "name_ru": "geoip:mo",
       "file": "geoip-mo.lst",
-      "count": 170,
+      "count": 164,
       "default_on": false
     },
     {
       "id": "geoip-mp",
       "name_ru": "geoip:mp",
       "file": "geoip-mp.lst",
-      "count": 59,
+      "count": 58,
       "default_on": false
     },
     {
       "id": "geoip-mq",
       "name_ru": "geoip:mq",
       "file": "geoip-mq.lst",
-      "count": 293,
+      "count": 294,
       "default_on": false
     },
     {
       "id": "geoip-mr",
       "name_ru": "geoip:mr",
       "file": "geoip-mr.lst",
-      "count": 115,
+      "count": 114,
       "default_on": false
     },
     {
       "id": "geoip-ms",
       "name_ru": "geoip:ms",
       "file": "geoip-ms.lst",
-      "count": 95,
+      "count": 71,
       "default_on": false
     },
     {
       "id": "geoip-mt",
       "name_ru": "geoip:mt",
       "file": "geoip-mt.lst",
-      "count": 500,
+      "count": 519,
       "default_on": false
     },
     {
       "id": "geoip-mu",
       "name_ru": "geoip:mu",
       "file": "geoip-mu.lst",
-      "count": 3486,
+      "count": 3325,
       "default_on": false
     },
     {
       "id": "geoip-mv",
       "name_ru": "geoip:mv",
       "file": "geoip-mv.lst",
-      "count": 146,
+      "count": 149,
       "default_on": false
     },
     {
       "id": "geoip-mw",
       "name_ru": "geoip:mw",
       "file": "geoip-mw.lst",
-      "count": 143,
+      "count": 142,
       "default_on": false
     },
     {
       "id": "geoip-mx",
       "name_ru": "geoip:mx",
       "file": "geoip-mx.lst",
-      "count": 6787,
+      "count": 6731,
       "default_on": false
     },
     {
       "id": "geoip-my",
       "name_ru": "geoip:my",
       "file": "geoip-my.lst",
-      "count": 3316,
+      "count": 3314,
       "default_on": false
     },
     {
       "id": "geoip-mz",
       "name_ru": "geoip:mz",
       "file": "geoip-mz.lst",
-      "count": 250,
+      "count": 249,
       "default_on": false
     },
     {
       "id": "geoip-na",
       "name_ru": "geoip:na",
       "file": "geoip-na.lst",
-      "count": 359,
+      "count": 367,
       "default_on": false
     },
     {
@@ -1379,7 +1379,7 @@
       "id": "geoip-ne",
       "name_ru": "geoip:ne",
       "file": "geoip-ne.lst",
-      "count": 131,
+      "count": 158,
       "default_on": false
     },
     {
@@ -1400,14 +1400,14 @@
       "id": "geoip-ng",
       "name_ru": "geoip:ng",
       "file": "geoip-ng.lst",
-      "count": 1555,
+      "count": 1576,
       "default_on": false
     },
     {
       "id": "geoip-ni",
       "name_ru": "geoip:ni",
       "file": "geoip-ni.lst",
-      "count": 256,
+      "count": 250,
       "default_on": false
     },
     {
@@ -1421,28 +1421,28 @@
       "id": "geoip-nl",
       "name_ru": "geoip:nl",
       "file": "geoip-nl.lst",
-      "count": 30195,
+      "count": 30231,
       "default_on": false
     },
     {
       "id": "geoip-no",
       "name_ru": "geoip:no",
       "file": "geoip-no.lst",
-      "count": 4358,
+      "count": 4420,
       "default_on": false
     },
     {
       "id": "geoip-np",
       "name_ru": "geoip:np",
       "file": "geoip-np.lst",
-      "count": 534,
+      "count": 539,
       "default_on": false
     },
     {
       "id": "geoip-nr",
       "name_ru": "geoip:nr",
       "file": "geoip-nr.lst",
-      "count": 51,
+      "count": 56,
       "default_on": false
     },
     {
@@ -1456,7 +1456,7 @@
       "id": "geoip-nz",
       "name_ru": "geoip:nz",
       "file": "geoip-nz.lst",
-      "count": 2977,
+      "count": 2991,
       "default_on": false
     },
     {
@@ -1470,14 +1470,14 @@
       "id": "geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 1429,
+      "count": 1427,
       "default_on": false
     },
     {
       "id": "geoip-ovh",
       "name_ru": "geoip:ovh",
       "file": "geoip-ovh.lst",
-      "count": 656,
+      "count": 654,
       "default_on": false
     },
     {
@@ -1491,7 +1491,7 @@
       "id": "geoip-pe",
       "name_ru": "geoip:pe",
       "file": "geoip-pe.lst",
-      "count": 1758,
+      "count": 1720,
       "default_on": false
     },
     {
@@ -1505,28 +1505,28 @@
       "id": "geoip-pg",
       "name_ru": "geoip:pg",
       "file": "geoip-pg.lst",
-      "count": 320,
+      "count": 305,
       "default_on": false
     },
     {
       "id": "geoip-ph",
       "name_ru": "geoip:ph",
       "file": "geoip-ph.lst",
-      "count": 3067,
+      "count": 2997,
       "default_on": false
     },
     {
       "id": "geoip-pk",
       "name_ru": "geoip:pk",
       "file": "geoip-pk.lst",
-      "count": 1732,
+      "count": 1743,
       "default_on": false
     },
     {
       "id": "geoip-pl",
       "name_ru": "geoip:pl",
       "file": "geoip-pl.lst",
-      "count": 12415,
+      "count": 12951,
       "default_on": false
     },
     {
@@ -1547,14 +1547,14 @@
       "id": "geoip-pn",
       "name_ru": "geoip:pn",
       "file": "geoip-pn.lst",
-      "count": 14,
+      "count": 15,
       "default_on": false
     },
     {
       "id": "geoip-pr",
       "name_ru": "geoip:pr",
       "file": "geoip-pr.lst",
-      "count": 1367,
+      "count": 1365,
       "default_on": false
     },
     {
@@ -1568,14 +1568,14 @@
       "id": "geoip-ps",
       "name_ru": "geoip:ps",
       "file": "geoip-ps.lst",
-      "count": 538,
+      "count": 551,
       "default_on": false
     },
     {
       "id": "geoip-pt",
       "name_ru": "geoip:pt",
       "file": "geoip-pt.lst",
-      "count": 2667,
+      "count": 2706,
       "default_on": false
     },
     {
@@ -1589,14 +1589,14 @@
       "id": "geoip-py",
       "name_ru": "geoip:py",
       "file": "geoip-py.lst",
-      "count": 543,
+      "count": 542,
       "default_on": false
     },
     {
       "id": "geoip-qa",
       "name_ru": "geoip:qa",
       "file": "geoip-qa.lst",
-      "count": 578,
+      "count": 581,
       "default_on": false
     },
     {
@@ -1610,7 +1610,7 @@
       "id": "geoip-re",
       "name_ru": "geoip:re",
       "file": "geoip-re.lst",
-      "count": 430,
+      "count": 428,
       "default_on": false
     },
     {
@@ -1624,7 +1624,7 @@
       "id": "geoip-ro",
       "name_ru": "geoip:ro",
       "file": "geoip-ro.lst",
-      "count": 5001,
+      "count": 5015,
       "default_on": false
     },
     {
@@ -1638,7 +1638,7 @@
       "id": "geoip-rs",
       "name_ru": "geoip:rs",
       "file": "geoip-rs.lst",
-      "count": 1387,
+      "count": 1385,
       "default_on": false
     },
     {
@@ -1652,21 +1652,21 @@
       "id": "geoip-ru",
       "name_ru": "geoip:ru",
       "file": "geoip-ru.lst",
-      "count": 15836,
+      "count": 15786,
       "default_on": false
     },
     {
       "id": "geoip-rw",
       "name_ru": "geoip:rw",
       "file": "geoip-rw.lst",
-      "count": 155,
+      "count": 153,
       "default_on": false
     },
     {
       "id": "geoip-sa",
       "name_ru": "geoip:sa",
       "file": "geoip-sa.lst",
-      "count": 2264,
+      "count": 2275,
       "default_on": false
     },
     {
@@ -1680,7 +1680,7 @@
       "id": "geoip-sc",
       "name_ru": "geoip:sc",
       "file": "geoip-sc.lst",
-      "count": 2953,
+      "count": 2962,
       "default_on": false
     },
     {
@@ -1708,14 +1708,14 @@
       "id": "geoip-se",
       "name_ru": "geoip:se",
       "file": "geoip-se.lst",
-      "count": 13784,
+      "count": 14063,
       "default_on": false
     },
     {
       "id": "geoip-sg",
       "name_ru": "geoip:sg",
       "file": "geoip-sg.lst",
-      "count": 16967,
+      "count": 16130,
       "default_on": false
     },
     {
@@ -1729,7 +1729,7 @@
       "id": "geoip-si",
       "name_ru": "geoip:si",
       "file": "geoip-si.lst",
-      "count": 1313,
+      "count": 1309,
       "default_on": false
     },
     {
@@ -1743,7 +1743,7 @@
       "id": "geoip-sk",
       "name_ru": "geoip:sk",
       "file": "geoip-sk.lst",
-      "count": 1526,
+      "count": 1531,
       "default_on": false
     },
     {
@@ -1764,7 +1764,7 @@
       "id": "geoip-sn",
       "name_ru": "geoip:sn",
       "file": "geoip-sn.lst",
-      "count": 182,
+      "count": 183,
       "default_on": false
     },
     {
@@ -1806,7 +1806,7 @@
       "id": "geoip-sv",
       "name_ru": "geoip:sv",
       "file": "geoip-sv.lst",
-      "count": 436,
+      "count": 426,
       "default_on": false
     },
     {
@@ -1820,14 +1820,14 @@
       "id": "geoip-sy",
       "name_ru": "geoip:sy",
       "file": "geoip-sy.lst",
-      "count": 381,
+      "count": 383,
       "default_on": false
     },
     {
       "id": "geoip-sz",
       "name_ru": "geoip:sz",
       "file": "geoip-sz.lst",
-      "count": 94,
+      "count": 103,
       "default_on": false
     },
     {
@@ -1841,7 +1841,7 @@
       "id": "geoip-tc",
       "name_ru": "geoip:tc",
       "file": "geoip-tc.lst",
-      "count": 75,
+      "count": 68,
       "default_on": false
     },
     {
@@ -1876,21 +1876,21 @@
       "id": "geoip-tg",
       "name_ru": "geoip:tg",
       "file": "geoip-tg.lst",
-      "count": 92,
+      "count": 93,
       "default_on": false
     },
     {
       "id": "geoip-th",
       "name_ru": "geoip:th",
       "file": "geoip-th.lst",
-      "count": 2753,
+      "count": 2734,
       "default_on": false
     },
     {
       "id": "geoip-tj",
       "name_ru": "geoip:tj",
       "file": "geoip-tj.lst",
-      "count": 172,
+      "count": 181,
       "default_on": false
     },
     {
@@ -1904,21 +1904,21 @@
       "id": "geoip-tl",
       "name_ru": "geoip:tl",
       "file": "geoip-tl.lst",
-      "count": 125,
+      "count": 124,
       "default_on": false
     },
     {
       "id": "geoip-tm",
       "name_ru": "geoip:tm",
       "file": "geoip-tm.lst",
-      "count": 93,
+      "count": 90,
       "default_on": false
     },
     {
       "id": "geoip-tn",
       "name_ru": "geoip:tn",
       "file": "geoip-tn.lst",
-      "count": 263,
+      "count": 269,
       "default_on": false
     },
     {
@@ -1932,35 +1932,35 @@
       "id": "geoip-tor",
       "name_ru": "geoip:tor",
       "file": "geoip-tor.lst",
-      "count": 659,
+      "count": 668,
       "default_on": false
     },
     {
       "id": "geoip-tr",
       "name_ru": "geoip:tr",
       "file": "geoip-tr.lst",
-      "count": 5770,
+      "count": 5690,
       "default_on": false
     },
     {
       "id": "geoip-tt",
       "name_ru": "geoip:tt",
       "file": "geoip-tt.lst",
-      "count": 211,
+      "count": 212,
       "default_on": false
     },
     {
       "id": "geoip-tv",
       "name_ru": "geoip:tv",
       "file": "geoip-tv.lst",
-      "count": 58,
+      "count": 57,
       "default_on": false
     },
     {
       "id": "geoip-tw",
       "name_ru": "geoip:tw",
       "file": "geoip-tw.lst",
-      "count": 3336,
+      "count": 9969,
       "default_on": false
     },
     {
@@ -1974,7 +1974,7 @@
       "id": "geoip-tz",
       "name_ru": "geoip:tz",
       "file": "geoip-tz.lst",
-      "count": 494,
+      "count": 498,
       "default_on": false
     },
     {
@@ -1995,7 +1995,7 @@
       "id": "geoip-ug",
       "name_ru": "geoip:ug",
       "file": "geoip-ug.lst",
-      "count": 337,
+      "count": 335,
       "default_on": false
     },
     {
@@ -2009,21 +2009,21 @@
       "id": "geoip-us",
       "name_ru": "geoip:us",
       "file": "geoip-us.lst",
-      "count": 226237,
+      "count": 218859,
       "default_on": false
     },
     {
       "id": "geoip-uy",
       "name_ru": "geoip:uy",
       "file": "geoip-uy.lst",
-      "count": 366,
+      "count": 368,
       "default_on": false
     },
     {
       "id": "geoip-uz",
       "name_ru": "geoip:uz",
       "file": "geoip-uz.lst",
-      "count": 638,
+      "count": 637,
       "default_on": false
     },
     {
@@ -2044,14 +2044,14 @@
       "id": "geoip-vc",
       "name_ru": "geoip:vc",
       "file": "geoip-vc.lst",
-      "count": 107,
+      "count": 106,
       "default_on": false
     },
     {
       "id": "geoip-ve",
       "name_ru": "geoip:ve",
       "file": "geoip-ve.lst",
-      "count": 1373,
+      "count": 1382,
       "default_on": false
     },
     {
@@ -2065,28 +2065,28 @@
       "id": "geoip-vg",
       "name_ru": "geoip:vg",
       "file": "geoip-vg.lst",
-      "count": 390,
+      "count": 409,
       "default_on": false
     },
     {
       "id": "geoip-vi",
       "name_ru": "geoip:vi",
       "file": "geoip-vi.lst",
-      "count": 210,
+      "count": 211,
       "default_on": false
     },
     {
       "id": "geoip-vn",
       "name_ru": "geoip:vn",
       "file": "geoip-vn.lst",
-      "count": 2593,
+      "count": 2590,
       "default_on": false
     },
     {
       "id": "geoip-vu",
       "name_ru": "geoip:vu",
       "file": "geoip-vu.lst",
-      "count": 98,
+      "count": 97,
       "default_on": false
     },
     {
@@ -2114,7 +2114,7 @@
       "id": "geoip-xk",
       "name_ru": "geoip:xk",
       "file": "geoip-xk.lst",
-      "count": 215,
+      "count": 216,
       "default_on": false
     },
     {
@@ -2135,14 +2135,14 @@
       "id": "geoip-yt",
       "name_ru": "geoip:yt",
       "file": "geoip-yt.lst",
-      "count": 97,
+      "count": 99,
       "default_on": false
     },
     {
       "id": "geoip-za",
       "name_ru": "geoip:za",
       "file": "geoip-za.lst",
-      "count": 9637,
+      "count": 9601,
       "default_on": false
     },
     {
@@ -2163,7 +2163,7 @@
       "id": "geoip-zw",
       "name_ru": "geoip:zw",
       "file": "geoip-zw.lst",
-      "count": 347,
+      "count": 337,
       "default_on": false
     },
     {
@@ -2190,7 +2190,7 @@
       "id": "svc_geoip-ae",
       "name_ru": "geoip:ae",
       "file": "geoip-ae.lst",
-      "count": 3346,
+      "count": 3333,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2212,7 +2212,7 @@
       "id": "svc_geoip-af",
       "name_ru": "geoip:af",
       "file": "geoip-af.lst",
-      "count": 552,
+      "count": 562,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2223,7 +2223,7 @@
       "id": "svc_geoip-ag",
       "name_ru": "geoip:ag",
       "file": "geoip-ag.lst",
-      "count": 171,
+      "count": 175,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2234,7 +2234,7 @@
       "id": "svc_geoip-ai",
       "name_ru": "geoip:ai",
       "file": "geoip-ai.lst",
-      "count": 96,
+      "count": 100,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2256,7 +2256,7 @@
       "id": "svc_geoip-al",
       "name_ru": "geoip:al",
       "file": "geoip-al.lst",
-      "count": 1556,
+      "count": 1565,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2267,7 +2267,7 @@
       "id": "svc_geoip-am",
       "name_ru": "geoip:am",
       "file": "geoip-am.lst",
-      "count": 557,
+      "count": 564,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2300,7 +2300,7 @@
       "id": "svc_geoip-ao",
       "name_ru": "geoip:ao",
       "file": "geoip-ao.lst",
-      "count": 208,
+      "count": 210,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2322,7 +2322,7 @@
       "id": "svc_geoip-aq",
       "name_ru": "geoip:aq",
       "file": "geoip-aq.lst",
-      "count": 1019,
+      "count": 871,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2333,7 +2333,7 @@
       "id": "svc_geoip-ar",
       "name_ru": "geoip:ar",
       "file": "geoip-ar.lst",
-      "count": 2671,
+      "count": 2658,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2344,7 +2344,7 @@
       "id": "svc_geoip-as",
       "name_ru": "geoip:as",
       "file": "geoip-as.lst",
-      "count": 382,
+      "count": 387,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2355,7 +2355,7 @@
       "id": "svc_geoip-at",
       "name_ru": "geoip:at",
       "file": "geoip-at.lst",
-      "count": 3812,
+      "count": 3769,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2366,7 +2366,7 @@
       "id": "svc_geoip-au",
       "name_ru": "geoip:au",
       "file": "geoip-au.lst",
-      "count": 86953,
+      "count": 152105,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2377,7 +2377,7 @@
       "id": "svc_geoip-aw",
       "name_ru": "geoip:aw",
       "file": "geoip-aw.lst",
-      "count": 99,
+      "count": 105,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2399,7 +2399,7 @@
       "id": "svc_geoip-az",
       "name_ru": "geoip:az",
       "file": "geoip-az.lst",
-      "count": 532,
+      "count": 537,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2432,7 +2432,7 @@
       "id": "svc_geoip-bb",
       "name_ru": "geoip:bb",
       "file": "geoip-bb.lst",
-      "count": 115,
+      "count": 125,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2443,7 +2443,7 @@
       "id": "svc_geoip-bd",
       "name_ru": "geoip:bd",
       "file": "geoip-bd.lst",
-      "count": 2238,
+      "count": 2241,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2454,7 +2454,7 @@
       "id": "svc_geoip-be",
       "name_ru": "geoip:be",
       "file": "geoip-be.lst",
-      "count": 144801,
+      "count": 76827,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2476,7 +2476,7 @@
       "id": "svc_geoip-bf",
       "name_ru": "geoip:bf",
       "file": "geoip-bf.lst",
-      "count": 143,
+      "count": 149,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2487,7 +2487,7 @@
       "id": "svc_geoip-bg",
       "name_ru": "geoip:bg",
       "file": "geoip-bg.lst",
-      "count": 1571,
+      "count": 1575,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2498,7 +2498,7 @@
       "id": "svc_geoip-bh",
       "name_ru": "geoip:bh",
       "file": "geoip-bh.lst",
-      "count": 772,
+      "count": 781,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2509,7 +2509,7 @@
       "id": "svc_geoip-bi",
       "name_ru": "geoip:bi",
       "file": "geoip-bi.lst",
-      "count": 89,
+      "count": 98,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2520,7 +2520,7 @@
       "id": "svc_geoip-bj",
       "name_ru": "geoip:bj",
       "file": "geoip-bj.lst",
-      "count": 113,
+      "count": 118,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2531,7 +2531,7 @@
       "id": "svc_geoip-bl",
       "name_ru": "geoip:bl",
       "file": "geoip-bl.lst",
-      "count": 85,
+      "count": 90,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2553,7 +2553,7 @@
       "id": "svc_geoip-bm",
       "name_ru": "geoip:bm",
       "file": "geoip-bm.lst",
-      "count": 113,
+      "count": 109,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2564,7 +2564,7 @@
       "id": "svc_geoip-bn",
       "name_ru": "geoip:bn",
       "file": "geoip-bn.lst",
-      "count": 116,
+      "count": 123,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2575,7 +2575,7 @@
       "id": "svc_geoip-bo",
       "name_ru": "geoip:bo",
       "file": "geoip-bo.lst",
-      "count": 242,
+      "count": 246,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2586,7 +2586,7 @@
       "id": "svc_geoip-bq",
       "name_ru": "geoip:bq",
       "file": "geoip-bq.lst",
-      "count": 79,
+      "count": 82,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2597,7 +2597,7 @@
       "id": "svc_geoip-br",
       "name_ru": "geoip:br",
       "file": "geoip-br.lst",
-      "count": 13797,
+      "count": 13787,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2608,7 +2608,7 @@
       "id": "svc_geoip-bs",
       "name_ru": "geoip:bs",
       "file": "geoip-bs.lst",
-      "count": 178,
+      "count": 188,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2619,7 +2619,7 @@
       "id": "svc_geoip-bt",
       "name_ru": "geoip:bt",
       "file": "geoip-bt.lst",
-      "count": 166,
+      "count": 171,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2641,7 +2641,7 @@
       "id": "svc_geoip-bv",
       "name_ru": "geoip:bv",
       "file": "geoip-bv.lst",
-      "count": 35,
+      "count": 39,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2652,7 +2652,7 @@
       "id": "svc_geoip-bw",
       "name_ru": "geoip:bw",
       "file": "geoip-bw.lst",
-      "count": 119,
+      "count": 125,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2663,7 +2663,7 @@
       "id": "svc_geoip-by",
       "name_ru": "geoip:by",
       "file": "geoip-by.lst",
-      "count": 467,
+      "count": 472,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2674,7 +2674,7 @@
       "id": "svc_geoip-bz",
       "name_ru": "geoip:bz",
       "file": "geoip-bz.lst",
-      "count": 246,
+      "count": 250,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2685,7 +2685,7 @@
       "id": "svc_geoip-ca",
       "name_ru": "geoip:ca",
       "file": "geoip-ca.lst",
-      "count": 27630,
+      "count": 29204,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2696,7 +2696,7 @@
       "id": "svc_geoip-cc",
       "name_ru": "geoip:cc",
       "file": "geoip-cc.lst",
-      "count": 45,
+      "count": 48,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2707,7 +2707,7 @@
       "id": "svc_geoip-cd",
       "name_ru": "geoip:cd",
       "file": "geoip-cd.lst",
-      "count": 191,
+      "count": 197,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2729,7 +2729,7 @@
       "id": "svc_geoip-cf",
       "name_ru": "geoip:cf",
       "file": "geoip-cf.lst",
-      "count": 91,
+      "count": 99,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2740,7 +2740,7 @@
       "id": "svc_geoip-cg",
       "name_ru": "geoip:cg",
       "file": "geoip-cg.lst",
-      "count": 116,
+      "count": 123,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2751,7 +2751,7 @@
       "id": "svc_geoip-ch",
       "name_ru": "geoip:ch",
       "file": "geoip-ch.lst",
-      "count": 54111,
+      "count": 54422,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2762,7 +2762,7 @@
       "id": "svc_geoip-ci",
       "name_ru": "geoip:ci",
       "file": "geoip-ci.lst",
-      "count": 165,
+      "count": 171,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2773,7 +2773,7 @@
       "id": "svc_geoip-ck",
       "name_ru": "geoip:ck",
       "file": "geoip-ck.lst",
-      "count": 87,
+      "count": 98,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2784,7 +2784,7 @@
       "id": "svc_geoip-cl",
       "name_ru": "geoip:cl",
       "file": "geoip-cl.lst",
-      "count": 8229,
+      "count": 8255,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2817,7 +2817,7 @@
       "id": "svc_geoip-cm",
       "name_ru": "geoip:cm",
       "file": "geoip-cm.lst",
-      "count": 155,
+      "count": 160,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2828,7 +2828,7 @@
       "id": "svc_geoip-co",
       "name_ru": "geoip:co",
       "file": "geoip-co.lst",
-      "count": 2774,
+      "count": 2736,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2850,7 +2850,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 868,
+      "count": 867,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2872,7 +2872,7 @@
       "id": "svc_geoip-cr",
       "name_ru": "geoip:cr",
       "file": "geoip-cr.lst",
-      "count": 395,
+      "count": 421,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2883,7 +2883,7 @@
       "id": "svc_geoip-cu",
       "name_ru": "geoip:cu",
       "file": "geoip-cu.lst",
-      "count": 123,
+      "count": 139,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2894,7 +2894,7 @@
       "id": "svc_geoip-cv",
       "name_ru": "geoip:cv",
       "file": "geoip-cv.lst",
-      "count": 140,
+      "count": 149,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2905,7 +2905,7 @@
       "id": "svc_geoip-cw",
       "name_ru": "geoip:cw",
       "file": "geoip-cw.lst",
-      "count": 112,
+      "count": 118,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2916,7 +2916,7 @@
       "id": "svc_geoip-cx",
       "name_ru": "geoip:cx",
       "file": "geoip-cx.lst",
-      "count": 76,
+      "count": 84,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2927,7 +2927,7 @@
       "id": "svc_geoip-cy",
       "name_ru": "geoip:cy",
       "file": "geoip-cy.lst",
-      "count": 958,
+      "count": 979,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2938,7 +2938,7 @@
       "id": "svc_geoip-cz",
       "name_ru": "geoip:cz",
       "file": "geoip-cz.lst",
-      "count": 3642,
+      "count": 6198,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2971,7 +2971,7 @@
       "id": "svc_geoip-de",
       "name_ru": "geoip:de",
       "file": "geoip-de.lst",
-      "count": 60208,
+      "count": 60759,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2993,7 +2993,7 @@
       "id": "svc_geoip-dj",
       "name_ru": "geoip:dj",
       "file": "geoip-dj.lst",
-      "count": 216,
+      "count": 217,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3004,7 +3004,7 @@
       "id": "svc_geoip-dk",
       "name_ru": "geoip:dk",
       "file": "geoip-dk.lst",
-      "count": 2023,
+      "count": 2005,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3015,7 +3015,7 @@
       "id": "svc_geoip-dm",
       "name_ru": "geoip:dm",
       "file": "geoip-dm.lst",
-      "count": 97,
+      "count": 102,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3026,7 +3026,7 @@
       "id": "svc_geoip-do",
       "name_ru": "geoip:do",
       "file": "geoip-do.lst",
-      "count": 714,
+      "count": 705,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3037,7 +3037,7 @@
       "id": "svc_geoip-dz",
       "name_ru": "geoip:dz",
       "file": "geoip-dz.lst",
-      "count": 258,
+      "count": 262,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3048,7 +3048,7 @@
       "id": "svc_geoip-ec",
       "name_ru": "geoip:ec",
       "file": "geoip-ec.lst",
-      "count": 671,
+      "count": 656,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3059,7 +3059,7 @@
       "id": "svc_geoip-ee",
       "name_ru": "geoip:ee",
       "file": "geoip-ee.lst",
-      "count": 1577,
+      "count": 1557,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3070,7 +3070,7 @@
       "id": "svc_geoip-eg",
       "name_ru": "geoip:eg",
       "file": "geoip-eg.lst",
-      "count": 324,
+      "count": 328,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3081,7 +3081,7 @@
       "id": "svc_geoip-eh",
       "name_ru": "geoip:eh",
       "file": "geoip-eh.lst",
-      "count": 45,
+      "count": 50,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3092,7 +3092,7 @@
       "id": "svc_geoip-er",
       "name_ru": "geoip:er",
       "file": "geoip-er.lst",
-      "count": 89,
+      "count": 93,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3103,7 +3103,7 @@
       "id": "svc_geoip-es",
       "name_ru": "geoip:es",
       "file": "geoip-es.lst",
-      "count": 9447,
+      "count": 9695,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3114,7 +3114,7 @@
       "id": "svc_geoip-et",
       "name_ru": "geoip:et",
       "file": "geoip-et.lst",
-      "count": 126,
+      "count": 133,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3147,7 +3147,7 @@
       "id": "svc_geoip-fi",
       "name_ru": "geoip:fi",
       "file": "geoip-fi.lst",
-      "count": 43821,
+      "count": 43782,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3158,7 +3158,7 @@
       "id": "svc_geoip-fj",
       "name_ru": "geoip:fj",
       "file": "geoip-fj.lst",
-      "count": 115,
+      "count": 119,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3169,7 +3169,7 @@
       "id": "svc_geoip-fk",
       "name_ru": "geoip:fk",
       "file": "geoip-fk.lst",
-      "count": 74,
+      "count": 82,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3180,7 +3180,7 @@
       "id": "svc_geoip-fm",
       "name_ru": "geoip:fm",
       "file": "geoip-fm.lst",
-      "count": 112,
+      "count": 117,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3191,7 +3191,7 @@
       "id": "svc_geoip-fo",
       "name_ru": "geoip:fo",
       "file": "geoip-fo.lst",
-      "count": 105,
+      "count": 103,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3202,7 +3202,7 @@
       "id": "svc_geoip-fr",
       "name_ru": "geoip:fr",
       "file": "geoip-fr.lst",
-      "count": 14098,
+      "count": 14122,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3213,7 +3213,7 @@
       "id": "svc_geoip-ga",
       "name_ru": "geoip:ga",
       "file": "geoip-ga.lst",
-      "count": 99,
+      "count": 106,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3224,7 +3224,7 @@
       "id": "svc_geoip-gb",
       "name_ru": "geoip:gb",
       "file": "geoip-gb.lst",
-      "count": 33413,
+      "count": 33277,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3246,7 +3246,7 @@
       "id": "svc_geoip-gd",
       "name_ru": "geoip:gd",
       "file": "geoip-gd.lst",
-      "count": 109,
+      "count": 114,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3257,7 +3257,7 @@
       "id": "svc_geoip-ge",
       "name_ru": "geoip:ge",
       "file": "geoip-ge.lst",
-      "count": 368,
+      "count": 375,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3268,7 +3268,7 @@
       "id": "svc_geoip-gf",
       "name_ru": "geoip:gf",
       "file": "geoip-gf.lst",
-      "count": 81,
+      "count": 86,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3279,7 +3279,7 @@
       "id": "svc_geoip-gg",
       "name_ru": "geoip:gg",
       "file": "geoip-gg.lst",
-      "count": 95,
+      "count": 98,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3290,7 +3290,7 @@
       "id": "svc_geoip-gh",
       "name_ru": "geoip:gh",
       "file": "geoip-gh.lst",
-      "count": 272,
+      "count": 280,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3301,7 +3301,7 @@
       "id": "svc_geoip-gi",
       "name_ru": "geoip:gi",
       "file": "geoip-gi.lst",
-      "count": 133,
+      "count": 115,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3323,7 +3323,7 @@
       "id": "svc_geoip-gl",
       "name_ru": "geoip:gl",
       "file": "geoip-gl.lst",
-      "count": 194,
+      "count": 200,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3345,7 +3345,7 @@
       "id": "svc_geoip-gm",
       "name_ru": "geoip:gm",
       "file": "geoip-gm.lst",
-      "count": 107,
+      "count": 114,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3356,7 +3356,7 @@
       "id": "svc_geoip-gn",
       "name_ru": "geoip:gn",
       "file": "geoip-gn.lst",
-      "count": 113,
+      "count": 121,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3378,7 +3378,7 @@
       "id": "svc_geoip-gp",
       "name_ru": "geoip:gp",
       "file": "geoip-gp.lst",
-      "count": 100,
+      "count": 106,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3389,7 +3389,7 @@
       "id": "svc_geoip-gq",
       "name_ru": "geoip:gq",
       "file": "geoip-gq.lst",
-      "count": 86,
+      "count": 91,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3400,7 +3400,7 @@
       "id": "svc_geoip-gr",
       "name_ru": "geoip:gr",
       "file": "geoip-gr.lst",
-      "count": 1423,
+      "count": 1429,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3411,7 +3411,7 @@
       "id": "svc_geoip-gs",
       "name_ru": "geoip:gs",
       "file": "geoip-gs.lst",
-      "count": 37,
+      "count": 42,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3422,7 +3422,7 @@
       "id": "svc_geoip-gt",
       "name_ru": "geoip:gt",
       "file": "geoip-gt.lst",
-      "count": 303,
+      "count": 308,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3444,7 +3444,7 @@
       "id": "svc_geoip-gu",
       "name_ru": "geoip:gu",
       "file": "geoip-gu.lst",
-      "count": 275,
+      "count": 288,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3455,7 +3455,7 @@
       "id": "svc_geoip-gw",
       "name_ru": "geoip:gw",
       "file": "geoip-gw.lst",
-      "count": 97,
+      "count": 103,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3466,7 +3466,7 @@
       "id": "svc_geoip-gy",
       "name_ru": "geoip:gy",
       "file": "geoip-gy.lst",
-      "count": 109,
+      "count": 115,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3488,7 +3488,7 @@
       "id": "svc_geoip-hk",
       "name_ru": "geoip:hk",
       "file": "geoip-hk.lst",
-      "count": 11868,
+      "count": 9643,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3499,7 +3499,7 @@
       "id": "svc_geoip-hm",
       "name_ru": "geoip:hm",
       "file": "geoip-hm.lst",
-      "count": 35,
+      "count": 47,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3510,7 +3510,7 @@
       "id": "svc_geoip-hn",
       "name_ru": "geoip:hn",
       "file": "geoip-hn.lst",
-      "count": 299,
+      "count": 302,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3532,7 +3532,7 @@
       "id": "svc_geoip-ht",
       "name_ru": "geoip:ht",
       "file": "geoip-ht.lst",
-      "count": 143,
+      "count": 149,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3543,7 +3543,7 @@
       "id": "svc_geoip-hu",
       "name_ru": "geoip:hu",
       "file": "geoip-hu.lst",
-      "count": 1359,
+      "count": 1335,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3554,7 +3554,7 @@
       "id": "svc_geoip-id",
       "name_ru": "geoip:id",
       "file": "geoip-id.lst",
-      "count": 4799,
+      "count": 4956,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3565,7 +3565,7 @@
       "id": "svc_geoip-ie",
       "name_ru": "geoip:ie",
       "file": "geoip-ie.lst",
-      "count": 6201,
+      "count": 6287,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3576,7 +3576,7 @@
       "id": "svc_geoip-il",
       "name_ru": "geoip:il",
       "file": "geoip-il.lst",
-      "count": 2366,
+      "count": 2279,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3587,7 +3587,7 @@
       "id": "svc_geoip-im",
       "name_ru": "geoip:im",
       "file": "geoip-im.lst",
-      "count": 243,
+      "count": 244,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3598,7 +3598,7 @@
       "id": "svc_geoip-in",
       "name_ru": "geoip:in",
       "file": "geoip-in.lst",
-      "count": 10840,
+      "count": 10955,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3609,7 +3609,7 @@
       "id": "svc_geoip-io",
       "name_ru": "geoip:io",
       "file": "geoip-io.lst",
-      "count": 87,
+      "count": 89,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3620,7 +3620,7 @@
       "id": "svc_geoip-iq",
       "name_ru": "geoip:iq",
       "file": "geoip-iq.lst",
-      "count": 1155,
+      "count": 1163,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3631,7 +3631,7 @@
       "id": "svc_geoip-ir",
       "name_ru": "geoip:ir",
       "file": "geoip-ir.lst",
-      "count": 1137,
+      "count": 1162,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3642,7 +3642,7 @@
       "id": "svc_geoip-is",
       "name_ru": "geoip:is",
       "file": "geoip-is.lst",
-      "count": 726,
+      "count": 723,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3653,7 +3653,7 @@
       "id": "svc_geoip-it",
       "name_ru": "geoip:it",
       "file": "geoip-it.lst",
-      "count": 5763,
+      "count": 5751,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3664,7 +3664,7 @@
       "id": "svc_geoip-je",
       "name_ru": "geoip:je",
       "file": "geoip-je.lst",
-      "count": 118,
+      "count": 120,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3675,7 +3675,7 @@
       "id": "svc_geoip-jm",
       "name_ru": "geoip:jm",
       "file": "geoip-jm.lst",
-      "count": 163,
+      "count": 167,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3686,7 +3686,7 @@
       "id": "svc_geoip-jo",
       "name_ru": "geoip:jo",
       "file": "geoip-jo.lst",
-      "count": 265,
+      "count": 269,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3697,7 +3697,7 @@
       "id": "svc_geoip-jp",
       "name_ru": "geoip:jp",
       "file": "geoip-jp.lst",
-      "count": 23302,
+      "count": 26414,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3708,7 +3708,7 @@
       "id": "svc_geoip-ke",
       "name_ru": "geoip:ke",
       "file": "geoip-ke.lst",
-      "count": 600,
+      "count": 606,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3719,7 +3719,7 @@
       "id": "svc_geoip-kg",
       "name_ru": "geoip:kg",
       "file": "geoip-kg.lst",
-      "count": 318,
+      "count": 323,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3730,7 +3730,7 @@
       "id": "svc_geoip-kh",
       "name_ru": "geoip:kh",
       "file": "geoip-kh.lst",
-      "count": 301,
+      "count": 307,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3741,7 +3741,7 @@
       "id": "svc_geoip-ki",
       "name_ru": "geoip:ki",
       "file": "geoip-ki.lst",
-      "count": 145,
+      "count": 156,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3752,7 +3752,7 @@
       "id": "svc_geoip-km",
       "name_ru": "geoip:km",
       "file": "geoip-km.lst",
-      "count": 86,
+      "count": 90,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3763,7 +3763,7 @@
       "id": "svc_geoip-kn",
       "name_ru": "geoip:kn",
       "file": "geoip-kn.lst",
-      "count": 124,
+      "count": 116,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3774,7 +3774,7 @@
       "id": "svc_geoip-kp",
       "name_ru": "geoip:kp",
       "file": "geoip-kp.lst",
-      "count": 740,
+      "count": 768,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3785,7 +3785,7 @@
       "id": "svc_geoip-kr",
       "name_ru": "geoip:kr",
       "file": "geoip-kr.lst",
-      "count": 3852,
+      "count": 2437,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3796,7 +3796,7 @@
       "id": "svc_geoip-kw",
       "name_ru": "geoip:kw",
       "file": "geoip-kw.lst",
-      "count": 207,
+      "count": 211,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3807,7 +3807,7 @@
       "id": "svc_geoip-ky",
       "name_ru": "geoip:ky",
       "file": "geoip-ky.lst",
-      "count": 108,
+      "count": 114,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3818,7 +3818,7 @@
       "id": "svc_geoip-kz",
       "name_ru": "geoip:kz",
       "file": "geoip-kz.lst",
-      "count": 1338,
+      "count": 1353,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3829,7 +3829,7 @@
       "id": "svc_geoip-la",
       "name_ru": "geoip:la",
       "file": "geoip-la.lst",
-      "count": 152,
+      "count": 157,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3840,7 +3840,7 @@
       "id": "svc_geoip-lb",
       "name_ru": "geoip:lb",
       "file": "geoip-lb.lst",
-      "count": 336,
+      "count": 343,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3851,7 +3851,7 @@
       "id": "svc_geoip-lc",
       "name_ru": "geoip:lc",
       "file": "geoip-lc.lst",
-      "count": 100,
+      "count": 107,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3862,7 +3862,7 @@
       "id": "svc_geoip-li",
       "name_ru": "geoip:li",
       "file": "geoip-li.lst",
-      "count": 242,
+      "count": 241,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3873,7 +3873,7 @@
       "id": "svc_geoip-lk",
       "name_ru": "geoip:lk",
       "file": "geoip-lk.lst",
-      "count": 1851,
+      "count": 1856,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3884,7 +3884,7 @@
       "id": "svc_geoip-lr",
       "name_ru": "geoip:lr",
       "file": "geoip-lr.lst",
-      "count": 117,
+      "count": 124,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3895,7 +3895,7 @@
       "id": "svc_geoip-ls",
       "name_ru": "geoip:ls",
       "file": "geoip-ls.lst",
-      "count": 99,
+      "count": 107,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3906,7 +3906,7 @@
       "id": "svc_geoip-lt",
       "name_ru": "geoip:lt",
       "file": "geoip-lt.lst",
-      "count": 4199,
+      "count": 4099,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3917,7 +3917,7 @@
       "id": "svc_geoip-lu",
       "name_ru": "geoip:lu",
       "file": "geoip-lu.lst",
-      "count": 948,
+      "count": 954,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3928,7 +3928,7 @@
       "id": "svc_geoip-lv",
       "name_ru": "geoip:lv",
       "file": "geoip-lv.lst",
-      "count": 988,
+      "count": 983,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3939,7 +3939,7 @@
       "id": "svc_geoip-ly",
       "name_ru": "geoip:ly",
       "file": "geoip-ly.lst",
-      "count": 114,
+      "count": 120,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3950,7 +3950,7 @@
       "id": "svc_geoip-ma",
       "name_ru": "geoip:ma",
       "file": "geoip-ma.lst",
-      "count": 303,
+      "count": 307,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3961,7 +3961,7 @@
       "id": "svc_geoip-mc",
       "name_ru": "geoip:mc",
       "file": "geoip-mc.lst",
-      "count": 120,
+      "count": 119,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3972,7 +3972,7 @@
       "id": "svc_geoip-md",
       "name_ru": "geoip:md",
       "file": "geoip-md.lst",
-      "count": 2162,
+      "count": 2181,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -3983,7 +3983,7 @@
       "id": "svc_geoip-me",
       "name_ru": "geoip:me",
       "file": "geoip-me.lst",
-      "count": 151,
+      "count": 149,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4027,7 +4027,7 @@
       "id": "svc_geoip-mf",
       "name_ru": "geoip:mf",
       "file": "geoip-mf.lst",
-      "count": 86,
+      "count": 92,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4038,7 +4038,7 @@
       "id": "svc_geoip-mg",
       "name_ru": "geoip:mg",
       "file": "geoip-mg.lst",
-      "count": 125,
+      "count": 128,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4049,7 +4049,7 @@
       "id": "svc_geoip-mh",
       "name_ru": "geoip:mh",
       "file": "geoip-mh.lst",
-      "count": 80,
+      "count": 87,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4060,7 +4060,7 @@
       "id": "svc_geoip-mk",
       "name_ru": "geoip:mk",
       "file": "geoip-mk.lst",
-      "count": 194,
+      "count": 197,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4071,7 +4071,7 @@
       "id": "svc_geoip-ml",
       "name_ru": "geoip:ml",
       "file": "geoip-ml.lst",
-      "count": 94,
+      "count": 101,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4082,7 +4082,7 @@
       "id": "svc_geoip-mm",
       "name_ru": "geoip:mm",
       "file": "geoip-mm.lst",
-      "count": 387,
+      "count": 390,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4093,7 +4093,7 @@
       "id": "svc_geoip-mn",
       "name_ru": "geoip:mn",
       "file": "geoip-mn.lst",
-      "count": 322,
+      "count": 329,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4104,7 +4104,7 @@
       "id": "svc_geoip-mo",
       "name_ru": "geoip:mo",
       "file": "geoip-mo.lst",
-      "count": 792,
+      "count": 811,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4115,7 +4115,7 @@
       "id": "svc_geoip-mp",
       "name_ru": "geoip:mp",
       "file": "geoip-mp.lst",
-      "count": 72,
+      "count": 79,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4126,7 +4126,7 @@
       "id": "svc_geoip-mq",
       "name_ru": "geoip:mq",
       "file": "geoip-mq.lst",
-      "count": 94,
+      "count": 100,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4137,7 +4137,7 @@
       "id": "svc_geoip-mr",
       "name_ru": "geoip:mr",
       "file": "geoip-mr.lst",
-      "count": 97,
+      "count": 103,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4148,7 +4148,7 @@
       "id": "svc_geoip-ms",
       "name_ru": "geoip:ms",
       "file": "geoip-ms.lst",
-      "count": 84,
+      "count": 91,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4159,7 +4159,7 @@
       "id": "svc_geoip-mt",
       "name_ru": "geoip:mt",
       "file": "geoip-mt.lst",
-      "count": 232,
+      "count": 234,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4170,7 +4170,7 @@
       "id": "svc_geoip-mu",
       "name_ru": "geoip:mu",
       "file": "geoip-mu.lst",
-      "count": 7849,
+      "count": 7947,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4192,7 +4192,7 @@
       "id": "svc_geoip-mw",
       "name_ru": "geoip:mw",
       "file": "geoip-mw.lst",
-      "count": 158,
+      "count": 163,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4203,7 +4203,7 @@
       "id": "svc_geoip-mx",
       "name_ru": "geoip:mx",
       "file": "geoip-mx.lst",
-      "count": 2343,
+      "count": 2360,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4214,7 +4214,7 @@
       "id": "svc_geoip-my",
       "name_ru": "geoip:my",
       "file": "geoip-my.lst",
-      "count": 1734,
+      "count": 1731,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4225,7 +4225,7 @@
       "id": "svc_geoip-mz",
       "name_ru": "geoip:mz",
       "file": "geoip-mz.lst",
-      "count": 132,
+      "count": 137,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4236,7 +4236,7 @@
       "id": "svc_geoip-na",
       "name_ru": "geoip:na",
       "file": "geoip-na.lst",
-      "count": 114,
+      "count": 121,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4247,7 +4247,7 @@
       "id": "svc_geoip-nc",
       "name_ru": "geoip:nc",
       "file": "geoip-nc.lst",
-      "count": 116,
+      "count": 124,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4258,7 +4258,7 @@
       "id": "svc_geoip-ne",
       "name_ru": "geoip:ne",
       "file": "geoip-ne.lst",
-      "count": 96,
+      "count": 100,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4280,7 +4280,7 @@
       "id": "svc_geoip-nf",
       "name_ru": "geoip:nf",
       "file": "geoip-nf.lst",
-      "count": 79,
+      "count": 89,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4291,7 +4291,7 @@
       "id": "svc_geoip-ng",
       "name_ru": "geoip:ng",
       "file": "geoip-ng.lst",
-      "count": 700,
+      "count": 707,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4302,7 +4302,7 @@
       "id": "svc_geoip-ni",
       "name_ru": "geoip:ni",
       "file": "geoip-ni.lst",
-      "count": 129,
+      "count": 136,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4324,7 +4324,7 @@
       "id": "svc_geoip-nl",
       "name_ru": "geoip:nl",
       "file": "geoip-nl.lst",
-      "count": 157254,
+      "count": 158143,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4335,7 +4335,7 @@
       "id": "svc_geoip-no",
       "name_ru": "geoip:no",
       "file": "geoip-no.lst",
-      "count": 2029,
+      "count": 2130,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4346,7 +4346,7 @@
       "id": "svc_geoip-np",
       "name_ru": "geoip:np",
       "file": "geoip-np.lst",
-      "count": 363,
+      "count": 367,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4357,7 +4357,7 @@
       "id": "svc_geoip-nr",
       "name_ru": "geoip:nr",
       "file": "geoip-nr.lst",
-      "count": 86,
+      "count": 93,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4368,7 +4368,7 @@
       "id": "svc_geoip-nu",
       "name_ru": "geoip:nu",
       "file": "geoip-nu.lst",
-      "count": 76,
+      "count": 80,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4379,7 +4379,7 @@
       "id": "svc_geoip-nz",
       "name_ru": "geoip:nz",
       "file": "geoip-nz.lst",
-      "count": 2789,
+      "count": 2870,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4390,7 +4390,7 @@
       "id": "svc_geoip-om",
       "name_ru": "geoip:om",
       "file": "geoip-om.lst",
-      "count": 508,
+      "count": 513,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4401,7 +4401,7 @@
       "id": "svc_geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 552,
+      "count": 549,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4423,7 +4423,7 @@
       "id": "svc_geoip-pa",
       "name_ru": "geoip:pa",
       "file": "geoip-pa.lst",
-      "count": 543,
+      "count": 552,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4434,7 +4434,7 @@
       "id": "svc_geoip-pe",
       "name_ru": "geoip:pe",
       "file": "geoip-pe.lst",
-      "count": 956,
+      "count": 962,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4445,7 +4445,7 @@
       "id": "svc_geoip-pf",
       "name_ru": "geoip:pf",
       "file": "geoip-pf.lst",
-      "count": 177,
+      "count": 184,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4456,7 +4456,7 @@
       "id": "svc_geoip-pg",
       "name_ru": "geoip:pg",
       "file": "geoip-pg.lst",
-      "count": 155,
+      "count": 159,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4467,7 +4467,7 @@
       "id": "svc_geoip-ph",
       "name_ru": "geoip:ph",
       "file": "geoip-ph.lst",
-      "count": 1574,
+      "count": 1577,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4489,7 +4489,7 @@
       "id": "svc_geoip-pl",
       "name_ru": "geoip:pl",
       "file": "geoip-pl.lst",
-      "count": 7224,
+      "count": 7458,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4511,7 +4511,7 @@
       "id": "svc_geoip-pm",
       "name_ru": "geoip:pm",
       "file": "geoip-pm.lst",
-      "count": 87,
+      "count": 93,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4522,7 +4522,7 @@
       "id": "svc_geoip-pn",
       "name_ru": "geoip:pn",
       "file": "geoip-pn.lst",
-      "count": 33,
+      "count": 40,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4533,7 +4533,7 @@
       "id": "svc_geoip-pr",
       "name_ru": "geoip:pr",
       "file": "geoip-pr.lst",
-      "count": 843,
+      "count": 847,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4555,7 +4555,7 @@
       "id": "svc_geoip-ps",
       "name_ru": "geoip:ps",
       "file": "geoip-ps.lst",
-      "count": 314,
+      "count": 323,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4566,7 +4566,7 @@
       "id": "svc_geoip-pt",
       "name_ru": "geoip:pt",
       "file": "geoip-pt.lst",
-      "count": 2150,
+      "count": 2324,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4577,7 +4577,7 @@
       "id": "svc_geoip-pw",
       "name_ru": "geoip:pw",
       "file": "geoip-pw.lst",
-      "count": 80,
+      "count": 88,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4588,7 +4588,7 @@
       "id": "svc_geoip-py",
       "name_ru": "geoip:py",
       "file": "geoip-py.lst",
-      "count": 262,
+      "count": 269,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4599,7 +4599,7 @@
       "id": "svc_geoip-qa",
       "name_ru": "geoip:qa",
       "file": "geoip-qa.lst",
-      "count": 401,
+      "count": 404,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4610,7 +4610,7 @@
       "id": "svc_geoip-re",
       "name_ru": "geoip:re",
       "file": "geoip-re.lst",
-      "count": 143,
+      "count": 139,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4632,7 +4632,7 @@
       "id": "svc_geoip-ro",
       "name_ru": "geoip:ro",
       "file": "geoip-ro.lst",
-      "count": 2191,
+      "count": 2192,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4654,7 +4654,7 @@
       "id": "svc_geoip-rs",
       "name_ru": "geoip:rs",
       "file": "geoip-rs.lst",
-      "count": 1147,
+      "count": 1152,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4665,7 +4665,7 @@
       "id": "svc_geoip-ru",
       "name_ru": "geoip:ru",
       "file": "geoip-ru.lst",
-      "count": 17507,
+      "count": 17598,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4676,7 +4676,7 @@
       "id": "svc_geoip-rw",
       "name_ru": "geoip:rw",
       "file": "geoip-rw.lst",
-      "count": 139,
+      "count": 145,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4687,7 +4687,7 @@
       "id": "svc_geoip-sa",
       "name_ru": "geoip:sa",
       "file": "geoip-sa.lst",
-      "count": 1256,
+      "count": 1269,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4698,7 +4698,7 @@
       "id": "svc_geoip-sb",
       "name_ru": "geoip:sb",
       "file": "geoip-sb.lst",
-      "count": 236,
+      "count": 240,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4709,7 +4709,7 @@
       "id": "svc_geoip-sc",
       "name_ru": "geoip:sc",
       "file": "geoip-sc.lst",
-      "count": 2736,
+      "count": 2737,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4742,7 +4742,7 @@
       "id": "svc_geoip-sd",
       "name_ru": "geoip:sd",
       "file": "geoip-sd.lst",
-      "count": 111,
+      "count": 118,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4753,7 +4753,7 @@
       "id": "svc_geoip-se",
       "name_ru": "geoip:se",
       "file": "geoip-se.lst",
-      "count": 6999,
+      "count": 6937,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4764,7 +4764,7 @@
       "id": "svc_geoip-sg",
       "name_ru": "geoip:sg",
       "file": "geoip-sg.lst",
-      "count": 53584,
+      "count": 54242,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4775,7 +4775,7 @@
       "id": "svc_geoip-sh",
       "name_ru": "geoip:sh",
       "file": "geoip-sh.lst",
-      "count": 61,
+      "count": 63,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4786,7 +4786,7 @@
       "id": "svc_geoip-si",
       "name_ru": "geoip:si",
       "file": "geoip-si.lst",
-      "count": 647,
+      "count": 606,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4797,7 +4797,7 @@
       "id": "svc_geoip-sj",
       "name_ru": "geoip:sj",
       "file": "geoip-sj.lst",
-      "count": 47,
+      "count": 50,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4808,7 +4808,7 @@
       "id": "svc_geoip-sk",
       "name_ru": "geoip:sk",
       "file": "geoip-sk.lst",
-      "count": 1044,
+      "count": 1057,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4819,7 +4819,7 @@
       "id": "svc_geoip-sl",
       "name_ru": "geoip:sl",
       "file": "geoip-sl.lst",
-      "count": 110,
+      "count": 116,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4830,7 +4830,7 @@
       "id": "svc_geoip-sm",
       "name_ru": "geoip:sm",
       "file": "geoip-sm.lst",
-      "count": 108,
+      "count": 109,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4841,7 +4841,7 @@
       "id": "svc_geoip-sn",
       "name_ru": "geoip:sn",
       "file": "geoip-sn.lst",
-      "count": 140,
+      "count": 142,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4852,7 +4852,7 @@
       "id": "svc_geoip-so",
       "name_ru": "geoip:so",
       "file": "geoip-so.lst",
-      "count": 154,
+      "count": 161,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4874,7 +4874,7 @@
       "id": "svc_geoip-sr",
       "name_ru": "geoip:sr",
       "file": "geoip-sr.lst",
-      "count": 125,
+      "count": 130,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4885,7 +4885,7 @@
       "id": "svc_geoip-ss",
       "name_ru": "geoip:ss",
       "file": "geoip-ss.lst",
-      "count": 102,
+      "count": 109,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4896,7 +4896,7 @@
       "id": "svc_geoip-st",
       "name_ru": "geoip:st",
       "file": "geoip-st.lst",
-      "count": 94,
+      "count": 97,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4907,7 +4907,7 @@
       "id": "svc_geoip-sv",
       "name_ru": "geoip:sv",
       "file": "geoip-sv.lst",
-      "count": 216,
+      "count": 211,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4918,7 +4918,7 @@
       "id": "svc_geoip-sx",
       "name_ru": "geoip:sx",
       "file": "geoip-sx.lst",
-      "count": 71,
+      "count": 77,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4929,7 +4929,7 @@
       "id": "svc_geoip-sy",
       "name_ru": "geoip:sy",
       "file": "geoip-sy.lst",
-      "count": 129,
+      "count": 137,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4940,7 +4940,7 @@
       "id": "svc_geoip-sz",
       "name_ru": "geoip:sz",
       "file": "geoip-sz.lst",
-      "count": 100,
+      "count": 107,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4951,7 +4951,7 @@
       "id": "svc_geoip-tc",
       "name_ru": "geoip:tc",
       "file": "geoip-tc.lst",
-      "count": 84,
+      "count": 90,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4962,7 +4962,7 @@
       "id": "svc_geoip-td",
       "name_ru": "geoip:td",
       "file": "geoip-td.lst",
-      "count": 101,
+      "count": 106,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4984,7 +4984,7 @@
       "id": "svc_geoip-tf",
       "name_ru": "geoip:tf",
       "file": "geoip-tf.lst",
-      "count": 31,
+      "count": 32,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4995,7 +4995,7 @@
       "id": "svc_geoip-tg",
       "name_ru": "geoip:tg",
       "file": "geoip-tg.lst",
-      "count": 108,
+      "count": 115,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5006,7 +5006,7 @@
       "id": "svc_geoip-th",
       "name_ru": "geoip:th",
       "file": "geoip-th.lst",
-      "count": 2562,
+      "count": 2596,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5017,7 +5017,7 @@
       "id": "svc_geoip-tj",
       "name_ru": "geoip:tj",
       "file": "geoip-tj.lst",
-      "count": 176,
+      "count": 195,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5028,7 +5028,7 @@
       "id": "svc_geoip-tk",
       "name_ru": "geoip:tk",
       "file": "geoip-tk.lst",
-      "count": 96,
+      "count": 104,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5039,7 +5039,7 @@
       "id": "svc_geoip-tl",
       "name_ru": "geoip:tl",
       "file": "geoip-tl.lst",
-      "count": 102,
+      "count": 112,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5050,7 +5050,7 @@
       "id": "svc_geoip-tm",
       "name_ru": "geoip:tm",
       "file": "geoip-tm.lst",
-      "count": 110,
+      "count": 113,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5061,7 +5061,7 @@
       "id": "svc_geoip-tn",
       "name_ru": "geoip:tn",
       "file": "geoip-tn.lst",
-      "count": 157,
+      "count": 162,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5072,7 +5072,7 @@
       "id": "svc_geoip-to",
       "name_ru": "geoip:to",
       "file": "geoip-to.lst",
-      "count": 88,
+      "count": 91,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5083,7 +5083,7 @@
       "id": "svc_geoip-tr",
       "name_ru": "geoip:tr",
       "file": "geoip-tr.lst",
-      "count": 4038,
+      "count": 4061,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5094,7 +5094,7 @@
       "id": "svc_geoip-tt",
       "name_ru": "geoip:tt",
       "file": "geoip-tt.lst",
-      "count": 149,
+      "count": 155,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5105,7 +5105,7 @@
       "id": "svc_geoip-tv",
       "name_ru": "geoip:tv",
       "file": "geoip-tv.lst",
-      "count": 109,
+      "count": 120,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5116,7 +5116,7 @@
       "id": "svc_geoip-tw",
       "name_ru": "geoip:tw",
       "file": "geoip-tw.lst",
-      "count": 3256,
+      "count": 3313,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5138,7 +5138,7 @@
       "id": "svc_geoip-tz",
       "name_ru": "geoip:tz",
       "file": "geoip-tz.lst",
-      "count": 285,
+      "count": 290,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5149,7 +5149,7 @@
       "id": "svc_geoip-ua",
       "name_ru": "geoip:ua",
       "file": "geoip-ua.lst",
-      "count": 3524,
+      "count": 3675,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5171,7 +5171,7 @@
       "id": "svc_geoip-ug",
       "name_ru": "geoip:ug",
       "file": "geoip-ug.lst",
-      "count": 230,
+      "count": 235,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5182,7 +5182,7 @@
       "id": "svc_geoip-um",
       "name_ru": "geoip:um",
       "file": "geoip-um.lst",
-      "count": 77,
+      "count": 89,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5193,7 +5193,7 @@
       "id": "svc_geoip-us",
       "name_ru": "geoip:us",
       "file": "geoip-us.lst",
-      "count": 209406,
+      "count": 231518,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5204,7 +5204,7 @@
       "id": "svc_geoip-uy",
       "name_ru": "geoip:uy",
       "file": "geoip-uy.lst",
-      "count": 192,
+      "count": 196,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5215,7 +5215,7 @@
       "id": "svc_geoip-uz",
       "name_ru": "geoip:uz",
       "file": "geoip-uz.lst",
-      "count": 348,
+      "count": 350,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5248,7 +5248,7 @@
       "id": "svc_geoip-vc",
       "name_ru": "geoip:vc",
       "file": "geoip-vc.lst",
-      "count": 83,
+      "count": 87,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5259,7 +5259,7 @@
       "id": "svc_geoip-ve",
       "name_ru": "geoip:ve",
       "file": "geoip-ve.lst",
-      "count": 736,
+      "count": 742,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5281,7 +5281,7 @@
       "id": "svc_geoip-vg",
       "name_ru": "geoip:vg",
       "file": "geoip-vg.lst",
-      "count": 364,
+      "count": 387,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5292,7 +5292,7 @@
       "id": "svc_geoip-vi",
       "name_ru": "geoip:vi",
       "file": "geoip-vi.lst",
-      "count": 189,
+      "count": 186,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5303,7 +5303,7 @@
       "id": "svc_geoip-vn",
       "name_ru": "geoip:vn",
       "file": "geoip-vn.lst",
-      "count": 1791,
+      "count": 1805,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5314,7 +5314,7 @@
       "id": "svc_geoip-vu",
       "name_ru": "geoip:vu",
       "file": "geoip-vu.lst",
-      "count": 252,
+      "count": 249,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5325,7 +5325,7 @@
       "id": "svc_geoip-wf",
       "name_ru": "geoip:wf",
       "file": "geoip-wf.lst",
-      "count": 75,
+      "count": 78,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5336,7 +5336,7 @@
       "id": "svc_geoip-ws",
       "name_ru": "geoip:ws",
       "file": "geoip-ws.lst",
-      "count": 92,
+      "count": 96,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5347,7 +5347,7 @@
       "id": "svc_geoip-xk",
       "name_ru": "geoip:xk",
       "file": "geoip-xk.lst",
-      "count": 128,
+      "count": 126,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5369,7 +5369,7 @@
       "id": "svc_geoip-ye",
       "name_ru": "geoip:ye",
       "file": "geoip-ye.lst",
-      "count": 130,
+      "count": 133,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5380,7 +5380,7 @@
       "id": "svc_geoip-yt",
       "name_ru": "geoip:yt",
       "file": "geoip-yt.lst",
-      "count": 77,
+      "count": 81,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5391,7 +5391,7 @@
       "id": "svc_geoip-za",
       "name_ru": "geoip:za",
       "file": "geoip-za.lst",
-      "count": 2168,
+      "count": 2187,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -5402,7 +5402,7 @@
       "id": "svc_geoip-zm",
       "name_ru": "geoip:zm",
       "file": "geoip-zm.lst",
-      "count": 143,
+      "count": 148,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6480,7 +6480,7 @@
       "id": "geosite-beget",
       "name_ru": "geosite:beget",
       "file": "geosite-beget.lst",
-      "count": 13,
+      "count": 14,
       "default_on": false,
       "kind": "domains"
     },
@@ -7192,7 +7192,7 @@
       "id": "geosite-category-companies",
       "name_ru": "geosite:category-companies",
       "file": "geosite-category-companies.lst",
-      "count": 8201,
+      "count": 8202,
       "default_on": false,
       "kind": "domains"
     },
@@ -7584,7 +7584,7 @@
       "id": "geosite-category-ru",
       "name_ru": "geosite:category-ru",
       "file": "geosite-category-ru.lst",
-      "count": 1138,
+      "count": 1140,
       "default_on": false,
       "kind": "domains"
     },
