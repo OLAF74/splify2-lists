@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-03_10-58",
-  "generated_at": "2026-11-03T10:58:09Z",
+  "version": "2026-11-05_11-02",
+  "generated_at": "2026-11-05T11:02:51Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -49,7 +49,7 @@
       "id": "geoip-akamai",
       "name_ru": "geoip:akamai",
       "file": "geoip-akamai.lst",
-      "count": 347,
+      "count": 346,
       "default_on": false
     },
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 908,
+      "count": 934,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 18088,
+      "count": 17397,
       "default_on": false
     },
     {
@@ -168,7 +168,7 @@
       "id": "geoip-azure",
       "name_ru": "geoip:azure",
       "file": "geoip-azure.lst",
-      "count": 1096,
+      "count": 2782,
       "default_on": false
     },
     {
@@ -427,7 +427,7 @@
       "id": "geoip-cloudflare",
       "name_ru": "geoip:cloudflare",
       "file": "geoip-cloudflare.lst",
-      "count": 721,
+      "count": 829,
       "default_on": false
     },
     {
@@ -455,21 +455,21 @@
       "id": "geoip-cogent",
       "name_ru": "geoip:cogent",
       "file": "geoip-cogent.lst",
-      "count": 726,
+      "count": 725,
       "default_on": false
     },
     {
       "id": "geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 727,
+      "count": 726,
       "default_on": false
     },
     {
       "id": "geoip-contabo",
       "name_ru": "geoip:contabo",
       "file": "geoip-contabo.lst",
-      "count": 289,
+      "count": 297,
       "default_on": false
     },
     {
@@ -525,7 +525,7 @@
       "id": "geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 2777,
+      "count": 2815,
       "default_on": false
     },
     {
@@ -546,7 +546,7 @@
       "id": "geoip-digitalocean",
       "name_ru": "geoip:digitalocean",
       "file": "geoip-digitalocean.lst",
-      "count": 170,
+      "count": 171,
       "default_on": false
     },
     {
@@ -728,7 +728,7 @@
       "id": "geoip-gcore",
       "name_ru": "geoip:gcore",
       "file": "geoip-gcore.lst",
-      "count": 349,
+      "count": 352,
       "default_on": false
     },
     {
@@ -854,7 +854,7 @@
       "id": "geoip-gthost",
       "name_ru": "geoip:gthost",
       "file": "geoip-gthost.lst",
-      "count": 245,
+      "count": 238,
       "default_on": false
     },
     {
@@ -882,7 +882,7 @@
       "id": "geoip-hetzner",
       "name_ru": "geoip:hetzner",
       "file": "geoip-hetzner.lst",
-      "count": 114,
+      "count": 115,
       "default_on": false
     },
     {
@@ -1470,14 +1470,14 @@
       "id": "geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 1427,
+      "count": 1423,
       "default_on": false
     },
     {
       "id": "geoip-ovh",
       "name_ru": "geoip:ovh",
       "file": "geoip-ovh.lst",
-      "count": 654,
+      "count": 658,
       "default_on": false
     },
     {
@@ -1687,7 +1687,7 @@
       "id": "geoip-scalaxy",
       "name_ru": "geoip:scalaxy",
       "file": "geoip-scalaxy.lst",
-      "count": 229,
+      "count": 216,
       "default_on": false
     },
     {
@@ -2278,7 +2278,7 @@
       "id": "svc_geoip-amazon",
       "name_ru": "geoip:amazon",
       "file": "geoip-amazon.lst",
-      "count": 2359,
+      "count": 2358,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2410,7 +2410,7 @@
       "id": "svc_geoip-azure",
       "name_ru": "geoip:azure",
       "file": "geoip-azure.lst",
-      "count": 1254,
+      "count": 2303,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2850,7 +2850,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 867,
+      "count": 880,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2949,7 +2949,7 @@
       "id": "svc_geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 225,
+      "count": 226,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4401,7 +4401,7 @@
       "id": "svc_geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 549,
+      "count": 547,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7304,7 +7304,7 @@
       "id": "geosite-category-entertainment",
       "name_ru": "geosite:category-entertainment",
       "file": "geosite-category-entertainment.lst",
-      "count": 2088,
+      "count": 2093,
       "default_on": false,
       "kind": "domains"
     },
@@ -7360,7 +7360,7 @@
       "id": "geosite-category-games",
       "name_ru": "geosite:category-games",
       "file": "geosite-category-games.lst",
-      "count": 1083,
+      "count": 1088,
       "default_on": false,
       "kind": "domains"
     },
@@ -9768,7 +9768,7 @@
       "id": "geosite-gfw",
       "name_ru": "geosite:gfw",
       "file": "geosite-gfw.lst",
-      "count": 4230,
+      "count": 4231,
       "default_on": false,
       "kind": "domains"
     },
@@ -13729,6 +13729,14 @@
       "name_ru": "geosite:progress",
       "file": "geosite-progress.lst",
       "count": 6,
+      "default_on": false,
+      "kind": "domains"
+    },
+    {
+      "id": "geosite-projectmoon",
+      "name_ru": "geosite:projectmoon",
+      "file": "geosite-projectmoon.lst",
+      "count": 4,
       "default_on": false,
       "kind": "domains"
     },
