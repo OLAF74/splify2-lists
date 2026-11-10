@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-09_11-42",
-  "generated_at": "2026-11-09T11:42:01Z",
+  "version": "2026-11-10_11-19",
+  "generated_at": "2026-11-10T11:19:55Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -84,7 +84,7 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 930,
+      "count": 929,
       "default_on": false
     },
     {
@@ -7232,7 +7232,7 @@
       "id": "geosite-category-dev",
       "name_ru": "geosite:category-dev",
       "file": "geosite-category-dev.lst",
-      "count": 679,
+      "count": 681,
       "default_on": false,
       "kind": "domains"
     },
@@ -7344,7 +7344,7 @@
       "id": "geosite-category-forums",
       "name_ru": "geosite:category-forums",
       "file": "geosite-category-forums.lst",
-      "count": 106,
+      "count": 109,
       "default_on": false,
       "kind": "domains"
     },
@@ -7584,7 +7584,7 @@
       "id": "geosite-category-ru",
       "name_ru": "geosite:category-ru",
       "file": "geosite-category-ru.lst",
-      "count": 1141,
+      "count": 1142,
       "default_on": false,
       "kind": "domains"
     },
@@ -7648,7 +7648,7 @@
       "id": "geosite-category-speedtest",
       "name_ru": "geosite:category-speedtest",
       "file": "geosite-category-speedtest.lst",
-      "count": 305,
+      "count": 306,
       "default_on": false,
       "kind": "domains"
     },
@@ -10033,6 +10033,14 @@
       "name_ru": "geosite:gracg",
       "file": "geosite-gracg.lst",
       "count": 1,
+      "default_on": false,
+      "kind": "domains"
+    },
+    {
+      "id": "geosite-grafanalabs",
+      "name_ru": "geosite:grafanalabs",
+      "file": "geosite-grafanalabs.lst",
+      "count": 2,
       "default_on": false,
       "kind": "domains"
     },
