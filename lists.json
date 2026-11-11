@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-10_11-19",
-  "generated_at": "2026-11-10T11:19:55Z",
+  "version": "2026-11-11_11-06",
+  "generated_at": "2026-11-11T11:06:22Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -70,7 +70,7 @@
       "id": "geoip-amazon",
       "name_ru": "geoip:amazon",
       "file": "geoip-amazon.lst",
-      "count": 1752,
+      "count": 1755,
       "default_on": false
     },
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 929,
+      "count": 911,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 17191,
+      "count": 16803,
       "default_on": false
     },
     {
@@ -168,7 +168,7 @@
       "id": "geoip-azure",
       "name_ru": "geoip:azure",
       "file": "geoip-azure.lst",
-      "count": 2782,
+      "count": 2746,
       "default_on": false
     },
     {
@@ -427,7 +427,7 @@
       "id": "geoip-cloudflare",
       "name_ru": "geoip:cloudflare",
       "file": "geoip-cloudflare.lst",
-      "count": 859,
+      "count": 858,
       "default_on": false
     },
     {
@@ -455,14 +455,14 @@
       "id": "geoip-cogent",
       "name_ru": "geoip:cogent",
       "file": "geoip-cogent.lst",
-      "count": 727,
+      "count": 726,
       "default_on": false
     },
     {
       "id": "geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 728,
+      "count": 727,
       "default_on": false
     },
     {
@@ -525,7 +525,7 @@
       "id": "geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 2832,
+      "count": 2839,
       "default_on": false
     },
     {
@@ -728,7 +728,7 @@
       "id": "geoip-gcore",
       "name_ru": "geoip:gcore",
       "file": "geoip-gcore.lst",
-      "count": 354,
+      "count": 352,
       "default_on": false
     },
     {
@@ -777,7 +777,7 @@
       "id": "geoip-github",
       "name_ru": "geoip:github",
       "file": "geoip-github.lst",
-      "count": 4012,
+      "count": 4013,
       "default_on": false
     },
     {
@@ -854,7 +854,7 @@
       "id": "geoip-gthost",
       "name_ru": "geoip:gthost",
       "file": "geoip-gthost.lst",
-      "count": 242,
+      "count": 243,
       "default_on": false
     },
     {
@@ -1470,14 +1470,14 @@
       "id": "geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 1423,
+      "count": 1425,
       "default_on": false
     },
     {
       "id": "geoip-ovh",
       "name_ru": "geoip:ovh",
       "file": "geoip-ovh.lst",
-      "count": 679,
+      "count": 691,
       "default_on": false
     },
     {
@@ -2245,7 +2245,7 @@
       "id": "svc_geoip-akamai",
       "name_ru": "geoip:akamai",
       "file": "geoip-akamai.lst",
-      "count": 241,
+      "count": 242,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2278,7 +2278,7 @@
       "id": "svc_geoip-amazon",
       "name_ru": "geoip:amazon",
       "file": "geoip-amazon.lst",
-      "count": 2358,
+      "count": 2364,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2410,7 +2410,7 @@
       "id": "svc_geoip-azure",
       "name_ru": "geoip:azure",
       "file": "geoip-azure.lst",
-      "count": 2303,
+      "count": 2300,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2850,7 +2850,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 826,
+      "count": 877,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4401,7 +4401,7 @@
       "id": "svc_geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 547,
+      "count": 548,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -4643,7 +4643,7 @@
       "id": "svc_geoip-roblox",
       "name_ru": "geoip:roblox",
       "file": "geoip-roblox.lst",
-      "count": 3,
+      "count": 4,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
