@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-15_11-03",
-  "generated_at": "2026-11-15T11:03:48Z",
+  "version": "2026-11-16_11-33",
+  "generated_at": "2026-11-16T11:33:11Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -84,7 +84,7 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 923,
+      "count": 911,
       "default_on": false
     },
     {
@@ -455,14 +455,14 @@
       "id": "geoip-cogent",
       "name_ru": "geoip:cogent",
       "file": "geoip-cogent.lst",
-      "count": 729,
+      "count": 724,
       "default_on": false
     },
     {
       "id": "geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 745,
+      "count": 743,
       "default_on": false
     },
     {
@@ -525,7 +525,7 @@
       "id": "geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 2858,
+      "count": 2857,
       "default_on": false
     },
     {
@@ -2850,7 +2850,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 954,
+      "count": 1176,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6152,7 +6152,7 @@
       "id": "geosite-apple",
       "name_ru": "geosite:apple",
       "file": "geosite-apple.lst",
-      "count": 1700,
+      "count": 1704,
       "default_on": false,
       "kind": "domains"
     },
@@ -7096,7 +7096,7 @@
       "id": "geosite-category-anticensorship",
       "name_ru": "geosite:category-anticensorship",
       "file": "geosite-category-anticensorship.lst",
-      "count": 127,
+      "count": 128,
       "default_on": false,
       "kind": "domains"
     },
@@ -7136,7 +7136,7 @@
       "id": "geosite-category-bank-ru",
       "name_ru": "geosite:category-bank-ru",
       "file": "geosite-category-bank-ru.lst",
-      "count": 356,
+      "count": 358,
       "default_on": false,
       "kind": "domains"
     },
@@ -7192,7 +7192,7 @@
       "id": "geosite-category-companies",
       "name_ru": "geosite:category-companies",
       "file": "geosite-category-companies.lst",
-      "count": 8204,
+      "count": 8212,
       "default_on": false,
       "kind": "domains"
     },
@@ -7216,7 +7216,7 @@
       "id": "geosite-category-cryptocurrency",
       "name_ru": "geosite:category-cryptocurrency",
       "file": "geosite-category-cryptocurrency.lst",
-      "count": 239,
+      "count": 240,
       "default_on": false,
       "kind": "domains"
     },
@@ -7232,7 +7232,7 @@
       "id": "geosite-category-dev",
       "name_ru": "geosite:category-dev",
       "file": "geosite-category-dev.lst",
-      "count": 681,
+      "count": 685,
       "default_on": false,
       "kind": "domains"
     },
@@ -7304,7 +7304,7 @@
       "id": "geosite-category-entertainment",
       "name_ru": "geosite:category-entertainment",
       "file": "geosite-category-entertainment.lst",
-      "count": 2094,
+      "count": 2097,
       "default_on": false,
       "kind": "domains"
     },
@@ -7312,7 +7312,7 @@
       "id": "geosite-category-finance",
       "name_ru": "geosite:category-finance",
       "file": "geosite-category-finance.lst",
-      "count": 642,
+      "count": 644,
       "default_on": false,
       "kind": "domains"
     },
@@ -7360,7 +7360,7 @@
       "id": "geosite-category-games",
       "name_ru": "geosite:category-games",
       "file": "geosite-category-games.lst",
-      "count": 1087,
+      "count": 1096,
       "default_on": false,
       "kind": "domains"
     },
@@ -8384,7 +8384,7 @@
       "id": "geosite-cygames",
       "name_ru": "geosite:cygames",
       "file": "geosite-cygames.lst",
-      "count": 5,
+      "count": 6,
       "default_on": false,
       "kind": "domains"
     },
@@ -10605,6 +10605,14 @@
       "kind": "domains"
     },
     {
+      "id": "geosite-hypergryph",
+      "name_ru": "geosite:hypergryph",
+      "file": "geosite-hypergryph.lst",
+      "count": 12,
+      "default_on": false,
+      "kind": "domains"
+    },
+    {
       "id": "geosite-ibkr",
       "name_ru": "geosite:ibkr",
       "file": "geosite-ibkr.lst",
@@ -10992,7 +11000,7 @@
       "id": "geosite-itunes",
       "name_ru": "geosite:itunes",
       "file": "geosite-itunes.lst",
-      "count": 90,
+      "count": 92,
       "default_on": false,
       "kind": "domains"
     },
@@ -12248,7 +12256,7 @@
       "id": "geosite-microsoft-dev",
       "name_ru": "geosite:microsoft-dev",
       "file": "geosite-microsoft-dev.lst",
-      "count": 73,
+      "count": 77,
       "default_on": false,
       "kind": "domains"
     },
@@ -12264,7 +12272,7 @@
       "id": "geosite-microsoft",
       "name_ru": "geosite:microsoft",
       "file": "geosite-microsoft.lst",
-      "count": 645,
+      "count": 648,
       "default_on": false,
       "kind": "domains"
     },
@@ -14136,7 +14144,7 @@
       "id": "geosite-remnawave",
       "name_ru": "geosite:remnawave",
       "file": "geosite-remnawave.lst",
-      "count": 4,
+      "count": 5,
       "default_on": false,
       "kind": "domains"
     },
@@ -16952,7 +16960,7 @@
       "id": "geosite-yandex",
       "name_ru": "geosite:yandex",
       "file": "geosite-yandex.lst",
-      "count": 153,
+      "count": 154,
       "default_on": false,
       "kind": "domains"
     },
