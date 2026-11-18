@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-17_11-59",
-  "generated_at": "2026-11-17T11:59:00Z",
+  "version": "2026-11-18_11-51",
+  "generated_at": "2026-11-18T11:51:15Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 910,
+      "count": 933,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 16708,
+      "count": 16689,
       "default_on": false
     },
     {
@@ -7064,7 +7064,7 @@
       "id": "geosite-category-ai-chat",
       "name_ru": "geosite:category-ai-chat",
       "file": "geosite-category-ai-chat.lst",
-      "count": 218,
+      "count": 219,
       "default_on": false,
       "kind": "domains"
     },
@@ -7080,7 +7080,7 @@
       "id": "geosite-category-ai",
       "name_ru": "geosite:category-ai",
       "file": "geosite-category-ai.lst",
-      "count": 218,
+      "count": 219,
       "default_on": false,
       "kind": "domains"
     },
@@ -9040,7 +9040,7 @@
       "id": "geosite-elevenlabs",
       "name_ru": "geosite:elevenlabs",
       "file": "geosite-elevenlabs.lst",
-      "count": 2,
+      "count": 3,
       "default_on": false,
       "kind": "domains"
     },
