@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-20_11-48",
-  "generated_at": "2026-11-20T11:48:13Z",
+  "version": "2026-11-21_11-14",
+  "generated_at": "2026-11-21T11:14:45Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 924,
+      "count": 931,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 16741,
+      "count": 16773,
       "default_on": false
     },
     {
@@ -378,7 +378,7 @@
       "id": "geoip-cdn77",
       "name_ru": "geoip:cdn77",
       "file": "geoip-cdn77.lst",
-      "count": 196,
+      "count": 197,
       "default_on": false
     },
     {
@@ -455,14 +455,14 @@
       "id": "geoip-cogent",
       "name_ru": "geoip:cogent",
       "file": "geoip-cogent.lst",
-      "count": 632,
+      "count": 630,
       "default_on": false
     },
     {
       "id": "geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 814,
+      "count": 833,
       "default_on": false
     },
     {
@@ -525,7 +525,7 @@
       "id": "geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 2856,
+      "count": 2857,
       "default_on": false
     },
     {
@@ -1470,7 +1470,7 @@
       "id": "geoip-oracle",
       "name_ru": "geoip:oracle",
       "file": "geoip-oracle.lst",
-      "count": 1435,
+      "count": 1439,
       "default_on": false
     },
     {
@@ -2201,7 +2201,7 @@
       "id": "svc_geoip-aeza",
       "name_ru": "geoip:aeza",
       "file": "geoip-aeza.lst",
-      "count": 17,
+      "count": 18,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2630,7 +2630,7 @@
       "id": "svc_geoip-buyvm",
       "name_ru": "geoip:buyvm",
       "file": "geoip-buyvm.lst",
-      "count": 30,
+      "count": 29,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2850,7 +2850,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 1888,
+      "count": 1879,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -2949,7 +2949,7 @@
       "id": "svc_geoip-datacamp",
       "name_ru": "geoip:datacamp",
       "file": "geoip-datacamp.lst",
-      "count": 233,
+      "count": 234,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -6152,7 +6152,7 @@
       "id": "geosite-apple",
       "name_ru": "geosite:apple",
       "file": "geosite-apple.lst",
-      "count": 1704,
+      "count": 1574,
       "default_on": false,
       "kind": "domains"
     },
@@ -6472,7 +6472,7 @@
       "id": "geosite-beats",
       "name_ru": "geosite:beats",
       "file": "geosite-beats.lst",
-      "count": 710,
+      "count": 582,
       "default_on": false,
       "kind": "domains"
     },
@@ -7192,7 +7192,7 @@
       "id": "geosite-category-companies",
       "name_ru": "geosite:category-companies",
       "file": "geosite-category-companies.lst",
-      "count": 8211,
+      "count": 8081,
       "default_on": false,
       "kind": "domains"
     },
@@ -7440,7 +7440,7 @@
       "id": "geosite-category-media",
       "name_ru": "geosite:category-media",
       "file": "geosite-category-media.lst",
-      "count": 1471,
+      "count": 1490,
       "default_on": false,
       "kind": "domains"
     },
@@ -8064,7 +8064,7 @@
       "id": "geosite-cnbc",
       "name_ru": "geosite:cnbc",
       "file": "geosite-cnbc.lst",
-      "count": 4,
+      "count": 5,
       "default_on": false,
       "kind": "domains"
     },
@@ -9768,7 +9768,7 @@
       "id": "geosite-gfw",
       "name_ru": "geosite:gfw",
       "file": "geosite-gfw.lst",
-      "count": 4232,
+      "count": 4251,
       "default_on": false,
       "kind": "domains"
     },
@@ -12688,7 +12688,7 @@
       "id": "geosite-nbcuniversal",
       "name_ru": "geosite:nbcuniversal",
       "file": "geosite-nbcuniversal.lst",
-      "count": 17,
+      "count": 36,
       "default_on": false,
       "kind": "domains"
     },
