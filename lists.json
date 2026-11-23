@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-22_11-34",
-  "generated_at": "2026-11-22T11:34:07Z",
+  "version": "2026-11-23_12-59",
+  "generated_at": "2026-11-23T12:59:04Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -84,7 +84,7 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 922,
+      "count": 935,
       "default_on": false
     },
     {
@@ -462,7 +462,7 @@
       "id": "geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 898,
+      "count": 899,
       "default_on": false
     },
     {
@@ -1477,7 +1477,7 @@
       "id": "geoip-ovh",
       "name_ru": "geoip:ovh",
       "file": "geoip-ovh.lst",
-      "count": 655,
+      "count": 656,
       "default_on": false
     },
     {
@@ -2850,7 +2850,7 @@
       "id": "svc_geoip-constant",
       "name_ru": "geoip:constant",
       "file": "geoip-constant.lst",
-      "count": 1881,
+      "count": 1892,
       "default_on": false,
       "kind": "domains",
       "same_as_ip": [
@@ -7360,7 +7360,7 @@
       "id": "geosite-category-games",
       "name_ru": "geosite:category-games",
       "file": "geosite-category-games.lst",
-      "count": 1098,
+      "count": 1102,
       "default_on": false,
       "kind": "domains"
     },
