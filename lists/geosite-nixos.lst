@@ -1,5 +1,6 @@
 # name: geosite:nixos
 builtwithnix.org
+cachix.org
 mynixos.com
 nix-community.github.io
 nix-community.org
