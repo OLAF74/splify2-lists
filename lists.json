@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-24_13-51",
-  "generated_at": "2026-11-24T13:51:15Z",
+  "version": "2026-11-25_13-04",
+  "generated_at": "2026-11-25T13:04:02Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 926,
+      "count": 933,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 16720,
+      "count": 16743,
       "default_on": false
     },
     {
@@ -7072,7 +7072,7 @@
       "id": "geosite-category-ai-ru",
       "name_ru": "geosite:category-ai-ru",
       "file": "geosite-category-ai-ru.lst",
-      "count": 12,
+      "count": 13,
       "default_on": false,
       "kind": "domains"
     },
@@ -7192,7 +7192,7 @@
       "id": "geosite-category-companies",
       "name_ru": "geosite:category-companies",
       "file": "geosite-category-companies.lst",
-      "count": 8082,
+      "count": 8093,
       "default_on": false,
       "kind": "domains"
     },
@@ -7376,7 +7376,7 @@
       "id": "geosite-category-gov-ru",
       "name_ru": "geosite:category-gov-ru",
       "file": "geosite-category-gov-ru.lst",
-      "count": 145,
+      "count": 416,
       "default_on": false,
       "kind": "domains"
     },
@@ -7584,7 +7584,7 @@
       "id": "geosite-category-ru",
       "name_ru": "geosite:category-ru",
       "file": "geosite-category-ru.lst",
-      "count": 1142,
+      "count": 1160,
       "default_on": false,
       "kind": "domains"
     },
@@ -12168,7 +12168,7 @@
       "id": "geosite-megafon",
       "name_ru": "geosite:megafon",
       "file": "geosite-megafon.lst",
-      "count": 12,
+      "count": 17,
       "default_on": false,
       "kind": "domains"
     },
@@ -12544,7 +12544,7 @@
       "id": "geosite-mts-ru",
       "name_ru": "geosite:mts-ru",
       "file": "geosite-mts-ru.lst",
-      "count": 13,
+      "count": 15,
       "default_on": false,
       "kind": "domains"
     },
@@ -14224,7 +14224,7 @@
       "id": "geosite-rostelecom",
       "name_ru": "geosite:rostelecom",
       "file": "geosite-rostelecom.lst",
-      "count": 9,
+      "count": 13,
       "default_on": false,
       "kind": "domains"
     },
@@ -15809,6 +15809,14 @@
       "name_ru": "geosite:translatewiki",
       "file": "geosite-translatewiki.lst",
       "count": 2,
+      "default_on": false,
+      "kind": "domains"
+    },
+    {
+      "id": "geosite-transtelecom",
+      "name_ru": "geosite:transtelecom",
+      "file": "geosite-transtelecom.lst",
+      "count": 8,
       "default_on": false,
       "kind": "domains"
     },
