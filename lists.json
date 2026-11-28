@@ -1,6 +1,6 @@
 {
-  "version": "2026-11-27_12-35",
-  "generated_at": "2026-11-27T12:35:06Z",
+  "version": "2026-11-28_11-54",
+  "generated_at": "2026-11-28T11:54:48Z",
   "base_url": "https://raw.githubusercontent.com/OLAF74/splify2-lists/main/lists",
   "categories": [
     {
@@ -84,14 +84,14 @@
       "id": "geoip-antifilter-community",
       "name_ru": "geoip:antifilter-community",
       "file": "geoip-antifilter-community.lst",
-      "count": 932,
+      "count": 929,
       "default_on": false
     },
     {
       "id": "geoip-antifilter",
       "name_ru": "geoip:antifilter",
       "file": "geoip-antifilter.lst",
-      "count": 14573,
+      "count": 12320,
       "default_on": false
     },
     {
@@ -7304,7 +7304,7 @@
       "id": "geosite-category-entertainment",
       "name_ru": "geosite:category-entertainment",
       "file": "geosite-category-entertainment.lst",
-      "count": 2097,
+      "count": 2098,
       "default_on": false,
       "kind": "domains"
     },
@@ -7360,7 +7360,7 @@
       "id": "geosite-category-games",
       "name_ru": "geosite:category-games",
       "file": "geosite-category-games.lst",
-      "count": 1102,
+      "count": 1103,
       "default_on": false,
       "kind": "domains"
     },
@@ -7560,7 +7560,7 @@
       "id": "geosite-category-public-tracker",
       "name_ru": "geosite:category-public-tracker",
       "file": "geosite-category-public-tracker.lst",
-      "count": 427,
+      "count": 426,
       "default_on": false,
       "kind": "domains"
     },
@@ -9256,7 +9256,7 @@
       "id": "geosite-faceit",
       "name_ru": "geosite:faceit",
       "file": "geosite-faceit.lst",
-      "count": 2,
+      "count": 3,
       "default_on": false,
       "kind": "domains"
     },
@@ -9768,7 +9768,7 @@
       "id": "geosite-gfw",
       "name_ru": "geosite:gfw",
       "file": "geosite-gfw.lst",
-      "count": 4250,
+      "count": 4253,
       "default_on": false,
       "kind": "domains"
     },
